@@ -1,0 +1,8 @@
+{
+  "approval_ttl_hours": 48,
+  "blocked_identities": ["agent", "bot", "claude", "gpt", "grok", "cursor", "codex", "assistant", "service", "system", "cron", "ci", "pipeline", "automation", "model"],
+  "approvers": {
+    "rubia.naseem": {"name": "Rubia Naseem (RevOps owner)"},
+    "demo.reviewer": {"name": "Demo Reviewer (synthetic human, for the sample run)"}
+  }
+}

@@ -1,0 +1,15 @@
+outputs/*
+!outputs/demo_transcript.txt
+!outputs/eval_report.md
+!outputs/eval_results.json
+!outputs/failure_suite_report.md
+!outputs/run/
+outputs/run/*
+!outputs/run/change_report.md
+!outputs/run_seed2/
+outputs/run_seed2/*
+!outputs/run_seed2/change_report.md
+__pycache__/
+*.pyc
+.venv/
+.env

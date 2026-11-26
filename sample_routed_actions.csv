@@ -1,0 +1,12 @@
+action_id,account_id,routed_at,rules_version,score,signals,icp_tier,owner_id,arm,p_worked,open_opp_at_route
+s-01,acc-s01,2026-10-01T09:00:00Z,rules.v2,48.2,pricing_page_visit:1.2;intent_topic_surge:1.0,A,rep_amara,routed,0.92,false
+s-02,acc-s02,2026-10-10 14:30:00,v2,33.0,demo_page_visit:1.0;crm_email_reply:1.5,B,rep_farid,ROUTED,0.92,
+s-03,acc-s03,2026-10-02T10:00:00Z,rules.v2,41.0,product_signup:1.0;docs_visit:2.0,A,,control,0.92,false
+s-04,acc-s04,2026-10-05T08:15:00Z,rules.v2,29.5,hiring_gtm_ops:1.0;webinar_attended:1,5,C,rep_lena,routed,0.92,false
+s-05,acc-s05,2026-08-31T10:00:00Z,rules.v2,36.0,product_usage_spike:1.0;pricing_page_visit:0.8,B,rep_omar,routed,0.92,false
+s-06,acc-s06,2026-11-10T09:00:00Z,rules.v2,52.0,seat_limit_reached:1.0;demo_page_visit:1.0,B,rep_sana,routed,0.92,false
+s-07,acc-s07,2026-10-05T11:00:00Z,rules.v2,27.0,"webinar_attended:2,0;legacy_pixel:1.0;pricing_page_visit:1.0",A,rep_tomas,routed,0.92,false
+s-08,acc-s08,2026-10-12T13:00:00Z,rules.v2,12.0,blog_visit:1.0;docs_visit:1.0,B,rep_yuki,Explore,0.06,false
+s-01,acc-s01,2026-10-01T09:00:00Z,rules.v2,48.2,pricing_page_visit:1.2;intent_topic_surge:1.0,A,rep_amara,routed,0.92,false
+s-09,acc-s99,2026-10-12T13:00:00Z,rules.v2,40.0,pricing_page_visit:1.0;docs_visit:1.0,A,rep_amara,routed,0.92,false
+s-10,acc-s01,2026-10-13T13:00:00Z,rules.v2,40.0,pricing_page_visit:1.0;docs_visit:1.0,A,rep_amara,routed,,false

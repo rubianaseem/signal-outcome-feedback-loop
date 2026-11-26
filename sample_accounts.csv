@@ -1,0 +1,9 @@
+account_id,domain,domain_aliases,icp_tier,owner_id
+acc-s01,alpha-freight.example,,A,rep_amara
+acc-s02,brightwell.example,bw-health.example,B,rep_farid
+acc-s03,calder.example,,A,rep_dev
+acc-s04,delta-labs.example,,C,rep_lena
+acc-s05,echo-retail.example,,B,rep_omar
+acc-s06,foxglove.example,,B,rep_sana
+acc-s07,gamma-logistics.example,,A,rep_tomas
+acc-s08,harbor-bank.example,hbk.example,B,rep_yuki

@@ -1,0 +1,36 @@
+$ python agent.py run --now 2026-11-26T18:00:00Z
+run run-6891a55c4f04  model=none (deterministic rules)  gate=FAILED  weights_changed=5
+change set sha256: 6891a55c4f0462151aaa394974bfa376d4cc5becfb95abe40f3d84e21cc23558
+report: outputs/run/change_report.md
+(exit 0)
+
+$ python agent.py approve --approver rubia.naseem --sha256 6891a55c4f0462151aaa394974bfa376d4cc5becfb95abe40f3d84e21cc23558 --now 2026-11-26T18:00:00Z
+REFUSED: the backtest gate failed for this change set; it cannot be approved
+(exit 2)
+
+$ python agent.py run --world-seed 2 --out outputs/run_seed2 --now 2026-11-26T18:00:00Z
+run run-ba327e4178b6  model=none (deterministic rules)  gate=PASSED  weights_changed=5
+change set sha256: ba327e4178b681b2dbf266d74ab3cd52f9bfe853ac6f1e62d0010264835c4f3f
+report: outputs/run_seed2/change_report.md
+(exit 0)
+
+$ python agent.py approve --out outputs/run_seed2 --approver claude --sha256 ba327e4178b681b2dbf266d74ab3cd52f9bfe853ac6f1e62d0010264835c4f3f --now 2026-11-26T18:00:00Z
+REFUSED: 'claude' is an agent, model or service identity and can never approve
+(exit 2)
+
+$ python agent.py release --out outputs/run_seed2 --now 2026-11-26T18:00:00Z
+REFUSED: not approved: run `python agent.py approve` with a named approver and the change-set hash
+(exit 2)
+
+$ python agent.py approve --out outputs/run_seed2 --approver demo.reviewer --sha256 ba327e4178b681b2dbf266d74ab3cd52f9bfe853ac6f1e62d0010264835c4f3f --now 2026-11-26T18:00:00Z
+approved by Demo Reviewer (synthetic human, for the sample run) until 2026-11-28T18:00:00Z
+(exit 0)
+
+$ python agent.py release --out outputs/run_seed2 --now 2026-11-26T18:00:00Z
+released outputs/run_seed2/released/rules.v3.yaml (local file; nothing was written to any CRM)
+(exit 0)
+
+$ python agent.py verify-audit --out outputs/run_seed2
+audit.jsonl True ok (2 records)
+approvals.jsonl True ok (1 records)
+(exit 0)

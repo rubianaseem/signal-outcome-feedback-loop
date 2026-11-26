@@ -1,0 +1,23 @@
+# rules.v2 as released by revenue-signal-router slice 1 (weights and caps unchanged). The feedback loop proposes rules.v3 as a diff against this file.
+version: rules.v2
+thresholds:
+  route: 25
+  high: 70
+min_distinct_signal_types: 2
+account_cap: 100
+icp_multiplier: {A: 1.0, B: 0.85, C: 0.6}
+signals:
+  pricing_page_visit: {weight: 14, cap: 28}
+  demo_page_visit: {weight: 16, cap: 32}
+  docs_visit: {weight: 3, cap: 6}
+  blog_visit: {weight: 1, cap: 2}
+  product_signup: {weight: 15, cap: 30}
+  product_usage_spike: {weight: 18, cap: 36}
+  seat_limit_reached: {weight: 25, cap: 25}
+  intent_topic_surge: {weight: 10, cap: 20}
+  webinar_attended: {weight: 6, cap: 12}
+  crm_meeting_booked: {weight: 22, cap: 22}
+  crm_email_reply: {weight: 9, cap: 18}
+  hiring_gtm_ops: {weight: 10, cap: 10}
+  evaluating_alternatives: {weight: 15, cap: 15}
+  budget_confirmed: {weight: 18, cap: 18}

@@ -1,0 +1,10 @@
+{
+  "heldout_sha256": {
+    "actions.csv": "3327f7cccd53b83df3038bec0e437970b960d3cb15614c8da148af7c8460ac38",
+    "activities.csv": "59db154ddb342dafe1a5aa7010add577986f83c30ae0194fb47b95c1312f42f5",
+    "gold.csv": "aba72f53a36724ee55800867081f497c5114ebb2016479eb185cb437e2488fdb"
+  },
+  "note": "Hashed when the fixtures were built, before any attribution or re-weighting code read data/train.",
+  "split_date": "2026-09-28",
+  "unobserved_below_threshold_not_exported": 5394
+}

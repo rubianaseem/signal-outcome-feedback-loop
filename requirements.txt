@@ -1,0 +1,2 @@
+# The core runs on the Python standard library only (Python 3.10+). Nothing to install for offline mode.
+# Optional Claude path for classifying free-text rep notes: pip install -r requirements-optional.txt

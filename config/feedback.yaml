@@ -1,0 +1,23 @@
+# Attribution and re-weighting policy. Changing a value changes the change-set hash, so it is reviewed like any other edit.
+attribution:
+  window_days: 14                # opportunity must be created within this many days after routing
+  holiday_extension_days: 7      # window grows by this when routing falls inside a holiday window
+  maturity_days: 0               # extra days after the window before a row counts as mature
+  pre_existing_lookback_days: 60 # an opportunity created this long before routing means "already in pipeline"
+holidays:                        # company holiday windows (inclusive dates)
+  - {start: "2026-08-31", end: "2026-09-01"}
+  - {start: "2026-10-26", end: "2026-10-30"}
+reweight:
+  min_effective_n: 60            # per side (with / without the signal); below this a type is "insufficient evidence"
+  shrink: 0.5                    # move this fraction of the way to the evidence-implied weight
+  max_relative_step: 0.4         # a weight never moves more than 40 percent in one release
+  max_changes: 6                 # at most this many weights change per release
+  z: 1.96                        # interval width reported for every lift
+  change_z: 1.28                 # a weight changes only if the old implied lift is outside this narrower interval (chosen on a dev split inside train)
+  min_holdout_rows: 60           # no holdout, no proposal
+gate:
+  min_auc_gain: 0.0              # backtest AUC of v3 minus v2 must exceed this (point estimate) ...
+  require_ci_not_negative: true  # ... and the lower end of the paired bootstrap interval must be above -0.005
+sampling:
+  p_holdout: 0.08                # share of qualifying rows deliberately withheld from reps (random)
+  p_explore: 0.06                # share of below-threshold rows routed anyway (random)

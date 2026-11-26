@@ -1,0 +1,1296 @@
+action_id,account_id,routed_at,rules_version,score,signals,icp_tier,owner_id,arm,p_worked,open_opp_at_route
+a-002918,acc-5197,2026-09-30 17:50:00,rules.v2,44.6505,blog_visit:1.14;docs_visit:0.72;evaluating_alternatives:0.99;product_usage_spike:1.91,B,rep_yuki,routed,0.92,false
+a-002919,acc-7119,2026-09-28T10:04:00Z,v2,41.395,intent_topic_surge:0.97;product_signup:1.66;crm_email_reply:1.38;blog_visit:1.68,B,,Holdout,0.92,true
+a-002920,acc-3091,2026-10-01 17:08:00,rules.v2,25.878,demo_page_visit:1.11;intent_topic_surge:2.3;docs_visit:1.79,C,rep_yuki,ROUTED,0.92,false
+a-002921,acc-1598,2026-10-01T14:43:00Z,rules.v2,28.89,demo_page_visit:0.65;hiring_gtm_ops:1.11;product_signup:1.85,C,rep_lena, Routed,0.92,false
+a-002922,acc-7850,2026-09-28T08:45:00Z,rules.v2,41.752,product_usage_spike:1.34;hiring_gtm_ops:1.36;evaluating_alternatives:1.89,B,rep_sana,ROUTED,0.92,false
+a-002923,acc-0191,2026-10-01T17:48:00Z,rules.v2,27.99,webinar_attended:2.02;intent_topic_surge:0.49;blog_visit:2.07;product_signup:1.85,C,rep_dev,ROUTED,0.92,false
+a-002924,acc-0651,2026-09-30 12:58:00,rules.v2,30.294,pricing_page_visit:1.26;budget_confirmed:1.5,B,rep_sana,routed,0.92,
+a-002925,acc-1402,2026-09-29T09:50:00Z,v2,37.998,product_usage_spike:2.26;blog_visit:1.63;docs_visit:1.24;pricing_page_visit:1.57,C,rep_amara, Routed,0.92,false
+a-002926,acc-2231,2026-09-28T14:28:00Z,v2,32.283,docs_visit:1.7;intent_topic_surge:1.43;blog_visit:1.66;product_usage_spike:0.94,B,rep_farid,routed,0.92,false
+a-002927,acc-5119,1790776080000,v2,46.88,blog_visit:2.14;pricing_page_visit:0.92;demo_page_visit:2.2,A,rep_farid, Routed,0.92,false
+a-002928,acc-7634,2026-09-30 11:21:00,rules.v2,33.48,crm_meeting_booked:1.85;seat_limit_reached:1.19;intent_topic_surge:0.88,C,rep_farid,ROUTED,0.92,
+a-002929,acc-6750,2026-10-02T09:15:00Z,rules.v2,26.8,seat_limit_reached:0.56;blog_visit:2.34;docs_visit:2.11;intent_topic_surge:0.48,A,rep_lena,routed,0.92,
+a-002930,acc-7480,2026-10-02T14:22:00Z,rules.v2,25.02,product_signup:1.6;evaluating_alternatives:1.12;docs_visit:0.9,C,rep_omar,routed,0.92,false
+a-002931,acc-4828,2026-10-02 14:51:00,v2,41.9135,pricing_page_visit:1.37;crm_email_reply:0.57;product_signup:1.0;hiring_gtm_ops:2.02,B,rep_yuki,routed,0.92,false
+a-002932,acc-4382,1790790900000,v2,44.61,pricing_page_visit:1.24;crm_email_reply:1.45;intent_topic_surge:1.42;legacy_pixel:1.0,A,rep_sana,routed,0.92,
+a-002933,acc-7536,2026-10-01T09:36:00Z,rules.v2,41.81,product_signup:0.47;pricing_page_visit:1.29;intent_topic_surge:1.67,A,rep_dev,ROUTED,0.92,false
+a-002934,acc-6887,2026-09-30 10:11:00,rules.v2,71.94,intent_topic_surge:2.2;crm_meeting_booked:1.81;product_usage_spike:1.33;docs_visit:2.3,A,rep_omar,routed,0.92,false
+a-002935,acc-3645,2026-10-02T09:24:00Z,rules.v2,34.59,intent_topic_surge:1.66;product_usage_spike:0.45;pricing_page_visit:0.63;blog_visit:1.07,A,rep_farid,routed,0.92,false
+a-002936,acc-2758,2026-10-02T14:16:00Z,rules.v2,40.97,seat_limit_reached:1.4;webinar_attended:2.34;intent_topic_surge:1.12,B,rep_dev, Routed,0.92,false
+a-002937,acc-5453,2026-09-29 12:48:00,rules.v2,58.73,pricing_page_visit:2.14;seat_limit_reached:0.88;crm_email_reply:0.97,A,rep_dev,routed,0.92,false
+a-002938,acc-0354,2026-09-28 08:32:00,v2,32.0875,budget_confirmed:1.98;intent_topic_surge:1.87;blog_visit:1.05,B,rep_sana, Routed,0.92,false
+a-002939,acc-7838,2026-10-02T12:24:00Z,rules.v2,33.0395,blog_visit:2.2;pricing_page_visit:1.71;intent_topic_surge:0.9;docs_visit:1.31,B,rep_amara, Routed,0.92,false
+a-002940,acc-6031,2026-10-01T17:40:00Z,rules.v2,52.0,crm_meeting_booked:2.32;product_signup:2.31,A,,holdout,0.92,false
+a-002941,acc-6132,2026-10-01 11:29:00,rules.v2,25.738,intent_topic_surge:0.83;pricing_page_visit:1.57,B,rep_omar,ROUTED,0.92,false
+a-002942,acc-6283,2026-09-28T14:48:00Z,rules.v2,25.755,hiring_gtm_ops:0.95;intent_topic_surge:0.61;pricing_page_visit:1.05,B,rep_yuki,routed,0.92,false
+a-002943,acc-6440,2026-09-29T11:11:00Z,rules.v2,31.1865,crm_meeting_booked:1.6;demo_page_visit:0.44;crm_email_reply:0.85,B,rep_tomas, Routed,0.92,false
+a-002944,acc-7556,2026-10-01T10:57:00Z,v2,43.87,docs_visit:1.53;demo_page_visit:1.63;product_signup:0.88,A,rep_dev,ROUTED,0.92,false
+a-002945,acc-1350,2026-09-30T14:59:00Z,rules.v2,40.5875,pricing_page_visit:2.31;seat_limit_reached:0.79,,rep_farid,routed,0.92,false
+a-002946,acc-4253,2026-10-01T10:01:00Z,rules.v2,44.02,blog_visit:1.96;docs_visit:0.79;crm_email_reply:1.21;product_usage_spike:1.6,A,rep_amara,ROUTED,0.92,false
+a-002947,acc-2153,2026-10-02T17:00:00Z,rules.v2,38.82,product_usage_spike:1.72;webinar_attended:1.31,A,rep_dev,ROUTED,0.92,true
+a-002948,acc-1455,2026-10-01 08:09:00,rules.v2,41.1,evaluating_alternatives:1.61;product_signup:1.74,A,rep_amara,routed,0.92,true
+a-002949,acc-2277,2026-09-29 09:18:00,v2,26.016,pricing_page_visit:1.3;intent_topic_surge:2.17;webinar_attended:0.86,C,rep_omar,routed,0.92,false
+a-002950,acc-6125,2026-09-28T12:09:00Z,v2,27.25,hiring_gtm_ops:1.86;seat_limit_reached:0.69,A,rep_sana,ROUTED,0.92,false
+a-002951,acc-1441,2026-09-30 08:48:00,rules.v2,27.936,docs_visit:1.88;crm_email_reply:1.28;intent_topic_surge:1.74;webinar_attended:2.25,C,rep_dev,routed,0.92,false
+a-002952,acc-0359,2026-09-28 15:48:00,rules.v2,32.3,intent_topic_surge:2.09;budget_confirmed:1.21,B,rep_farid,routed,0.92,false
+a-002953,acc-0150,2026-10-02T12:25:00Z,rules.v2,29.22,pricing_page_visit:2.29;product_signup:1.38,C,rep_lena,routed,0.92,
+a-002954,acc-1892,2026-09-29T10:14:00Z,rules.v2,34.068,crm_email_reply:1.92;pricing_page_visit:1.2;docs_visit:2.21,B,rep_dev,ROUTED,0.92,true
+a-002955,acc-0729,2026-10-01T14:38:00Z,v2,31.69,blog_visit:1.69;product_signup:2.1,A,rep_omar,routed,0.92,false
+a-002956,acc-7833,2026-10-02T17:53:00Z,v2,12.312,crm_email_reply:2.2;docs_visit:0.84,C,rep_sana,explore,0.06,false
+a-002957,acc-7606,2026-10-01 14:17:00,v2,38.6155,demo_page_visit:2.34;docs_visit:1.63;pricing_page_visit:0.61,B,rep_tomas,ROUTED,0.92,
+a-002958,acc-5932,2026-09-30T16:24:00Z,rules.v2,32.5,intent_topic_surge:0.82;product_signup:1.62,A,rep_omar, Routed,0.92,
+a-002959,acc-4924,1790847300000,v2,0.55,blog_visit:0.55,A,rep_yuki,explore,0.06,false
+a-002960,acc-4956,2026-10-01T16:22:00Z,v2,55.3435,product_usage_spike:2.08;blog_visit:1.71;pricing_page_visit:1.1;webinar_attended:2.04,B,rep_omar,routed,0.92,false
+a-002961,acc-0223,2026-09-28T10:53:00Z,v2,30.42,crm_email_reply:0.4;seat_limit_reached:1.45;blog_visit:1.82,A,rep_farid, Routed,0.92,false
+a-002962,acc-0301,2026-10-02 12:46:00,v2,12.41,blog_visit:0.41;webinar_attended:2.37,A,rep_tomas,explore,0.06,true
+a-002963,acc-6122,1790595840000,v2,71.128,demo_page_visit:2.27;product_signup:1.9;webinar_attended:1.25;pricing_page_visit:1.12,B,rep_sana,ROUTED,0.92,false
+a-002964,acc-4906,2026-10-02 11:01:00,rules.v2,54.02,intent_topic_surge:2.39;product_usage_spike:1.89,A,rep_yuki, Routed,0.92,false
+a-002965,acc-7670,2026-10-04T08:00:00Z,rules.v2,51.238,webinar_attended:0.94;demo_page_visit:1.54;product_signup:2.31,B,rep_sana, Routed,0.92,false
+a-002966,acc-7344,2026-09-29T08:43:00Z,rules.v2,35.0965,blog_visit:1.74;product_signup:1.17;crm_meeting_booked:1.61,B,rep_sana, Routed,0.92,false
+a-002967,acc-5675,2026-09-30T17:56:00Z,rules.v2,36.805,intent_topic_surge:0.81;budget_confirmed:0.47;pricing_page_visit:1.91,B,rep_tomas,ROUTED,0.92,false
+a-002968,acc-5962,2026-09-29 10:57:00,rules.v2,42.468,intent_topic_surge:2.15;pricing_page_visit:0.69;product_usage_spike:1.59;seat_limit_reached:0.5,C,rep_dev,routed,0.92,false
+a-002969,acc-3675,2026-10-04T14:49:00Z,rules.v2,31.73,product_signup:1.42;blog_visit:0.53;hiring_gtm_ops:0.99,A,rep_farid,ROUTED,0.92,
+a-002970,acc-1973,2026-10-02T14:04:00Z,rules.v2,49.47,product_signup:0.68;crm_email_reply:2.33;blog_visit:2.15;pricing_page_visit:2.07,B,rep_amara, Routed,0.92,false
+a-002971,acc-6942,1790960520000,rules.v2,58.82,product_signup:1.42;crm_email_reply:0.48;pricing_page_visit:0.8;crm_meeting_booked:1.61,A,rep_tomas, Routed,0.92,false
+a-002972,acc-3694,2026-09-28T16:21:00Z,rules.v2,43.34,evaluating_alternatives:0.96;docs_visit:0.58;webinar_attended:2.36;demo_page_visit:0.95,A,rep_sana, Routed,0.92,false
+a-002973,acc-7197,1790864880000,v2,45.6195,intent_topic_surge:0.79;product_signup:0.81;demo_page_visit:1.2;pricing_page_visit:1.03,B,rep_tomas, Routed,0.92,false
+a-002974,acc-0526,1790946360000,v2,36.52,docs_visit:2.22;demo_page_visit:0.67;product_usage_spike:1.1,A,rep_omar,ROUTED,0.92,false
+a-002975,acc-1530,1790603700000,rules.v2,31.42,hiring_gtm_ops:1.73;pricing_page_visit:1.53,A,rep_lena,routed,0.92,false
+a-002976,acc-4916,2026-10-02T17:58:00Z,rules.v2,45.101,webinar_attended:1.95;product_usage_spike:1.57;intent_topic_surge:1.31,B,rep_tomas,routed,0.92,false
+a-002977,acc-7916,2026-10-02T14:19:00Z,v2,48.1695,product_signup:0.56;hiring_gtm_ops:0.65;pricing_page_visit:2.35;crm_email_reply:1.53,B,rep_yuki, Routed,0.92,true
+a-002978,acc-5898,1790786520000,rules.v2,30.76,webinar_attended:1.46;crm_meeting_booked:2.31,A,rep_yuki,routed,0.92,false
+a-002979,acc-0416,2026-09-29T08:44:00Z,v2,17.214,seat_limit_reached:2.03;blog_visit:1.17;webinar_attended:0.42,C,rep_farid,explore,0.06,false
+a-002980,acc-1579,2026-09-28 09:40:00,rules.v2,70.18,product_usage_spike:1.97;demo_page_visit:1.09;blog_visit:1.46;pricing_page_visit:1.13,A,rep_yuki,routed,0.92,false
+a-002981,acc-1502,2026-09-29T10:41:00Z,rules.v2,26.448,product_usage_spike:1.99;pricing_page_visit:0.59,C,rep_lena,routed,0.92,false
+a-002982,acc-3436,2026-10-02T13:46:00Z,rules.v2,20.604,crm_email_reply:0.72;demo_page_visit:1.11,B,rep_omar,Explore,0.06,true
+a-002983,acc-0568,2026-09-29 11:32:00,rules.v2,46.93,intent_topic_surge:1.01;evaluating_alternatives:1.91;docs_visit:1.21;pricing_page_visit:1.3,A,rep_lena, Routed,0.92,false
+a-002984,acc-6239,2026-09-30T13:37:00Z,rules.v2,67.3115,product_signup:1.67;demo_page_visit:1.3;pricing_page_visit:2.37;webinar_attended:0.89,B,rep_amara,routed,0.92,false
+a-002985,acc-0163,1790755620000,v2,66.3,seat_limit_reached:1.99;intent_topic_surge:1.13;product_signup:2.3,A,rep_tomas,routed,0.92,true
+a-002986,acc-2261,2026-09-28T10:51:00Z,v2,51.221,webinar_attended:2.06;demo_page_visit:1.97;crm_email_reply:1.86,B,rep_tomas, Routed,0.92,false
+a-002987,acc-2053,2026-09-30T15:19:00Z,rules.v2,46.8,webinar_attended:1.8;product_usage_spike:2.3,,rep_yuki,routed,0.92,false
+a-002988,acc-5095,2026-10-01T15:39:00Z,rules.v2,25.1,hiring_gtm_ops:0.71;budget_confirmed:2.09,A,rep_yuki,routed,0.92,false
+a-002989,acc-7767,2026-10-01T15:36:00Z,rules.v2,55.573,budget_confirmed:0.75;product_signup:1.46;crm_meeting_booked:1.22;webinar_attended:1.33,B,rep_omar, Routed,0.92,false
+a-002990,acc-5389,2026-09-28T13:09:00Z,rules.v2,5.1,docs_visit:2.4,B,rep_tomas,explore,0.06,true
+a-002991,acc-4000,2026-09-29 15:04:00,rules.v2,57.62,webinar_attended:0.41;product_usage_spike:0.97;intent_topic_surge:1.67;product_signup:1.4,A,rep_yuki,routed,0.92,false
+a-002992,acc-5435,2026-09-29T11:58:00Z,v2,51.6,product_usage_spike:1.56;demo_page_visit:1.47,A,rep_tomas,routed,0.92,false
+a-002993,acc-1355,2026-10-02T08:52:00Z,rules.v2,27.2,blog_visit:2.28;product_signup:2.15,B,rep_sana,routed,0.92,false
+a-002994,acc-3854,2026-09-30T10:10:00Z,rules.v2,29.7755,docs_visit:0.71;pricing_page_visit:2.18;hiring_gtm_ops:0.49,B,rep_tomas,routed,0.92,
+a-002995,acc-5672,2026-09-28T10:07:00Z,rules.v2,26.21,blog_visit:1.61;product_signup:1.64,A,rep_omar, Routed,0.92,
+a-002996,acc-1742,2026-10-02T11:04:00Z,rules.v2,18.0,crm_meeting_booked:1.52;blog_visit:2.21;docs_visit:2.22,C,rep_sana,explore,0.06,false
+a-002997,acc-7209,2026-10-02T14:34:00Z,v2,47.685,product_signup:1.74;webinar_attended:2.01;crm_email_reply:2.34,B,rep_dev,routed,0.92,true
+a-002998,acc-6740,2026-09-29 14:51:00,rules.v2,51.62,product_usage_spike:0.46;demo_page_visit:2.29;pricing_page_visit:0.81,A,rep_amara, Routed,0.92,false
+a-002999,acc-6095,2026-09-29 11:14:00,rules.v2,47.243,product_signup:1.22;webinar_attended:0.8;demo_page_visit:0.42;pricing_page_visit:1.84,B,rep_lena,routed,0.92,false
+a-003000,acc-3157,2026-09-30T17:26:00Z,rules.v2,65.025,product_signup:1.62;pricing_page_visit:1.35;intent_topic_surge:0.83;seat_limit_reached:1.54,B,rep_yuki, Routed,0.92,false
+a-003001,acc-4438,1790938140000,rules.v2,26.2905,demo_page_visit:1.62;docs_visit:1.67,B,rep_dev,ROUTED,0.92,false
+a-003002,acc-2885,2026-10-02T11:57:00Z,v2,47.68,webinar_attended:2.0;pricing_page_visit:1.12;intent_topic_surge:2.17,A,rep_tomas,ROUTED,0.92,false
+a-003003,acc-4098,2026-10-04T17:09:00Z,rules.v2,29.971,crm_email_reply:1.74;pricing_page_visit:1.4,B,rep_farid,routed,0.92,
+a-003004,acc-0917,1791123360000,rules.v2,36.87,evaluating_alternatives:1.44;docs_visit:1.77;budget_confirmed:0.92,A,rep_lena,routed,0.92,false
+a-003005,acc-1600,2026-09-28T09:18:00Z,rules.v2,37.716,docs_visit:1.15;product_signup:1.69;product_usage_spike:0.57;pricing_page_visit:1.7,C,rep_tomas,ROUTED,0.92,false
+a-003006,acc-5440,2026-09-28T15:46:00Z,rules.v2,37.64,pricing_page_visit:1.4;intent_topic_surge:0.49;crm_meeting_booked:0.54;docs_visit:0.42,A,rep_dev,routed,0.92,
+a-003007,acc-6113,2026-09-29T17:26:00Z,rules.v2,52.66,blog_visit:2.09;pricing_page_visit:1.24;seat_limit_reached:2.15;intent_topic_surge:0.83,A,rep_amara, Routed,0.92,false
+a-003008,acc-7580,2026-09-30T10:33:00Z,rules.v2,29.664,product_usage_spike:1.93;blog_visit:0.54;webinar_attended:1.16;demo_page_visit:0.45,C,rep_dev,routed,0.92,false
+a-003009,acc-3680,2026-09-29T10:11:00Z,rules.v2,32.0025,intent_topic_surge:1.74;product_usage_spike:0.7;webinar_attended:0.55;docs_visit:1.45,,rep_yuki, Routed,0.92,false
+a-003010,acc-0695,2026-09-30T09:34:00Z,rules.v2,33.83,demo_page_visit:1.55;evaluating_alternatives:2.08,B,rep_yuki,routed,0.92,false
+a-003011,acc-2538,2026-09-28T13:52:00Z,v2,32.13,blog_visit:1.8;docs_visit:2.14;product_signup:2.04,B,rep_sana,routed,0.92,false
+a-003012,acc-0389,2026-10-03T08:18:00Z,rules.v2,26.71,product_usage_spike:0.57;pricing_page_visit:0.58;blog_visit:0.73;hiring_gtm_ops:0.76,A,rep_tomas,ROUTED,0.92,
+a-003013,acc-1561,2026-09-30T15:10:00Z,rules.v2,40.8255,crm_email_reply:1.49;pricing_page_visit:1.23;product_signup:1.16,B,rep_omar,ROUTED,0.92,true
+a-003014,acc-3155,2026-09-30T08:28:00Z,v2,44.9565,crm_email_reply:1.74;pricing_page_visit:0.83;intent_topic_surge:2.13;docs_visit:1.87,B,rep_lena,ROUTED,0.92,
+a-003015,acc-5444,2026-09-30T13:47:00Z,v2,63.82,intent_topic_surge:1.36;blog_visit:1.48;product_usage_spike:1.97;demo_page_visit:0.83,A,rep_dev, Routed,0.92,false
+a-003016,acc-0736,2026-09-30T13:24:00Z,rules.v2,33.18,webinar_attended:1.44;demo_page_visit:1.32;pricing_page_visit:1.11;hiring_gtm_ops:1.35,C,rep_omar,ROUTED,0.92,false
+a-003017,acc-2045,2026-09-28T14:15:00Z,rules.v2,12.0,intent_topic_surge:2.04,C,rep_amara,explore,0.06,
+a-003018,acc-2581,2026-10-01T11:44:00Z,v2,25.278,blog_visit:1.68;product_signup:0.47;docs_visit:1.8;pricing_page_visit:2.25,C,rep_sana,routed,0.92,false
+a-003019,acc-6439,2026-09-30 08:49:00,rules.v2,9.89,blog_visit:1.63;pricing_page_visit:0.59,A,rep_amara,explore,0.06,false
+a-003020,acc-0086,2026-09-30T09:07:00Z,rules.v2,36.348,evaluating_alternatives:2.18;webinar_attended:0.71;product_usage_spike:0.88;pricing_page_visit:1.82,C,rep_farid, Routed,0.92,
+a-003021,acc-5161,2026-10-01T13:22:00Z,rules.v2,50.1,demo_page_visit:1.25;seat_limit_reached:1.59;docs_visit:1.7,A,rep_sana,ROUTED,0.92,false
+a-003022,acc-6540,2026-10-03 13:28:00,rules.v2,45.6705,product_usage_spike:1.26;intent_topic_surge:1.98;evaluating_alternatives:0.75,B,rep_amara, Routed,0.92,true
+a-003023,acc-2797,2026-09-30T14:02:00Z,v2,41.1485,blog_visit:0.64;webinar_attended:1.54;product_signup:0.87;pricing_page_visit:1.82,B,rep_yuki, Routed,0.92,false
+a-003024,acc-7039,2026-09-30 12:54:00,rules.v2,5.16,webinar_attended:0.86,A,rep_dev,explore,0.06,false
+a-003025,acc-5683,2026-09-30T13:10:00Z,v2,42.1175,product_usage_spike:2.27;pricing_page_visit:0.76;docs_visit:0.97,B,rep_amara,routed,0.92,
+a-003026,acc-2810,2026-09-28T08:44:00Z,v2,30.46,seat_limit_reached:1.56;docs_visit:1.82,A,rep_amara, Routed,0.92,false
+a-003027,acc-0961,2026-10-01 12:39:00,rules.v2,41.157,product_usage_spike:1.58;webinar_attended:1.68;intent_topic_surge:0.99,B,rep_amara,ROUTED,0.92,false
+a-003028,acc-5452,2026-09-29T12:51:00Z,v2,10.566,product_usage_spike:0.89;docs_visit:0.53,C,rep_farid,explore,0.06,
+a-003029,acc-0434,2026-09-30T11:16:00Z,rules.v2,28.96,blog_visit:0.96;hiring_gtm_ops:2.14;budget_confirmed:2.25,A,rep_yuki,ROUTED,0.92,false
+a-003030,acc-3981,2026-10-02 08:26:00,rules.v2,39.012,product_usage_spike:2.31;product_signup:1.64;blog_visit:0.64;crm_email_reply:0.42,C,rep_yuki,ROUTED,0.92,true
+a-003031,acc-5655,2026-10-03T11:31:00Z,rules.v2,45.9,product_usage_spike:2.37;crm_email_reply:2.21,B,rep_dev, Routed,0.92,
+a-003032,acc-5413,2026-09-29T17:37:00Z,v2,12.366,docs_visit:1.08;intent_topic_surge:1.67;blog_visit:0.67,C,rep_dev,Explore,0.06,false
+a-003033,acc-6212,2026-09-28T13:51:00Z,rules.v2,33.702,seat_limit_reached:1.45;docs_visit:1.24;product_signup:1.83,C,rep_dev,routed,0.92,false
+a-003034,acc-1695,2026-09-29T10:13:00Z,rules.v2,8.211,pricing_page_visit:0.69,B,rep_lena,explore,0.06,false
+a-003035,acc-4322,2026-09-28T12:40:00Z,rules.v2,27.26,pricing_page_visit:1.91;blog_visit:0.52,A,rep_farid,routed,0.92,false
+a-003036,acc-6840,2026-09-28 10:55:00,v2,36.37,blog_visit:1.83;docs_visit:0.94;pricing_page_visit:2.19;webinar_attended:0.62,A,rep_lena,routed,0.92,false
+a-003037,acc-1870,1790787120000,v2,14.229,docs_visit:1.68;crm_email_reply:1.3,B,rep_farid,Explore,0.06,false
+a-003038,acc-3486,2026-09-30T08:39:00Z,rules.v2,46.59,docs_visit:1.8;crm_meeting_booked:0.6;product_usage_spike:0.92;crm_email_reply:1.27,,rep_lena, Routed,0.92,false
+a-003039,acc-6418,2026-09-28T12:56:00Z,rules.v2,30.876,crm_meeting_booked:0.78;blog_visit:1.15;crm_email_reply:2.03;product_signup:1.01,C,rep_lena,ROUTED,0.92,false
+a-003040,acc-6793,2026-09-29T10:53:00Z,v2,38.64,product_signup:1.96;webinar_attended:0.64;intent_topic_surge:0.54,A,rep_tomas, Routed,0.92,false
+a-003041,acc-1139,2026-10-02T12:43:00Z,v2,46.34,demo_page_visit:1.82;pricing_page_visit:1.23,A,rep_omar,routed,0.92,false
+a-003042,acc-6490,1790692980000,v2,32.256,intent_topic_surge:0.51;product_signup:1.0;webinar_attended:1.08;product_usage_spike:1.51,C,rep_yuki,routed,0.92,false
+a-003043,acc-2966,2026-09-28T11:46:00Z,rules.v2,61.2,demo_page_visit:2.37;seat_limit_reached:1.22;evaluating_alternatives:1.6,B,rep_tomas,routed,0.92,false
+a-003044,acc-6326,2026-10-01T09:56:00Z,v2,56.71,crm_email_reply:2.31;intent_topic_surge:1.31;demo_page_visit:1.57;blog_visit:0.49,A,rep_farid,routed,0.92,
+a-003045,acc-1297,2026-09-28 15:30:00,rules.v2,47.022,product_signup:2.2;intent_topic_surge:1.52;pricing_page_visit:0.58;blog_visit:2.17,B,,Holdout,0.92,false
+a-003046,acc-2351,2026-09-29T13:50:00Z,v2,48.96,pricing_page_visit:1.58;docs_visit:0.48;intent_topic_surge:1.76;product_signup:0.52,A,rep_lena, Routed,0.92,false
+a-003047,acc-3693,2026-09-28T14:06:00Z,rules.v2,25.2,intent_topic_surge:2.27;webinar_attended:1.1;pricing_page_visit:1.1,C,rep_omar,routed,0.92,false
+a-003048,acc-7136,2026-09-29T13:59:00Z,rules.v2,42.33,intent_topic_surge:0.99;crm_email_reply:0.92;product_signup:2.31;docs_visit:0.54,B,rep_omar,routed,0.92,true
+a-003049,acc-5882,1790760060000,rules.v2,32.802,product_signup:1.24;blog_visit:1.61;evaluating_alternatives:1.67;pricing_page_visit:1.39,C,rep_lena, Routed,0.92,false
+a-003050,acc-7046,2026-09-29T08:28:00Z,v2,43.146,product_usage_spike:1.95;crm_email_reply:1.74,B,rep_farid,ROUTED,0.92,
+a-003051,acc-0310,2026-09-29T11:27:00Z,v2,66.7675,product_signup:2.22;crm_email_reply:1.95;seat_limit_reached:1.48;docs_visit:2.19,B,,Holdout,0.92,false
+a-003052,acc-2251,2026-09-30T11:51:00Z,rules.v2,25.0665,product_signup:1.03;docs_visit:0.42;product_usage_spike:0.71,B,rep_omar,routed,0.92,
+a-003053,acc-2409,2026-09-29T16:49:00Z,rules.v2,26.49,product_signup:0.62;crm_email_reply:1.91,A,rep_amara, Routed,0.92,false
+a-003054,acc-1666,2026-09-29T14:45:00Z,rules.v2,38.1,crm_meeting_booked:1.12;intent_topic_surge:1.61,A,rep_yuki,ROUTED,0.92,false
+a-003055,acc-2616,2026-09-30 17:51:00,rules.v2,36.244,pricing_page_visit:1.76;crm_email_reply:2.21,,rep_lena,routed,0.92,
+a-003056,acc-7001,2026-10-03 09:57:00,rules.v2,44.2255,crm_email_reply:1.47;product_signup:1.12;crm_meeting_booked:2.3,B,rep_lena,routed,0.92,false
+a-003057,acc-3513,2026-09-28 11:55:00,rules.v2,36.6435,blog_visit:1.07;product_usage_spike:0.78;pricing_page_visit:2.11,B,rep_tomas,ROUTED,0.92,false
+a-003058,acc-0869,2026-10-01T14:27:00Z,v2,18.756,hiring_gtm_ops:2.18;blog_visit:0.74;product_usage_spike:1.14,C,rep_dev,explore,0.06,false
+a-003059,acc-1016,2026-09-28T12:47:00Z,v2,60.0,docs_visit:2.4;product_usage_spike:2.18;crm_email_reply:2.3,A,rep_dev,ROUTED,0.92,true
+a-003060,acc-2925,2026-10-01T13:09:00Z,rules.v2,39.84,demo_page_visit:1.56;webinar_attended:1.48;docs_visit:2.06,A,rep_farid, Routed,0.92,false
+a-003061,acc-6458,2026-09-28 11:08:00,rules.v2,47.4895,seat_limit_reached:1.94;demo_page_visit:1.27;intent_topic_surge:0.87;blog_visit:1.85,B,rep_farid, Routed,0.92,false
+a-003062,acc-4836,2026-09-29T17:54:00Z,v2,39.23,blog_visit:0.57;hiring_gtm_ops:1.65;pricing_page_visit:1.19;webinar_attended:2.15,A,rep_amara, Routed,0.92,false
+a-003063,acc-0572,2026-09-30T15:25:00Z,rules.v2,31.943,product_usage_spike:2.17;blog_visit:1.58,B,rep_farid, Routed,0.92,false
+a-003064,acc-3215,2026-09-30T17:55:00Z,v2,40.31,pricing_page_visit:0.52;product_signup:2.38;docs_visit:1.01,A,rep_dev,routed,0.92,false
+a-003065,acc-2796,2026-10-01T08:10:00Z,v2,28.47,pricing_page_visit:2.11;blog_visit:0.47,A,rep_lena,routed,0.92,false
+a-003066,acc-4193,2026-10-01T13:43:00Z,v2,40.16,intent_topic_surge:2.14;pricing_page_visit:1.33;blog_visit:1.54,A,rep_lena, Routed,0.92,false
+a-003067,acc-1375,2026-09-30T17:34:00Z,rules.v2,51.51,product_signup:1.34;crm_email_reply:1.58;product_usage_spike:1.46,B,rep_tomas,ROUTED,0.92,false
+a-003068,acc-5343,2026-10-01T09:16:00Z,rules.v2,26.605,intent_topic_surge:1.33;crm_email_reply:2.33,B,rep_omar,ROUTED,0.92,
+a-003069,acc-1612,2026-10-02T14:11:00Z,v2,35.955,product_usage_spike:0.91;docs_visit:1.64;product_signup:1.4,B,rep_tomas,routed,0.92,false
+a-003070,acc-2975,2026-10-02T16:23:00Z,v2,36.41,hiring_gtm_ops:1.39;blog_visit:1.63;pricing_page_visit:1.77,A,rep_sana,ROUTED,0.92,false
+a-003071,acc-6372,2026-09-30T14:40:00Z,rules.v2,28.06,blog_visit:1.14;crm_meeting_booked:2.4;docs_visit:1.64,A,rep_yuki,ROUTED,0.92,true
+a-003072,acc-3246,1790605320000,v2,26.44,blog_visit:1.4;docs_visit:2.38;pricing_page_visit:1.36,A,rep_amara,routed,0.92,false
+a-003073,acc-2889,2026-10-02 10:42:00,rules.v2,48.8495,demo_page_visit:1.98;docs_visit:2.08;evaluating_alternatives:0.47;pricing_page_visit:0.91,B,rep_tomas,ROUTED,0.92,false
+a-003074,acc-4510,2026-10-04T14:06:00Z,v2,34.867,pricing_page_visit:1.78;intent_topic_surge:1.61,B,,holdout,0.92,false
+a-003075,acc-6116,2026-09-28T13:04:00Z,rules.v2,52.7,product_signup:2.37;demo_page_visit:2.0,B,rep_lena,routed,0.92,
+a-003076,acc-0556,2026-09-28T09:19:00Z,rules.v2,53.482,blog_visit:1.42;product_usage_spike:2.09;product_signup:1.7,B,rep_yuki,routed,0.92,true
+a-003077,acc-7387,2026-10-02T10:08:00Z,rules.v2,33.99,product_signup:0.73;pricing_page_visit:2.12;intent_topic_surge:1.77,C,rep_omar,ROUTED,0.92,false
+a-003078,acc-5056,2026-09-28T14:34:00Z,v2,28.152,pricing_page_visit:1.78;crm_meeting_booked:1.2,C,rep_yuki, Routed,0.92,
+a-003079,acc-7587,2026-10-01T12:41:00Z,rules.v2,42.6,intent_topic_surge:1.1;demo_page_visit:1.81;docs_visit:0.88,A,,Holdout,0.92,false
+a-003080,acc-5518,2026-09-28T17:10:00Z,rules.v2,32.929,docs_visit:1.08;crm_meeting_booked:1.16;product_usage_spike:0.75,B,,holdout,0.92,true
+a-003081,acc-1940,2026-09-28T11:35:00Z,rules.v2,25.47,docs_visit:0.71;budget_confirmed:1.61;crm_email_reply:1.78;product_signup:0.42,C,rep_amara,routed,0.92,true
+a-003082,acc-4702,2026-09-28T10:51:00Z,v2,34.952,docs_visit:2.11;seat_limit_reached:1.25;blog_visit:2.27;pricing_page_visit:0.58,B,rep_farid,routed,0.92,false
+a-003083,acc-7905,1790591460000,rules.v2,37.92,blog_visit:2.25;webinar_attended:1.96;product_signup:1.46;product_usage_spike:1.53,C,rep_farid,routed,0.92,false
+a-003084,acc-0515,2026-09-29 16:42:00,rules.v2,45.66,pricing_page_visit:1.7;blog_visit:2.4;budget_confirmed:0.84;docs_visit:1.58,A,rep_dev,ROUTED,0.92,false
+a-003085,acc-5919,2026-09-28T10:21:00Z,rules.v2,83.47,demo_page_visit:2.13;intent_topic_surge:1.76;crm_email_reply:0.43;product_signup:2.2,A,rep_yuki,routed,0.92,
+a-003086,acc-0091,2026-10-02T15:28:00Z,rules.v2,26.248,demo_page_visit:0.7;webinar_attended:1.28;intent_topic_surge:1.2,B,rep_lena,routed,0.92,false
+a-003087,acc-7402,2026-10-02T14:53:00Z,rules.v2,28.526,intent_topic_surge:0.59;demo_page_visit:0.49;crm_email_reply:2.35;blog_visit:1.82,B,rep_omar, Routed,0.92,
+a-003088,acc-5424,2026-09-28T12:38:00Z,rules.v2,27.0895,docs_visit:2.39;crm_email_reply:0.67;demo_page_visit:1.24,B,rep_lena,routed,0.92,false
+a-003089,acc-1915,2026-09-29 16:37:00,rules.v2,70.74,budget_confirmed:0.5;crm_email_reply:2.29;product_signup:1.74;product_usage_spike:0.98,A,rep_farid,routed,0.92,false
+a-003090,acc-5849,2026-10-02T16:05:00Z,rules.v2,29.76,demo_page_visit:0.96;webinar_attended:1.68;crm_email_reply:0.48,A,,Holdout,0.92,
+a-003091,acc-0725,2026-09-29T16:28:00Z,rules.v2,21.42,intent_topic_surge:0.99;crm_email_reply:1.7,B,rep_omar,explore,0.06,
+a-003092,acc-2101,2026-09-28T14:20:00Z,v2,27.6,intent_topic_surge:0.48;webinar_attended:2.13;product_usage_spike:0.6,A,rep_sana, Routed,0.92,false
+a-003093,acc-4012,2026-10-01T14:32:00Z,rules.v2,29.07,pricing_page_visit:1.4;intent_topic_surge:1.46,B,rep_amara,routed,0.92,false
+a-003094,acc-7971,2026-09-29T16:21:00Z,rules.v2,64.28,product_signup:0.94;product_usage_spike:1.25;intent_topic_surge:2.12;webinar_attended:1.28;legacy_pixel:1.0,A,rep_farid,routed,0.92,false
+a-003095,acc-7248,2026-10-02T12:54:00Z,rules.v2,39.42,docs_visit:2.38;crm_meeting_booked:2.28;product_usage_spike:2.03;blog_visit:1.7,C,rep_amara,routed,0.92,false
+a-003096,acc-3462,2026-10-01T14:35:00Z,v2,50.26,crm_meeting_booked:1.87;blog_visit:1.46;pricing_page_visit:0.9;intent_topic_surge:1.42,A,rep_omar,routed,0.92,true
+a-003097,acc-7735,2026-10-01T10:37:00Z,v2,34.0,pricing_page_visit:2.2;docs_visit:2.17,A,rep_amara,routed,0.92,false
+a-003098,acc-1146,2026-09-30T12:10:00Z,rules.v2,29.5035,crm_email_reply:1.99;product_usage_spike:0.6;docs_visit:2.13,B,rep_yuki,ROUTED,0.92,false
+a-003099,acc-6486,2026-09-30T13:06:00Z,v2,34.44,demo_page_visit:0.59;seat_limit_reached:1.09,A,rep_yuki,ROUTED,0.92,true
+a-003100,acc-5555,2026-10-02T15:12:00Z,v2,31.6625,product_signup:1.53;intent_topic_surge:1.43,B,rep_lena,routed,0.92,false
+a-003101,acc-2278,2026-09-29T11:07:00Z,v2,43.87,blog_visit:1.29;crm_email_reply:1.24;docs_visit:1.14;pricing_page_visit:2.06,A,rep_sana,routed,0.92,
+a-003102,acc-1395,2026-10-02 08:24:00,v2,16.8,pricing_page_visit:2.23,C,rep_amara,Explore,0.06,false
+a-003103,acc-6447,2026-09-30T14:40:00Z,rules.v2,25.925,crm_email_reply:1.5;pricing_page_visit:1.03;docs_visit:0.86,B,rep_dev, Routed,0.92,false
+a-003104,acc-5751,2026-09-29 12:57:00,v2,35.326,hiring_gtm_ops:1.97;docs_visit:2.34;product_usage_spike:1.42,B,rep_tomas,routed,0.92,false
+a-003105,acc-2550,2026-09-28T11:02:00Z,v2,46.6,pricing_page_visit:1.98;budget_confirmed:1.53;blog_visit:0.88,A,rep_farid,ROUTED,0.92,false
+a-003106,acc-4127,2026-09-30T15:17:00Z,rules.v2,41.9,product_signup:2.32;blog_visit:0.44;webinar_attended:1.91,A,rep_omar, Routed,0.92,
+a-003107,acc-3010,1791016680000,rules.v2,30.719,crm_email_reply:0.46;demo_page_visit:2.02,B,rep_yuki, Routed,0.92,false
+a-003108,acc-6619,1790678460000,rules.v2,42.1005,demo_page_visit:1.15;blog_visit:1.13;product_signup:2.35,,rep_dev,routed,0.92,false
+a-003109,acc-1123,2026-10-01 13:37:00,rules.v2,40.896,product_usage_spike:0.48;crm_email_reply:2.0;pricing_page_visit:1.18;seat_limit_reached:1.42,C,rep_yuki,ROUTED,0.92,false
+a-003110,acc-1957,2026-09-30T09:22:00Z,rules.v2,38.76,hiring_gtm_ops:0.96;product_usage_spike:0.84;blog_visit:2.23;pricing_page_visit:0.86,A,rep_lena,routed,0.92,false
+a-003111,acc-0391,2026-10-02T15:16:00Z,rules.v2,38.88,demo_page_visit:1.18;intent_topic_surge:2.26;legacy_pixel:1.0,,rep_amara,ROUTED,0.92,false
+a-003112,acc-4790,2026-09-28T13:13:00Z,rules.v2,34.34,docs_visit:1.42;intent_topic_surge:1.36;demo_page_visit:0.77;pricing_page_visit:0.73,B,rep_amara,routed,0.92,false
+a-003113,acc-1980,2026-09-28T14:46:00Z,rules.v2,25.458,crm_email_reply:1.39;intent_topic_surge:1.96;webinar_attended:1.72,C,rep_amara,routed,0.92,true
+a-003114,acc-4493,2026-10-01T13:10:00Z,v2,45.0,seat_limit_reached:2.23;intent_topic_surge:2.32,A,rep_dev, Routed,0.92,false
+a-003115,acc-5892,2026-09-28T15:10:00Z,rules.v2,61.2255,blog_visit:0.48;crm_email_reply:1.99;budget_confirmed:2.13;product_usage_spike:1.98,B,rep_tomas, Routed,0.92,false
+a-003116,acc-4951,2026-10-01 13:45:00,rules.v2,30.4,seat_limit_reached:1.51;webinar_attended:0.9,A,rep_tomas,ROUTED,0.92,false
+a-003117,acc-6465,2026-09-29T08:53:00Z,rules.v2,54.67,docs_visit:0.89;intent_topic_surge:2.37;demo_page_visit:2.24,A,rep_omar,ROUTED,0.92,false
+a-003118,acc-7306,2026-09-30T12:37:00Z,v2,26.778,hiring_gtm_ops:0.77;product_signup:0.81;pricing_page_visit:1.77,C,rep_amara,routed,0.92,false
+a-003119,acc-3179,2026-09-29T13:54:00Z,rules.v2,52.36,docs_visit:1.56;pricing_page_visit:1.07;intent_topic_surge:1.77;evaluating_alternatives:1.68,A,rep_dev, Routed,0.92,false
+a-003120,acc-1437,1790786400000,rules.v2,27.21,crm_email_reply:2.17;intent_topic_surge:0.75;blog_visit:1.71,A,rep_lena, Routed,0.92,false
+a-003121,acc-3737,2026-09-30T11:28:00Z,rules.v2,53.2,crm_meeting_booked:1.41;intent_topic_surge:1.5;product_usage_spike:0.9,A,rep_tomas, Routed,0.92,true
+a-003122,acc-3721,2026-10-01T12:39:00Z,v2,33.44,intent_topic_surge:2.18;pricing_page_visit:0.96,A,rep_dev, Routed,0.92,false
+a-003123,acc-6961,2026-09-28 16:18:00,v2,33.49,hiring_gtm_ops:1.21;blog_visit:2.1;webinar_attended:2.11;pricing_page_visit:1.1,B,rep_yuki,routed,0.92,false
+a-003124,acc-4180,2026-09-30T12:53:00Z,rules.v2,43.932,demo_page_visit:2.02;product_usage_spike:2.31;crm_email_reply:0.58,,rep_amara,routed,0.92,false
+a-003125,acc-2531,2026-09-28T10:02:00Z,v2,41.36,seat_limit_reached:2.26;blog_visit:1.66;pricing_page_visit:1.05,A,rep_tomas,routed,0.92,false
+a-003126,acc-0076,2026-09-30T09:09:00Z,rules.v2,41.8625,product_signup:1.31;demo_page_visit:1.85;legacy_pixel:1.0,B,rep_farid,ROUTED,0.92,
+a-003127,acc-5661,2026-09-28T08:10:00Z,rules.v2,46.818,crm_email_reply:1.94;webinar_attended:0.96;budget_confirmed:1.82;crm_meeting_booked:0.63,B,rep_omar, Routed,0.92,false
+a-003128,acc-0392,2026-10-02T08:35:00Z,v2,51.119,demo_page_visit:1.3;crm_email_reply:1.26;pricing_page_visit:2.31,B,rep_amara,routed,0.92,false
+a-003129,acc-1265,2026-09-29 17:24:00,rules.v2,33.59,pricing_page_visit:1.36;product_signup:0.97,A,rep_yuki,routed,0.92,false
+a-003130,acc-0209,1790779200000,rules.v2,30.481,product_signup:0.72;pricing_page_visit:1.79,B,rep_amara,routed,0.92,false
+a-003131,acc-7310,2026-09-30T09:07:00Z,rules.v2,47.88,blog_visit:0.88;hiring_gtm_ops:2.26;evaluating_alternatives:1.01;crm_meeting_booked:1.53,A,rep_dev,routed,0.92,false
+a-003132,acc-4220,2026-09-30T13:50:00Z,v2,42.7,crm_meeting_booked:0.85;product_signup:1.6,A,rep_sana, Routed,0.92,false
+a-003133,acc-6362,2026-09-28T12:38:00Z,v2,53.669,product_usage_spike:0.73;pricing_page_visit:2.03;crm_meeting_booked:1.2,B,rep_lena,ROUTED,0.92,
+a-003134,acc-1349,2026-09-30T10:19:00Z,v2,4.2245,docs_visit:1.4;blog_visit:0.77,B,rep_yuki,Explore,0.06,false
+a-003135,acc-1368,1790674140000,v2,40.137,product_usage_spike:2.15;webinar_attended:1.87,B,rep_farid, Routed,0.92,false
+a-003136,acc-0557,2026-10-01 08:17:00,rules.v2,33.63,intent_topic_surge:0.42;product_usage_spike:1.05;crm_email_reply:1.17,A,rep_dev,ROUTED,0.92,false
+a-003137,acc-6645,2026-09-30T11:33:00Z,rules.v2,41.14,webinar_attended:2.06;product_signup:0.76;seat_limit_reached:1.87,B,rep_sana,routed,0.92,false
+a-003138,acc-5783,2026-10-01T15:04:00Z,rules.v2,37.416,demo_page_visit:0.85;pricing_page_visit:1.34;product_signup:2.33,,rep_sana,routed,0.92,false
+a-003139,acc-4933,2026-09-28T13:18:00Z,rules.v2,43.078,demo_page_visit:1.68;product_signup:1.02;intent_topic_surge:0.85,B,rep_tomas,routed,0.92,false
+a-003140,acc-7740,1790701440000,v2,0.552,blog_visit:0.92,C,rep_farid,explore,0.06,false
+a-003141,acc-4285,2026-09-30T15:16:00Z,v2,28.38,product_signup:1.88;intent_topic_surge:1.91,C,rep_farid,routed,0.92,false
+a-003142,acc-0909,2026-09-28T16:56:00Z,rules.v2,31.4,intent_topic_surge:1.94;webinar_attended:2.16,A,rep_sana, Routed,0.92,false
+a-003143,acc-1887,2026-09-28 10:54:00,rules.v2,47.8465,product_signup:0.43;pricing_page_visit:1.91;hiring_gtm_ops:0.48;intent_topic_surge:1.83,B,,control,0.92,false
+a-003144,acc-7373,2026-09-28T09:13:00Z,v2,38.79,blog_visit:1.7;pricing_page_visit:0.77;docs_visit:0.87;product_signup:1.58,A,rep_farid, Routed,0.92,false
+a-003145,acc-5221,2026-09-30 16:48:00,rules.v2,30.362,crm_meeting_booked:1.97;pricing_page_visit:0.98,B,rep_sana, Routed,0.92,false
+a-003146,acc-6371,2026-09-28 15:42:00,v2,28.2,blog_visit:0.92;demo_page_visit:0.55;pricing_page_visit:1.32,A,rep_lena, Routed,0.92,true
+a-003147,acc-4005,2026-09-30T14:30:00Z,rules.v2,33.45,crm_meeting_booked:1.44;pricing_page_visit:0.73;docs_visit:0.41,A,rep_yuki,routed,0.92,
+a-003148,acc-3943,2026-10-02T09:34:00Z,rules.v2,52.79,seat_limit_reached:1.13;crm_email_reply:0.55;pricing_page_visit:1.57;blog_visit:0.86,,rep_dev,routed,0.92,false
+a-003149,acc-2179,2026-10-03 13:36:00,rules.v2,27.024,crm_email_reply:1.62;docs_visit:0.74;intent_topic_surge:1.06;budget_confirmed:0.98,C,rep_dev,ROUTED,0.92,
+a-003150,acc-5211,2026-09-30 13:04:00,v2,60.96,pricing_page_visit:2.08;blog_visit:2.08;demo_page_visit:1.08;product_usage_spike:0.76,A,rep_lena,routed,0.92,false
+a-003151,acc-3718,1790877120000,rules.v2,27.2,intent_topic_surge:0.7;seat_limit_reached:1.29,B,rep_yuki, Routed,0.92,false
+a-003152,acc-2903,2026-09-30T17:50:00Z,rules.v2,27.3,webinar_attended:2.1;intent_topic_surge:1.53,A,rep_omar, Routed,0.92,true
+a-003153,acc-3402,1790779260000,rules.v2,55.641,product_usage_spike:1.32;intent_topic_surge:1.25;docs_visit:1.4;seat_limit_reached:1.52,B,rep_tomas,ROUTED,0.92,false
+a-003154,acc-0409,1790599440000,v2,16.8,pricing_page_visit:2.03,C,rep_yuki,explore,0.06,false
+a-003155,acc-6748,2026-09-28T14:55:00Z,v2,52.38,blog_visit:0.47;product_signup:0.87;pricing_page_visit:0.99;seat_limit_reached:1.04,A,rep_farid,ROUTED,0.92,false
+a-003156,acc-7919,2026-10-01 15:37:00,v2,43.07,webinar_attended:2.25;product_signup:1.86;blog_visit:0.86;docs_visit:0.77,A,rep_sana,routed,0.92,false
+a-003157,acc-1613,2026-09-30T13:58:00Z,rules.v2,25.29,budget_confirmed:1.83;product_signup:1.61,C,,Holdout,0.92,false
+a-003158,acc-7742,1790766240000,v2,13.4725,blog_visit:1.76;pricing_page_visit:0.46;evaluating_alternatives:0.51,B,rep_yuki,Explore,0.06,false
+a-003159,acc-6244,2026-10-02T08:50:00Z,rules.v2,28.8,product_signup:2.37;crm_email_reply:2.34,C,rep_lena,routed,0.92,false
+a-003160,acc-1315,2026-09-30T16:30:00Z,v2,69.34,crm_meeting_booked:1.81;blog_visit:1.34;pricing_page_visit:2.33;crm_email_reply:2.09,,rep_amara, Routed,0.92,true
+a-003161,acc-2723,2026-10-02 17:00:00,rules.v2,68.63,intent_topic_surge:1.64;product_signup:1.85;webinar_attended:1.58;evaluating_alternatives:1.17,A,rep_dev,ROUTED,0.92,false
+a-003162,acc-1956,2026-09-30T08:08:00Z,v2,28.83,pricing_page_visit:1.41;crm_email_reply:1.01,A,rep_yuki,ROUTED,0.92,true
+a-003163,acc-6816,2026-09-29T09:15:00Z,rules.v2,32.07,webinar_attended:1.36;docs_visit:1.97;crm_email_reply:2.28,A,,holdout,0.92,false
+a-003164,acc-1584,2026-09-29T14:53:00Z,v2,55.25,product_signup:1.76;hiring_gtm_ops:1.82;docs_visit:0.48;pricing_page_visit:1.94,B,,Holdout,0.92,false
+a-003165,acc-3526,2026-09-30 15:11:00,v2,12.46,pricing_page_visit:0.89,A,rep_lena,Explore,0.06,false
+a-003166,acc-5902,2026-10-02T15:59:00Z,v2,40.78,docs_visit:2.23;pricing_page_visit:1.77;hiring_gtm_ops:2.26,A,rep_dev,routed,0.92,false
+a-003167,acc-7657,2026-10-01 13:09:00,rules.v2,26.435,product_usage_spike:1.43;blog_visit:0.5;crm_email_reply:0.54,B,,control,0.92,false
+a-003168,acc-0581,1790762520000,rules.v2,53.07,intent_topic_surge:2.27;crm_email_reply:1.23;crm_meeting_booked:1.57,A,rep_omar,routed,0.92,false
+a-003169,acc-1229,2026-10-02T10:32:00Z,rules.v2,36.584,webinar_attended:1.36;budget_confirmed:1.45;demo_page_visit:0.43;hiring_gtm_ops:1.53,B,rep_amara,routed,0.92,
+a-003170,acc-4679,2026-10-03T15:19:00Z,v2,47.6,product_usage_spike:2.1;intent_topic_surge:2.2,B,rep_farid,ROUTED,0.92,false
+a-003171,acc-6099,2026-09-29T09:49:00Z,rules.v2,33.643,docs_visit:1.99;intent_topic_surge:0.78;demo_page_visit:0.41;seat_limit_reached:0.77,B,rep_dev, Routed,0.92,false
+a-003172,acc-3536,1790863020000,rules.v2,13.87,crm_email_reply:0.83;hiring_gtm_ops:0.64,A,rep_lena,Explore,0.06,false
+a-003173,acc-6520,2026-10-02T16:26:00Z,rules.v2,34.051,demo_page_visit:1.12;docs_visit:1.86;crm_email_reply:1.84,B,rep_dev,routed,0.92,false
+a-003174,acc-4149,2026-09-30 10:31:00,v2,36.9,pricing_page_visit:1.31;docs_visit:0.92;intent_topic_surge:1.58,A,rep_dev,routed,0.92,true
+a-003175,acc-5281,2026-10-01T14:10:00Z,rules.v2,34.59,blog_visit:1.95;evaluating_alternatives:0.8;pricing_page_visit:1.55;crm_meeting_booked:1.99,C,rep_omar,routed,0.92,true
+a-003176,acc-7962,2026-10-01T10:58:00Z,rules.v2,26.0,intent_topic_surge:2.1;docs_visit:2.03,A,rep_yuki,routed,0.92,false
+a-003177,acc-1577,2026-10-01 13:31:00,rules.v2,36.77,pricing_page_visit:0.47;product_signup:1.89;blog_visit:1.84,A,rep_lena,routed,0.92,false
+a-003178,acc-1846,2026-10-01T08:48:00Z,rules.v2,33.19,demo_page_visit:2.25;blog_visit:1.19,,rep_lena,routed,0.92,false
+a-003179,acc-6363,2026-10-02T13:39:00Z,v2,72.267,demo_page_visit:2.29;docs_visit:0.62;product_usage_spike:1.62;crm_meeting_booked:1.26,B,rep_tomas,routed,0.92,true
+a-003180,acc-0510,2026-09-30T15:28:00Z,rules.v2,37.13,webinar_attended:0.98;intent_topic_surge:1.1;seat_limit_reached:0.81,A,rep_tomas,routed,0.92,false
+a-003181,acc-6861,2026-09-30T10:34:00Z,v2,20.4,crm_email_reply:2.4;docs_visit:2.37,B,rep_amara,Explore,0.06,true
+a-003182,acc-0198,2026-10-04T08:01:00Z,rules.v2,32.75,blog_visit:2.18;docs_visit:1.6;product_signup:1.73,A,rep_lena,routed,0.92,true
+a-003183,acc-5736,2026-09-28T09:08:00Z,rules.v2,9.8685,crm_email_reply:1.29,B,rep_lena,explore,0.06,true
+a-003184,acc-5242,2026-10-02 14:27:00,v2,45.9,crm_email_reply:2.38;intent_topic_surge:1.65;product_usage_spike:2.08;docs_visit:2.0,C,rep_tomas,routed,0.92,true
+a-003185,acc-1043,1791537660000,rules.v2,25.602,product_usage_spike:0.84;evaluating_alternatives:1.95,B,rep_sana,routed,0.92,false
+a-003186,acc-6780,2026-10-05T09:48:00Z,v2,66.8355,product_signup:1.31;crm_email_reply:1.12;pricing_page_visit:1.23;demo_page_visit:1.98,B,rep_dev,ROUTED,0.92,true
+a-003187,acc-7697,2026-10-09 17:40:00,rules.v2,58.248,pricing_page_visit:1.42;hiring_gtm_ops:1.43;demo_page_visit:1.95;product_usage_spike:2.11,,,control,0.92,
+a-003188,acc-5374,2026-10-05T11:44:00Z,rules.v2,45.55,pricing_page_visit:0.77;docs_visit:0.85;product_usage_spike:1.79;legacy_pixel:1.0,A,rep_tomas,ROUTED,0.92,
+a-003189,acc-1869,2026-10-08T08:57:00Z,v2,26.96,evaluating_alternatives:1.56;blog_visit:1.25;crm_email_reply:1.19,A,rep_omar,routed,0.92,true
+a-003190,acc-7141,2026-10-07T16:29:00Z,rules.v2,68.39,blog_visit:1.15;pricing_page_visit:2.19;product_usage_spike:2.33;docs_visit:1.08,A,,Holdout,0.92,false
+a-003191,acc-3258,2026-10-05 15:37:00,rules.v2,35.394,intent_topic_surge:1.91;pricing_page_visit:1.61,B,rep_dev, Routed,0.92,false
+a-003192,acc-0799,2026-10-09T10:36:00Z,rules.v2,39.8735,product_usage_spike:1.03;blog_visit:0.85;demo_page_visit:1.72,B,rep_amara, Routed,0.92,false
+a-003193,acc-7967,2026-10-05T15:46:00Z,rules.v2,56.457,seat_limit_reached:1.32;product_usage_spike:1.94;intent_topic_surge:0.65,B,rep_yuki,routed,0.92,false
+a-003194,acc-1390,2026-10-06 08:35:00,rules.v2,62.577,seat_limit_reached:1.53;intent_topic_surge:1.16;pricing_page_visit:1.93;hiring_gtm_ops:1.23,B,rep_yuki,ROUTED,0.92,false
+a-003195,acc-0536,2026-10-09T17:32:00Z,rules.v2,60.826,product_usage_spike:1.92;seat_limit_reached:1.15;webinar_attended:2.09,B,rep_sana, Routed,0.92,false
+a-003196,acc-4123,2026-10-07T11:42:00Z,rules.v2,16.422,pricing_page_visit:1.38,B,rep_amara,explore,0.06,
+a-003197,acc-3033,2026-10-05 15:49:00,rules.v2,45.968,product_signup:1.32;docs_visit:2.13;demo_page_visit:0.7;pricing_page_visit:1.22,B,rep_yuki,routed,0.92,
+a-003198,acc-2677,2026-10-05T12:38:00Z,rules.v2,60.605,webinar_attended:1.7;demo_page_visit:1.82;product_signup:1.25;crm_email_reply:1.47,B,rep_tomas,routed,0.92,false
+a-003199,acc-6814,2026-10-05T09:45:00Z,v2,29.916,blog_visit:2.37;pricing_page_visit:1.99;intent_topic_surge:2.3,C,rep_omar, Routed,0.92,false
+a-003200,acc-7963,2026-10-09T13:25:00Z,v2,31.17,crm_email_reply:1.55;budget_confirmed:1.48;intent_topic_surge:2.13,C,rep_amara,routed,0.92,true
+a-003201,acc-1286,2026-10-08T12:51:00Z,rules.v2,12.75,evaluating_alternatives:1.9,B,rep_tomas,Explore,0.06,false
+a-003202,acc-6571,2026-10-09 16:38:00,rules.v2,34.356,evaluating_alternatives:1.7;pricing_page_visit:1.59;intent_topic_surge:2.33,C,rep_sana, Routed,0.92,false
+a-003203,acc-4055,2026-10-07T17:59:00Z,rules.v2,37.1,intent_topic_surge:2.4;crm_email_reply:1.74;blog_visit:1.44,A,,control,0.92,true
+a-003204,acc-1280,2026-10-09T09:13:00Z,rules.v2,64.549,crm_meeting_booked:2.16;crm_email_reply:1.38;hiring_gtm_ops:1.46;demo_page_visit:1.97,B,rep_tomas,routed,0.92,false
+a-003205,acc-6196,2026-10-10 14:41:00,rules.v2,35.58,demo_page_visit:1.21;webinar_attended:0.41;docs_visit:0.9;pricing_page_visit:0.79,A,rep_amara,ROUTED,0.92,false
+a-003206,acc-6144,2026-10-08T17:56:00Z,rules.v2,41.1995,docs_visit:0.79;blog_visit:1.1;evaluating_alternatives:1.18;product_signup:2.38,B,rep_amara, Routed,0.92,false
+a-003207,acc-0008,2026-10-08T17:50:00Z,v2,31.72,crm_email_reply:1.98;intent_topic_surge:1.39,A,rep_tomas,routed,0.92,false
+a-003208,acc-4180,2026-10-09T14:22:00Z,v2,8.946,webinar_attended:1.65;docs_visit:1.67,C,rep_amara,Explore,0.06,false
+a-003209,acc-6486,2026-10-09T10:15:00Z,rules.v2,50.4,pricing_page_visit:2.17;blog_visit:2.34;product_signup:1.36,A,rep_yuki,ROUTED,0.92,
+a-003210,acc-6884,2026-10-08 15:39:00,rules.v2,66.35,crm_email_reply:1.7;pricing_page_visit:2.23;crm_meeting_booked:1.35;blog_visit:1.05,A,rep_sana,ROUTED,0.92,false
+a-003211,acc-4840,2026-10-06T17:35:00Z,v2,48.0165,docs_visit:1.26;product_usage_spike:1.72;product_signup:1.45,B,rep_omar,routed,0.92,false
+a-003212,acc-4219,2026-10-06T08:04:00Z,rules.v2,27.14,docs_visit:2.23;pricing_page_visit:1.51,A,rep_amara,routed,0.92,false
+a-003213,acc-2906,2026-10-06 17:15:00,rules.v2,34.84,crm_meeting_booked:1.6;product_usage_spike:0.62;blog_visit:1.68,A,rep_lena,ROUTED,0.92,false
+a-003214,acc-3009,2026-10-07 08:40:00,rules.v2,28.458,intent_topic_surge:0.57;product_usage_spike:1.11;product_signup:1.45,C,rep_lena, Routed,0.92,false
+a-003215,acc-5455,2026-10-09T09:54:00Z,rules.v2,53.78,product_usage_spike:0.86;product_signup:1.1;intent_topic_surge:1.98;blog_visit:2.01,A,rep_yuki, Routed,0.92,false
+a-003216,acc-3042,2026-10-07 16:13:00,v2,39.1,pricing_page_visit:2.2;crm_email_reply:2.23,B,rep_dev,routed,0.92,false
+a-003217,acc-6043,2026-10-06T09:31:00Z,rules.v2,54.57,crm_meeting_booked:0.44;docs_visit:1.43;hiring_gtm_ops:0.46;product_usage_spike:2.4,A,rep_yuki,routed,0.92,false
+a-003218,acc-1450,2026-10-08T14:07:00Z,rules.v2,37.11,product_signup:0.53;webinar_attended:1.86;crm_email_reply:2.11,A,rep_tomas,ROUTED,0.92,false
+a-003219,acc-2714,2026-10-08T10:23:00Z,v2,25.5085,demo_page_visit:1.63;docs_visit:1.31,B,rep_omar,routed,0.92,
+a-003220,acc-0341,2026-10-07 13:28:00,rules.v2,77.52,docs_visit:1.48;product_usage_spike:1.52;pricing_page_visit:0.98;demo_page_visit:2.0,A,rep_omar,ROUTED,0.92,false
+a-003221,acc-5209,2026-10-09T08:44:00Z,rules.v2,27.37,demo_page_visit:1.69;docs_visit:1.72,B,rep_omar,ROUTED,0.92,false
+a-003222,acc-0652,2026-10-06T08:35:00Z,rules.v2,34.2,crm_email_reply:1.7;intent_topic_surge:1.89,A,rep_yuki,routed,0.92,false
+a-003223,acc-4277,2026-10-07 12:53:00,rules.v2,26.94,pricing_page_visit:1.59;crm_email_reply:0.52,A,rep_farid, Routed,0.92,false
+a-003224,acc-5687,2026-10-07 16:13:00,rules.v2,41.021,pricing_page_visit:2.18;docs_visit:1.08;intent_topic_surge:0.55;product_usage_spike:0.64,B,,holdout,0.92,false
+a-003225,acc-0123,2026-10-05T12:54:00Z,rules.v2,1.2,blog_visit:2.15,C,rep_lena,explore,0.06,false
+a-003226,acc-2637,2026-10-08T15:45:00Z,rules.v2,46.393,seat_limit_reached:1.54;product_signup:0.9;crm_email_reply:1.65;docs_visit:0.41,B,rep_amara, Routed,0.92,
+a-003227,acc-0621,2026-10-11 13:00:00,rules.v2,26.868,pricing_page_visit:1.27;seat_limit_reached:1.92;blog_visit:2.3,C,rep_amara,ROUTED,0.92,false
+a-003228,acc-6040,1791379740000,rules.v2,40.61,webinar_attended:0.94;product_usage_spike:0.67;docs_visit:0.97;intent_topic_surge:2.32,A,rep_tomas,ROUTED,0.92,false
+a-003229,acc-4318,2026-10-05T17:04:00Z,rules.v2,53.92,blog_visit:2.13;intent_topic_surge:1.79;product_usage_spike:1.89,A,rep_lena,ROUTED,0.92,false
+a-003230,acc-4488,2026-10-09T12:49:00Z,v2,30.6,crm_email_reply:2.21;budget_confirmed:1.17,B,rep_sana, Routed,0.92,false
+a-003231,acc-0917,2026-10-06T15:44:00Z,rules.v2,25.9,intent_topic_surge:2.29;blog_visit:2.16;webinar_attended:0.65,A,,Holdout,0.92,false
+a-003232,acc-1229,2026-10-07T14:48:00Z,v2,34.476,blog_visit:0.52;intent_topic_surge:0.43;pricing_page_visit:2.31;webinar_attended:1.29,B,rep_amara,ROUTED,0.92,true
+a-003233,acc-6079,2026-10-06T16:05:00Z,rules.v2,25.6445,docs_visit:2.34;product_signup:1.51;blog_visit:1.52,B,rep_yuki, Routed,0.92,true
+a-003234,acc-7081,2026-10-07T11:49:00Z,rules.v2,52.07,crm_meeting_booked:1.51;pricing_page_visit:0.77;docs_visit:1.15;product_usage_spike:0.88,A,,holdout,0.92,false
+a-003235,acc-6697,2026-10-08 09:54:00,rules.v2,25.3555,blog_visit:1.83;pricing_page_visit:2.3,B,rep_tomas,routed,0.92,false
+a-003236,acc-5513,2026-10-08 14:04:00,rules.v2,63.58,pricing_page_visit:1.44;hiring_gtm_ops:0.49;product_usage_spike:1.66;webinar_attended:1.44,A,rep_tomas, Routed,0.92,false
+a-003237,acc-7740,2026-10-05T13:37:00Z,rules.v2,33.516,docs_visit:1.79;evaluating_alternatives:1.31;product_signup:2.17;crm_email_reply:0.61,C,rep_farid,routed,0.92,false
+a-003238,acc-5967,2026-10-05T13:32:00Z,rules.v2,46.8095,product_signup:2.24;intent_topic_surge:2.02;docs_visit:1.69,B,rep_farid,ROUTED,0.92,false
+a-003239,acc-4887,2026-10-06T09:30:00Z,rules.v2,34.884,product_usage_spike:1.8;demo_page_visit:0.54,B,rep_yuki, Routed,0.92,false
+a-003239,acc-4887,2026-10-06T09:30:00Z,rules.v2,34.884,product_usage_spike:1.8;demo_page_visit:0.54,B,rep_yuki, Routed,0.92,false
+a-003240,acc-2070,2026-10-06T11:44:00Z,rules.v2,45.696,product_signup:1.94;budget_confirmed:0.69;product_usage_spike:0.47;docs_visit:1.26,B,rep_yuki, Routed,0.92,false
+a-003241,acc-3066,2026-10-05T14:40:00Z,rules.v2,42.8145,crm_email_reply:1.64;product_signup:1.63;webinar_attended:1.86,B,rep_dev,ROUTED,0.92,true
+a-003242,acc-2638,2026-10-05T13:19:00Z,v2,36.21,product_signup:1.1;docs_visit:1.44;crm_email_reply:1.71,A,,Holdout,0.92,false
+a-003243,acc-4353,2026-10-07T10:48:00Z,rules.v2,57.902,demo_page_visit:0.68;product_usage_spike:1.68;evaluating_alternatives:2.34;webinar_attended:2.0,B,rep_amara,ROUTED,0.92,false
+a-003244,acc-2527,2026-10-09T13:46:00Z,rules.v2,31.5,budget_confirmed:1.94;docs_visit:1.6;evaluating_alternatives:0.58,A,rep_farid,routed,0.92,false
+a-003245,acc-5924,2026-10-07T17:57:00Z,v2,26.2565,blog_visit:0.89;hiring_gtm_ops:1.59;intent_topic_surge:2.37,B,,control,0.92,false
+a-003246,acc-1145,2026-10-05 13:33:00,rules.v2,54.383,pricing_page_visit:1.17;blog_visit:1.24;evaluating_alternatives:1.97;demo_page_visit:1.96,B,rep_dev, Routed,0.92,false
+a-003247,acc-1254,2026-10-07T08:47:00Z,v2,33.201,webinar_attended:1.08;product_usage_spike:1.81,B,rep_sana,routed,0.92,false
+a-003248,acc-5196,2026-10-06 08:44:00,v2,33.0905,blog_visit:1.35;intent_topic_surge:1.58;product_usage_spike:1.21,B,rep_sana, Routed,0.92,false
+a-003249,acc-6925,2026-10-08T17:23:00Z,rules.v2,7.31,hiring_gtm_ops:0.86,B,rep_yuki,explore,0.06,false
+a-003250,acc-0921,1791206340000,rules.v2,28.99,blog_visit:0.83;docs_visit:0.52;intent_topic_surge:1.4;crm_email_reply:1.4,A,rep_tomas,ROUTED,0.92,true
+a-003251,acc-7915,2026-10-05T08:59:00Z,rules.v2,59.143,product_usage_spike:1.99;seat_limit_reached:2.32;docs_visit:1.22;intent_topic_surge:0.51,B,,Holdout,0.92,false
+a-003252,acc-4814,2026-10-05T12:31:00Z,v2,6.018,webinar_attended:1.18,B,rep_yuki,explore,0.06,false
+a-003253,acc-2315,2026-10-07T11:30:00Z,v2,40.77,docs_visit:1.41;product_usage_spike:1.03;crm_email_reply:2.26,A,,holdout,0.92,false
+a-003254,acc-2242,2026-10-07T09:20:00Z,rules.v2,38.709,demo_page_visit:0.65;crm_email_reply:1.28;crm_meeting_booked:1.04;docs_visit:0.54,B,,Holdout,0.92,false
+a-003255,acc-7475,2026-10-05T10:21:00Z,rules.v2,29.138,product_usage_spike:1.22;demo_page_visit:0.77,B,rep_yuki, Routed,0.92,false
+a-003256,acc-1700,2026-10-08 08:12:00,rules.v2,30.379,pricing_page_visit:2.26;webinar_attended:1.29,B,rep_lena, Routed,0.92,true
+a-003257,acc-0224,2026-10-08T15:24:00Z,v2,56.66,intent_topic_surge:1.8;crm_meeting_booked:1.31;pricing_page_visit:1.19,A,rep_amara, Routed,0.92,true
+a-003258,acc-4881,1791375720000,rules.v2,30.95,seat_limit_reached:0.83;product_signup:0.68,A,rep_yuki,routed,0.92,
+a-003259,acc-0232,2026-10-09T11:54:00Z,rules.v2,44.285,pricing_page_visit:0.6;product_signup:1.98;blog_visit:2.19;webinar_attended:2.16,B,rep_dev,routed,0.92,false
+a-003260,acc-6235,1791391200000,v2,38.301,product_signup:1.47;crm_email_reply:1.83;webinar_attended:1.09,B,rep_sana,routed,0.92,
+a-003261,acc-1986,2026-10-07T14:00:00Z,v2,40.0,hiring_gtm_ops:1.23;product_signup:2.04,A,rep_amara,routed,0.92,false
+a-003262,acc-1209,2026-10-07T08:15:00Z,v2,51.58,pricing_page_visit:1.87;intent_topic_surge:1.37;crm_email_reply:0.96;webinar_attended:0.51,A,rep_dev, Routed,0.92,false
+a-003263,acc-7618,2026-10-09 15:18:00,rules.v2,64.5,pricing_page_visit:1.85;docs_visit:0.47;product_usage_spike:2.03;blog_visit:1.19,A,rep_amara,routed,0.92,false
+a-003264,acc-2976,2026-10-08T17:30:00Z,rules.v2,27.042,blog_visit:0.74;demo_page_visit:2.1;intent_topic_surge:0.87;docs_visit:1.21,C,rep_yuki,routed,0.92,false
+a-003265,acc-5379,2026-10-09T08:44:00Z,v2,48.6115,crm_email_reply:2.31;evaluating_alternatives:0.7;pricing_page_visit:2.14;blog_visit:0.69,B,rep_amara,routed,0.92,false
+a-003266,acc-1112,1791387600000,v2,37.3,webinar_attended:1.55;pricing_page_visit:2.25,A,rep_farid,routed,0.92,false
+a-003267,acc-5490,2026-10-11T11:53:00Z,rules.v2,27.1575,webinar_attended:1.4;blog_visit:1.79;demo_page_visit:1.36,B,rep_sana,ROUTED,0.92,false
+a-003268,acc-4514,2026-10-08T16:53:00Z,rules.v2,26.8345,demo_page_visit:0.43;evaluating_alternatives:0.71;product_usage_spike:0.78,,rep_sana,ROUTED,0.92,false
+a-003269,acc-4789,2026-10-08T16:05:00Z,rules.v2,29.232,demo_page_visit:0.82;crm_meeting_booked:1.04;intent_topic_surge:1.36,C,rep_lena,routed,0.92,false
+a-003270,acc-0449,2026-10-05T08:45:00Z,rules.v2,36.0,intent_topic_surge:1.18;demo_page_visit:1.45;seat_limit_reached:1.33,C,rep_sana,routed,0.92,false
+a-003271,acc-7632,2026-10-07T08:01:00Z,rules.v2,18.6,webinar_attended:1.36;product_usage_spike:0.58,A,rep_farid,explore,0.06,false
+a-003272,acc-7019,2026-10-05 13:20:00,rules.v2,29.61,crm_email_reply:0.59;product_signup:1.62,A,rep_tomas, Routed,0.92,false
+a-003273,acc-0504,2026-10-09T16:53:00Z,rules.v2,47.68,blog_visit:2.23;pricing_page_visit:1.87;intent_topic_surge:1.95,,rep_tomas,routed,0.92,true
+a-003274,acc-4729,1791470040000,rules.v2,25.687,blog_visit:1.11;pricing_page_visit:1.73;docs_visit:1.63,B,rep_tomas,routed,0.92,false
+a-003275,acc-6712,1791382440000,v2,29.8,hiring_gtm_ops:1.15;product_usage_spike:1.1,A,rep_omar,ROUTED,0.92,false
+a-003276,acc-7864,2026-10-07T09:50:00Z,rules.v2,28.39,intent_topic_surge:2.02;hiring_gtm_ops:0.74;docs_visit:2.3,B,,holdout,0.92,false
+a-003277,acc-5223,2026-10-06T15:30:00Z,v2,27.288,demo_page_visit:2.2;docs_visit:1.96;intent_topic_surge:0.76,C,rep_tomas,routed,0.92,false
+a-003278,acc-3077,2026-10-09T12:08:00Z,v2,11.22,intent_topic_surge:1.32,B,rep_dev,Explore,0.06,
+a-003279,acc-1694,2026-10-07T17:54:00Z,rules.v2,29.904,docs_visit:2.28;crm_meeting_booked:1.42;pricing_page_visit:1.56,C,rep_omar, Routed,0.92,true
+a-003280,acc-5047,2026-10-06T12:58:00Z,rules.v2,27.762,hiring_gtm_ops:1.27;webinar_attended:2.32;docs_visit:1.19;product_usage_spike:1.15,C,rep_dev, Routed,0.92,false
+a-003281,acc-3315,1791361260000,v2,33.4135,docs_visit:1.27;crm_email_reply:1.5;crm_meeting_booked:2.37,B,,Holdout,0.92,true
+a-003282,acc-5985,2026-10-07T16:43:00Z,v2,43.58,docs_visit:2.11;crm_meeting_booked:1.49;blog_visit:2.1;pricing_page_visit:0.97,A,rep_sana,ROUTED,0.92,false
+a-003283,acc-5305,2026-10-09T14:40:00Z,rules.v2,29.682,hiring_gtm_ops:2.25;pricing_page_visit:1.78,B,rep_tomas,ROUTED,0.92,false
+a-003284,acc-0438,2026-10-06T08:45:00Z,rules.v2,25.1,webinar_attended:0.87;docs_visit:1.1;crm_email_reply:1.62;blog_visit:2.16,A,rep_amara, Routed,0.92,false
+a-003285,acc-7826,2026-10-06 14:35:00,v2,25.278,pricing_page_visit:1.66;webinar_attended:0.74;blog_visit:2.36;product_signup:0.83,C,rep_omar, Routed,0.92,false
+a-003286,acc-4340,2026-10-06T12:03:00Z,v2,26.69,evaluating_alternatives:2.22;intent_topic_surge:1.64,B,rep_yuki,routed,0.92,false
+a-003287,acc-5475,2026-10-07 12:42:00,rules.v2,59.67,seat_limit_reached:2.26;product_signup:1.82;intent_topic_surge:1.79,B,rep_dev,routed,0.92,false
+a-003288,acc-2240,2026-10-08T11:35:00Z,v2,32.708,webinar_attended:0.58;hiring_gtm_ops:1.52;seat_limit_reached:1.6,B,rep_amara, Routed,0.92,false
+a-003289,acc-5652,2026-10-06T16:22:00Z,v2,37.45,product_signup:2.12;blog_visit:1.45;docs_visit:2.38,A,rep_omar,routed,0.92,true
+a-003290,acc-6237,1791388200000,v2,27.132,blog_visit:1.93;pricing_page_visit:1.62;hiring_gtm_ops:0.72;crm_email_reply:1.49,C,rep_omar,routed,0.92,
+a-003291,acc-3768,2026-10-05T08:47:00Z,rules.v2,37.3745,docs_visit:0.83;evaluating_alternatives:1.22;webinar_attended:1.83;intent_topic_surge:1.55,B,rep_amara,ROUTED,0.92,false
+a-003292,acc-2083,2026-10-06T14:21:00Z,rules.v2,28.475,docs_visit:2.11;evaluating_alternatives:0.5;intent_topic_surge:2.01,B,rep_sana, Routed,0.92,false
+a-003293,acc-3993,2026-10-05T17:12:00Z,v2,25.296,crm_email_reply:2.24;demo_page_visit:1.51,C,rep_amara,ROUTED,0.92,true
+a-003294,acc-4075,2026-10-06T09:01:00Z,rules.v2,78.44,product_usage_spike:1.58;webinar_attended:1.0;intent_topic_surge:1.6;pricing_page_visit:2.1,A,rep_omar, Routed,0.92,false
+a-003295,acc-2555,2026-10-08 17:21:00,rules.v2,25.7635,docs_visit:1.77;seat_limit_reached:1.13,B,rep_lena, Routed,0.92,
+a-003296,acc-0122,2026-10-09T16:19:00Z,rules.v2,25.313,pricing_page_visit:1.06;product_usage_spike:0.83,B,rep_lena,routed,0.92,false
+a-003297,acc-0686,2026-10-07T11:33:00Z,rules.v2,29.342,docs_visit:1.54;pricing_page_visit:1.39;crm_email_reply:1.16,B,rep_tomas,routed,0.92,
+a-003298,acc-1220,2026-10-11 17:35:00,rules.v2,25.16,hiring_gtm_ops:1.8;evaluating_alternatives:2.12;intent_topic_surge:0.46,B,rep_dev,ROUTED,0.92,false
+a-003299,acc-4776,2026-10-10T09:05:00Z,rules.v2,26.01,blog_visit:0.82;budget_confirmed:1.97;seat_limit_reached:0.65;webinar_attended:1.38,C,rep_lena,ROUTED,0.92,true
+a-003300,acc-1765,2026-10-06T11:28:00Z,rules.v2,41.376,crm_meeting_booked:1.75;demo_page_visit:1.81;budget_confirmed:2.18,C,rep_lena, Routed,0.92,false
+a-003301,acc-0363,2026-10-07T14:36:00Z,rules.v2,27.6,webinar_attended:1.66;pricing_page_visit:1.26,A,rep_omar,routed,0.92,false
+a-003302,acc-5741,2026-10-08T09:54:00Z,rules.v2,25.296,demo_page_visit:1.86,B,rep_dev,explore,0.06,
+a-003303,acc-7136,2026-10-08T11:33:00Z,rules.v2,53.856,pricing_page_visit:2.27;docs_visit:1.64;intent_topic_surge:1.64;crm_email_reply:1.56,B,rep_omar,routed,0.92,
+a-003304,acc-3724,2026-10-08 08:16:00,rules.v2,47.2,crm_meeting_booked:0.56;docs_visit:0.96;demo_page_visit:2.0,A,rep_omar,routed,0.92,false
+a-003305,acc-3334,2026-10-07T11:31:00Z,rules.v2,58.58,product_usage_spike:2.0;intent_topic_surge:1.75;blog_visit:1.36;docs_visit:1.24,A,rep_lena,routed,0.92,false
+a-003306,acc-2800,2026-10-06T16:08:00Z,v2,38.692,pricing_page_visit:1.2;demo_page_visit:0.67;budget_confirmed:2.29,B,rep_farid,routed,0.92,false
+a-003307,acc-6232,2026-10-05T14:04:00Z,v2,64.396,pricing_page_visit:2.07;demo_page_visit:1.61;crm_meeting_booked:1.43,B,rep_dev,routed,0.92,false
+a-003308,acc-4817,2026-10-08T17:53:00Z,rules.v2,31.977,pricing_page_visit:1.83;hiring_gtm_ops:2.04;blog_visit:2.26,B,rep_farid,ROUTED,0.92,false
+a-003309,acc-6724,2026-10-07T11:05:00Z,rules.v2,43.14,intent_topic_surge:1.24;product_signup:1.7;pricing_page_visit:2.39;docs_visit:2.38,C,rep_yuki,routed,0.92,
+a-003310,acc-5551,1791294720000,rules.v2,32.3,crm_email_reply:2.39;intent_topic_surge:2.15,B,,holdout,0.92,false
+a-003311,acc-2848,2026-10-08T14:25:00Z,rules.v2,28.02,product_usage_spike:1.45;blog_visit:1.92,A,rep_farid,routed,0.92,false
+a-003312,acc-2911,2026-10-06T15:44:00Z,rules.v2,27.9055,crm_email_reply:0.77;pricing_page_visit:1.85,B,rep_dev,ROUTED,0.92,false
+a-003313,acc-0517,2026-10-06T09:49:00Z,rules.v2,40.62,docs_visit:1.54;product_usage_spike:2.34,A,rep_sana, Routed,0.92,true
+a-003314,acc-2412,2026-10-06T16:09:00Z,rules.v2,38.52,webinar_attended:1.5;crm_email_reply:1.03;intent_topic_surge:1.95;blog_visit:0.75,A,rep_dev,routed,0.92,true
+a-003315,acc-4644,1791554460000,rules.v2,25.36,intent_topic_surge:0.61;product_signup:1.04;docs_visit:1.22,A,rep_dev,ROUTED,0.92,false
+a-003316,acc-3795,2026-10-06T14:25:00Z,rules.v2,34.89,product_usage_spike:0.48;product_signup:1.75,A,rep_omar,routed,0.92,
+a-003317,acc-5230,1791451320000,v2,29.444,intent_topic_surge:1.29;crm_email_reply:1.96;hiring_gtm_ops:0.41,B,,control,0.92,false
+a-003318,acc-7067,2026-10-05T09:10:00Z,rules.v2,45.04,demo_page_visit:1.44;crm_meeting_booked:1.63,A,rep_tomas,ROUTED,0.92,false
+a-003319,acc-5759,2026-10-05T08:34:00Z,rules.v2,35.292,pricing_page_visit:1.68;crm_email_reply:2.24,B,rep_omar,routed,0.92,true
+a-003320,acc-7031,2026-10-08T15:48:00Z,v2,4.44,webinar_attended:0.74,A,rep_tomas,Explore,0.06,false
+a-003321,acc-0568,2026-10-08T11:25:00Z,rules.v2,47.52,product_usage_spike:2.13;blog_visit:1.27;seat_limit_reached:0.41,A,rep_lena,routed,0.92,true
+a-003322,acc-0618,2026-10-08T16:35:00Z,rules.v2,40.29,product_usage_spike:0.85;webinar_attended:2.29;crm_email_reply:0.97;docs_visit:1.42,A,rep_sana,routed,0.92,true
+a-003323,acc-3849,2026-10-08T11:18:00Z,rules.v2,9.9,product_usage_spike:0.55,A,rep_omar,explore,0.06,false
+a-003324,acc-1109,2026-10-08T11:02:00Z,v2,42.8825,hiring_gtm_ops:2.37;crm_email_reply:1.01;demo_page_visit:1.96,B,rep_sana,routed,0.92,false
+a-003325,acc-1074,1791187980000,rules.v2,44.4,intent_topic_surge:1.92;product_signup:1.38;hiring_gtm_ops:0.45,A,rep_sana,routed,0.92,false
+a-003326,acc-3270,2026-10-10T15:01:00Z,rules.v2,35.28,product_usage_spike:1.26;crm_email_reply:1.4,A,rep_amara,ROUTED,0.92,false
+a-003327,acc-3127,2026-10-06T13:34:00Z,rules.v2,50.1,intent_topic_surge:1.49;evaluating_alternatives:0.48;crm_email_reply:2.24;hiring_gtm_ops:2.25,A,rep_omar,routed,0.92,
+a-003328,acc-0419,2026-10-07 17:57:00,rules.v2,59.245,webinar_attended:2.12;crm_email_reply:1.19;pricing_page_visit:1.91;product_signup:1.35,B,rep_yuki,routed,0.92,
+a-003329,acc-4480,2026-10-07 17:52:00,v2,30.243,product_usage_spike:1.76;webinar_attended:0.65,B,rep_dev,ROUTED,0.92,false
+a-003330,acc-4184,2026-10-07T08:11:00Z,rules.v2,35.0,evaluating_alternatives:1.63;intent_topic_surge:2.04,A,rep_amara, Routed,0.92,false
+a-003331,acc-3826,1791566760000,rules.v2,39.6,webinar_attended:1.91;intent_topic_surge:0.63;pricing_page_visit:1.56,A,rep_yuki, Routed,0.92,false
+a-003332,acc-1013,2026-10-07T09:41:00Z,rules.v2,47.27,docs_visit:1.9;pricing_page_visit:1.13;demo_page_visit:1.21;crm_email_reply:0.71,,rep_omar,routed,0.92,false
+a-003333,acc-5961,1791222840000,v2,32.39,product_signup:0.69;intent_topic_surge:1.49;webinar_attended:1.19,A,rep_lena, Routed,0.92,
+a-003334,acc-0220,2026-10-05T11:58:00Z,rules.v2,36.03,blog_visit:1.09;demo_page_visit:1.49;webinar_attended:1.85,A,rep_omar,ROUTED,0.92,false
+a-003335,acc-0142,2026-10-10T17:03:00Z,v2,63.7,product_signup:0.78;demo_page_visit:2.02;intent_topic_surge:2.16,A,rep_farid, Routed,0.92,false
+a-003336,acc-0674,2026-10-06T14:17:00Z,rules.v2,65.21,product_usage_spike:1.17;blog_visit:1.23;webinar_attended:1.82;demo_page_visit:2.17,A,rep_tomas, Routed,0.92,
+a-003337,acc-5757,2026-10-06T10:14:00Z,rules.v2,1.28,blog_visit:1.28,A,rep_dev,Explore,0.06,false
+a-003338,acc-1354,2026-10-06T14:30:00Z,v2,74.11,product_usage_spike:1.73;demo_page_visit:1.95;blog_visit:1.77;hiring_gtm_ops:1.44,A,,holdout,0.92,false
+a-003339,acc-4425,2026-10-08T11:45:00Z,rules.v2,7.344,webinar_attended:1.44,B,rep_dev,explore,0.06,false
+a-003340,acc-0185,2026-10-08T09:55:00Z,v2,25.78,evaluating_alternatives:2.11;pricing_page_visit:0.77,A,rep_farid, Routed,0.92,false
+a-003341,acc-1052,2026-10-08T09:15:00Z,rules.v2,43.367,pricing_page_visit:0.73;product_usage_spike:1.84;webinar_attended:1.28,B,rep_omar,routed,0.92,true
+a-003342,acc-6341,2026-10-07T16:26:00Z,v2,29.75,seat_limit_reached:0.68;budget_confirmed:1.47,B,,control,0.92,false
+a-003343,acc-1987,2026-10-05T11:41:00Z,rules.v2,5.78,intent_topic_surge:0.68,,rep_sana,explore,0.06,false
+a-003344,acc-5608,2026-10-07T11:30:00Z,v2,28.186,demo_page_visit:1.33;pricing_page_visit:0.66;webinar_attended:0.44,B,rep_tomas, Routed,0.92,false
+a-003345,acc-6655,2026-10-08T14:42:00Z,rules.v2,52.836,seat_limit_reached:1.71;pricing_page_visit:1.24;docs_visit:1.17;crm_email_reply:1.81,B,rep_yuki,ROUTED,0.92,false
+a-003346,acc-5826,2026-10-08T17:56:00Z,rules.v2,31.144,webinar_attended:1.77;intent_topic_surge:2.39;pricing_page_visit:0.43,B,rep_lena,routed,0.92,false
+a-003347,acc-3288,2026-10-06 09:42:00,rules.v2,47.97,product_usage_spike:2.03;crm_email_reply:1.33,A,rep_lena,routed,0.92,false
+a-003348,acc-4835,2026-10-09T15:30:00Z,rules.v2,46.89,product_signup:0.89;demo_page_visit:2.11;blog_visit:1.54,A,rep_lena, Routed,0.92,false
+a-003349,acc-6661,2026-10-06 17:55:00,v2,25.2,docs_visit:2.3;product_usage_spike:2.38,C,,holdout,0.92,true
+a-003350,acc-4826,1791535620000,v2,36.24,blog_visit:1.24;product_signup:1.0;intent_topic_surge:2.04,A,rep_tomas, Routed,0.92,false
+a-003351,acc-0983,2026-10-08T16:31:00Z,rules.v2,28.85,pricing_page_visit:1.3;docs_visit:0.6;product_signup:0.59,A,rep_farid,routed,0.92,false
+a-003352,acc-7315,1791454800000,v2,35.92,docs_visit:0.64;crm_meeting_booked:1.5;webinar_attended:2.11,A,rep_farid,routed,0.92,false
+a-003353,acc-1570,2026-10-08T11:38:00Z,rules.v2,33.643,intent_topic_surge:2.11;docs_visit:1.24;pricing_page_visit:0.58;crm_email_reply:0.86,B,,Holdout,0.92,false
+a-003354,acc-5143,2026-10-07 14:10:00,v2,31.416,budget_confirmed:1.58;webinar_attended:1.41;product_signup:0.7,B,rep_farid, Routed,0.92,false
+a-003355,acc-5034,2026-10-09 11:07:00,rules.v2,25.5,blog_visit:2.28;crm_email_reply:2.22;hiring_gtm_ops:1.73,B,rep_omar,ROUTED,0.92,
+a-003356,acc-2470,2026-10-09T15:37:00Z,rules.v2,34.16,intent_topic_surge:1.5;pricing_page_visit:1.28;blog_visit:1.24,A,rep_amara,ROUTED,0.92,false
+a-003357,acc-0433,2026-10-09T11:55:00Z,rules.v2,28.0925,blog_visit:2.36;docs_visit:1.01;evaluating_alternatives:1.3;pricing_page_visit:0.93,B,rep_amara,routed,0.92,false
+a-003358,acc-4354,2026-10-07T12:15:00Z,v2,45.01,blog_visit:1.26;pricing_page_visit:2.14;product_signup:1.05,A,rep_tomas, Routed,0.92,false
+a-003359,acc-3858,2026-10-09T16:25:00Z,v2,49.9,intent_topic_surge:0.68;crm_meeting_booked:0.81;demo_page_visit:1.58,A,rep_farid,routed,0.92,false
+a-003360,acc-6020,2026-10-09T11:40:00Z,rules.v2,41.735,pricing_page_visit:2.33;docs_visit:1.58;hiring_gtm_ops:0.82;demo_page_visit:0.51;legacy_pixel:1.0,B,rep_farid,routed,0.92,false
+a-003361,acc-7943,2026-10-07T11:37:00Z,rules.v2,21.948,hiring_gtm_ops:2.16;budget_confirmed:2.23;webinar_attended:1.43,C,rep_amara,explore,0.06,
+a-003362,acc-7623,2026-10-06T08:01:00Z,rules.v2,43.7495,blog_visit:1.3;budget_confirmed:1.69;pricing_page_visit:2.25;docs_visit:1.39,B,rep_dev, Routed,0.92,false
+a-003363,acc-3935,2026-10-05 16:01:00,rules.v2,25.584,pricing_page_visit:1.26;seat_limit_reached:2.37,C,rep_lena,routed,0.92,
+a-003364,acc-3582,2026-10-09T08:19:00Z,v2,29.49,product_usage_spike:2.07;intent_topic_surge:0.67;product_signup:0.43,C,rep_yuki,routed,0.92,false
+a-003365,acc-6464,2026-10-09T08:43:00Z,rules.v2,41.8965,blog_visit:1.39;pricing_page_visit:2.08;intent_topic_surge:1.99,B,rep_lena,routed,0.92,false
+a-003366,acc-5276,1791546120000,v2,41.242,docs_visit:0.54;pricing_page_visit:2.33;product_signup:1.26,B,rep_sana,routed,0.92,false
+a-003367,acc-4368,2026-10-06T12:04:00Z,v2,25.56,docs_visit:2.09;product_signup:1.44;evaluating_alternatives:1.99,C,rep_farid,routed,0.92,false
+a-003368,acc-2151,2026-10-05T14:28:00Z,rules.v2,35.058,intent_topic_surge:1.13;docs_visit:1.97;product_usage_spike:1.29;budget_confirmed:1.17,C,,holdout,0.92,false
+a-003369,acc-2735,2026-10-05T15:50:00Z,rules.v2,25.0325,product_signup:0.57;intent_topic_surge:0.59;evaluating_alternatives:1.7,B,rep_dev,routed,0.92,
+a-003370,acc-0440,2026-10-05T12:05:00Z,rules.v2,27.096,blog_visit:1.36;intent_topic_surge:0.78;docs_visit:2.19;product_signup:2.32,C,rep_sana,ROUTED,0.92,false
+a-003371,acc-4405,2026-10-11T11:34:00Z,rules.v2,21.126,pricing_page_visit:2.21;blog_visit:1.11;hiring_gtm_ops:0.61,C,rep_farid,Explore,0.06,false
+a-003372,acc-6071,2026-10-06T16:17:00Z,rules.v2,43.6,pricing_page_visit:2.29;demo_page_visit:0.85;blog_visit:2.18,A,rep_tomas,ROUTED,0.92,false
+a-003373,acc-2761,2026-10-06T10:09:00Z,v2,29.334,demo_page_visit:1.55;blog_visit:1.11;crm_email_reply:1.34;pricing_page_visit:0.78,C,rep_lena,ROUTED,0.92,
+a-003374,acc-5288,1791461520000,v2,50.592,product_usage_spike:2.25;budget_confirmed:2.35;webinar_attended:0.92,B,rep_omar,routed,0.92,false
+a-003375,acc-3706,2026-10-09 16:04:00,rules.v2,26.118,product_usage_spike:1.26;budget_confirmed:2.33;docs_visit:0.95,C,rep_omar,routed,0.92,false
+a-003376,acc-4715,2026-10-07T14:04:00Z,rules.v2,31.45,pricing_page_visit:2.1;crm_email_reply:1.0,B,rep_tomas,routed,0.92,true
+a-003377,acc-6404,2026-10-07T13:02:00Z,v2,36.006,pricing_page_visit:1.24;seat_limit_reached:1.95,B,,holdout,0.92,false
+a-003378,acc-7968,2026-10-06 12:08:00,rules.v2,1.782,docs_visit:0.99,C,rep_lena,explore,0.06,false
+a-003379,acc-7903,2026-10-08 14:24:00,v2,68.64,product_usage_spike:1.28;webinar_attended:0.47;pricing_page_visit:1.77;budget_confirmed:1.97,A,rep_tomas,routed,0.92,false
+a-003380,acc-5729,2026-10-06T15:30:00Z,v2,25.46,seat_limit_reached:1.67;blog_visit:0.46,A,rep_omar,routed,0.92,
+a-003381,acc-6506,2026-10-09T11:55:00Z,rules.v2,44.994,crm_meeting_booked:2.39;crm_email_reply:1.11;evaluating_alternatives:1.65;pricing_page_visit:2.3,C,rep_farid,routed,0.92,false
+a-003382,acc-6422,2026-10-08T12:07:00Z,v2,44.82,pricing_page_visit:1.58;product_usage_spike:1.81;intent_topic_surge:2.17,C,rep_dev,routed,0.92,false
+a-003383,acc-4816,2026-10-09T12:21:00Z,rules.v2,53.4,crm_meeting_booked:1.84;docs_visit:0.79;product_usage_spike:1.59;blog_visit:0.41,A,rep_sana,routed,0.92,false
+a-003384,acc-1303,2026-10-05T08:29:00Z,rules.v2,42.3045,blog_visit:0.83;product_signup:1.22;pricing_page_visit:0.76;intent_topic_surge:2.06,B,rep_omar, Routed,0.92,false
+a-003385,acc-3564,2026-10-09 09:34:00,v2,13.464,evaluating_alternatives:2.17;docs_visit:2.36;blog_visit:1.44,C,rep_sana,explore,0.06,false
+a-003386,acc-1348,2026-10-07T10:08:00Z,v2,27.51,product_usage_spike:1.33;docs_visit:1.81;crm_email_reply:0.72;hiring_gtm_ops:2.09,C,rep_dev,routed,0.92,true
+a-003387,acc-3711,2026-10-09 08:08:00,v2,37.75,product_signup:0.85;seat_limit_reached:1.38,A,rep_farid,routed,0.92,false
+a-003388,acc-3075,2026-10-07T17:59:00Z,rules.v2,34.0,pricing_page_visit:2.02;docs_visit:2.08,A,rep_tomas,routed,0.92,false
+a-003389,acc-2604,2026-10-08 08:11:00,rules.v2,28.1095,pricing_page_visit:2.35;docs_visit:1.69,B,rep_amara,ROUTED,0.92,false
+a-003390,acc-0354,2026-10-06T14:58:00Z,rules.v2,3.536,blog_visit:2.09;docs_visit:0.72,B,rep_sana,Explore,0.06,true
+a-003391,acc-0462,2026-10-08T10:15:00Z,rules.v2,25.177,pricing_page_visit:2.08;docs_visit:0.54,B,rep_amara,routed,0.92,false
+a-003392,acc-2853,2026-10-06T13:31:00Z,rules.v2,31.4,docs_visit:1.03;crm_email_reply:0.99;intent_topic_surge:1.94;legacy_pixel:1.0,A,rep_sana, Routed,0.92,false
+a-003393,acc-1556,2026-10-06T16:03:00Z,rules.v2,37.315,docs_visit:2.39;intent_topic_surge:0.99;pricing_page_visit:2.29,B,,Holdout,0.92,
+a-003394,acc-2700,2026-10-08T14:59:00Z,v2,36.51,product_signup:1.7;crm_meeting_booked:1.85;evaluating_alternatives:0.89,C,rep_lena,ROUTED,0.92,false
+a-003395,acc-3232,2026-10-06T17:38:00Z,rules.v2,29.427,crm_email_reply:1.18;docs_visit:0.85;product_signup:1.43,B,rep_amara,routed,0.92,false
+a-003396,acc-6853,2026-10-07T17:48:00Z,v2,28.14,docs_visit:1.83;product_signup:1.51,A,rep_omar,ROUTED,0.92,false
+a-003397,acc-7784,2026-10-09T13:16:00Z,rules.v2,25.8,product_signup:1.38;intent_topic_surge:1.64;hiring_gtm_ops:0.59,C,rep_amara,routed,0.92,false
+a-003398,acc-1186,2026-10-09T16:30:00Z,rules.v2,42.3215,webinar_attended:2.15;pricing_page_visit:1.21;blog_visit:0.85;intent_topic_surge:2.1,B,rep_omar,routed,0.92,
+a-003399,acc-0711,2026-10-08T08:24:00Z,rules.v2,41.0125,crm_meeting_booked:1.24;crm_email_reply:1.62;product_signup:0.69;blog_visit:1.32,B,rep_dev,routed,0.92,false
+a-003400,acc-1493,2026-10-08T15:33:00Z,v2,40.681,docs_visit:0.47;crm_meeting_booked:2.35;product_signup:0.63;intent_topic_surge:1.5,B,rep_dev, Routed,0.92,true
+a-003401,acc-3528,2026-10-05T16:40:00Z,rules.v2,26.622,webinar_attended:0.66;budget_confirmed:2.14;product_usage_spike:0.52,B,rep_sana,routed,0.92,false
+a-003402,acc-6218,2026-10-07T13:23:00Z,rules.v2,29.4865,product_signup:1.84;crm_email_reply:0.62;blog_visit:1.51,B,rep_sana,routed,0.92,false
+a-003403,acc-3593,2026-10-09T11:33:00Z,v2,58.93,pricing_page_visit:2.07;hiring_gtm_ops:0.79;blog_visit:1.07;product_usage_spike:1.22,A,rep_sana, Routed,0.92,false
+a-003404,acc-1676,2026-10-07T12:33:00Z,rules.v2,30.07,crm_email_reply:0.75;intent_topic_surge:1.93;webinar_attended:0.67,A,rep_omar,ROUTED,0.92,
+a-003405,acc-5558,2026-10-06T10:50:00Z,rules.v2,36.732,blog_visit:0.62;demo_page_visit:1.64;seat_limit_reached:1.07;webinar_attended:1.56,C,rep_tomas,routed,0.92,false
+a-003406,acc-5851,2026-10-10T09:34:00Z,rules.v2,35.86,product_usage_spike:1.64;blog_visit:1.12;docs_visit:1.74,A,rep_yuki,ROUTED,0.92,false
+a-003407,acc-5119,2026-10-09T08:17:00Z,rules.v2,28.7,evaluating_alternatives:1.1;intent_topic_surge:1.17;blog_visit:2.39,A,rep_farid,routed,0.92,true
+a-003408,acc-3048,2026-10-09T11:54:00Z,rules.v2,38.51,intent_topic_surge:2.37;webinar_attended:0.81;evaluating_alternatives:0.91,A,rep_dev,ROUTED,0.92,false
+a-003409,acc-5737,2026-10-07T15:39:00Z,v2,42.56,evaluating_alternatives:1.77;pricing_page_visit:1.39;intent_topic_surge:0.81,A,rep_tomas, Routed,0.92,false
+a-003410,acc-4772,2026-10-09T16:48:00Z,rules.v2,39.924,blog_visit:0.54;product_signup:2.17;product_usage_spike:2.32,C,rep_sana, Routed,0.92,false
+a-003411,acc-2003,2026-10-06T12:53:00Z,rules.v2,53.941,crm_meeting_booked:1.81;evaluating_alternatives:1.05;pricing_page_visit:1.89,B,rep_dev, Routed,0.92,true
+a-003412,acc-2585,2026-10-05 15:16:00,rules.v2,58.74,pricing_page_visit:0.86;docs_visit:2.04;webinar_attended:1.45;demo_page_visit:2.18,A,rep_farid, Routed,0.92,false
+a-003413,acc-1361,2026-10-06 15:01:00,rules.v2,41.4545,blog_visit:0.86;product_signup:1.67;product_usage_spike:1.27,B,rep_dev,routed,0.92,false
+a-003414,acc-2892,2026-10-05T16:34:00Z,v2,51.6035,crm_email_reply:1.01;blog_visit:1.62;product_signup:2.35;intent_topic_surge:2.18,B,rep_lena,routed,0.92,false
+a-003415,acc-3327,2026-10-06T09:02:00Z,rules.v2,29.427,webinar_attended:1.26;evaluating_alternatives:1.04;crm_email_reply:1.34,B,rep_dev, Routed,0.92,false
+a-003416,acc-6096,2026-10-05T16:56:00Z,v2,50.68,crm_meeting_booked:1.84;demo_page_visit:0.73;blog_visit:2.14;evaluating_alternatives:1.01,A,rep_yuki,ROUTED,0.92,
+a-003417,acc-4702,2026-10-08T17:30:00Z,rules.v2,29.75,evaluating_alternatives:1.94;intent_topic_surge:2.37,B,rep_farid,routed,0.92,false
+a-003418,acc-1502,2026-10-09T08:48:00Z,v2,23.82,intent_topic_surge:0.97;blog_visit:2.2;pricing_page_visit:2.35,C,rep_lena,explore,0.06,false
+a-003419,acc-4563,2026-10-07T16:56:00Z,rules.v2,35.484,product_usage_spike:1.62;docs_visit:0.66;pricing_page_visit:2.29,C,rep_tomas,ROUTED,0.92,false
+a-003420,acc-1387,1791813540000,rules.v2,33.16,webinar_attended:1.36;seat_limit_reached:1.65,A,rep_lena,ROUTED,0.92,false
+a-003421,acc-4443,2026-10-15T09:52:00Z,v2,26.25,product_usage_spike:1.25;docs_visit:1.25,A,rep_lena,routed,0.92,
+a-003422,acc-4446,2026-10-12 12:30:00,rules.v2,40.9275,product_signup:1.37;webinar_attended:1.72;crm_email_reply:1.92,B,rep_sana,ROUTED,0.92,true
+a-003423,acc-2668,1791880320000,v2,28.4325,docs_visit:1.67;blog_visit:1.33;crm_meeting_booked:0.53;product_signup:1.03,B,rep_lena, Routed,0.92,
+a-003424,acc-5953,2026-10-14T09:54:00Z,v2,26.76,product_signup:1.82;intent_topic_surge:1.73,,rep_omar,ROUTED,0.92,false
+a-003425,acc-0049,1791804480000,rules.v2,59.53,blog_visit:0.43;product_usage_spike:0.95;demo_page_visit:2.4;hiring_gtm_ops:1.25,A,,control,0.92,false
+a-003426,acc-6884,1792164960000,rules.v2,25.76,blog_visit:0.8;pricing_page_visit:1.5;docs_visit:1.32,A,rep_sana, Routed,0.92,true
+a-003427,acc-3077,2026-10-13 13:41:00,rules.v2,34.4845,seat_limit_reached:2.16;crm_email_reply:1.73,B,rep_dev,ROUTED,0.92,false
+a-003428,acc-7981,2026-10-16T15:53:00Z,rules.v2,38.33,demo_page_visit:0.63;evaluating_alternatives:0.55;intent_topic_surge:2.33,A,rep_amara,routed,0.92,false
+a-003429,acc-0887,2026-10-12T14:12:00Z,rules.v2,37.604,product_usage_spike:0.68;demo_page_visit:2.15,B,rep_tomas,routed,0.92,false
+a-003430,acc-5045,2026-10-14 17:59:00,rules.v2,10.2,docs_visit:1.42;crm_email_reply:0.66,A,rep_lena,explore,0.06,true
+a-003431,acc-4935,2026-10-14T12:27:00Z,rules.v2,34.302,demo_page_visit:1.91;webinar_attended:1.41;product_signup:0.53;evaluating_alternatives:0.68,C,rep_tomas,routed,0.92,
+a-003432,acc-0027,1792168680000,rules.v2,53.55,blog_visit:1.56;product_signup:1.9;product_usage_spike:1.83,B,rep_omar, Routed,0.92,true
+a-003433,acc-2408,2026-10-14T09:11:00Z,rules.v2,28.016,crm_email_reply:1.95;docs_visit:1.17;intent_topic_surge:1.19,B,rep_omar,routed,0.92,false
+a-003434,acc-1070,2026-10-16T08:11:00Z,rules.v2,28.17,crm_email_reply:0.89;demo_page_visit:1.26,A,rep_omar,routed,0.92,true
+a-003435,acc-1174,2026-10-14T13:37:00Z,rules.v2,31.284,demo_page_visit:0.6;product_usage_spike:2.03;webinar_attended:1.09,C,rep_yuki,routed,0.92,
+a-003436,acc-2068,2026-10-12T16:31:00Z,rules.v2,29.801,blog_visit:2.15;crm_meeting_booked:1.17;pricing_page_visit:0.79;legacy_pixel:1.0,B,rep_sana,routed,0.92,false
+a-003437,acc-0545,2026-10-17 12:21:00,v2,31.875,product_signup:2.09;hiring_gtm_ops:0.75,B,rep_sana, Routed,0.92,false
+a-003438,acc-3880,2026-10-13T11:59:00Z,v2,45.0,intent_topic_surge:1.3;blog_visit:2.29;product_signup:2.19,A,rep_sana,routed,0.92,false
+a-003439,acc-5026,2026-10-12 10:39:00,rules.v2,41.038,webinar_attended:0.63;product_usage_spike:1.15;hiring_gtm_ops:0.5;intent_topic_surge:1.88,B,rep_dev, Routed,0.92,
+a-003440,acc-4229,2026-10-15T15:42:00Z,rules.v2,37.7,webinar_attended:0.5;pricing_page_visit:1.35;intent_topic_surge:1.38;blog_visit:2.11,A,rep_amara,routed,0.92,true
+a-003441,acc-0764,2026-10-13 10:21:00,v2,64.6,webinar_attended:2.33;seat_limit_reached:1.54;product_usage_spike:1.15;intent_topic_surge:1.83,B,rep_yuki, Routed,0.92,false
+a-003442,acc-4873,2026-10-14 12:07:00,v2,50.11,product_signup:1.47;crm_email_reply:0.82;blog_visit:1.22;pricing_page_visit:1.39,A,rep_lena, Routed,0.92,false
+a-003443,acc-2023,1791999180000,rules.v2,35.955,pricing_page_visit:2.27;crm_meeting_booked:0.65,B,rep_lena, Routed,0.92,
+a-003444,acc-6127,2026-10-14T11:35:00Z,rules.v2,28.482,budget_confirmed:2.08;docs_visit:1.06;seat_limit_reached:0.67;webinar_attended:1.59,C,rep_yuki, Routed,0.92,
+a-003445,acc-2691,2026-10-14T15:07:00Z,rules.v2,18.7,crm_meeting_booked:1.78,B,rep_lena,explore,0.06,false
+a-003446,acc-0622,2026-10-16T09:52:00Z,v2,30.107,pricing_page_visit:1.72;product_usage_spike:0.63,B,rep_farid,ROUTED,0.92,false
+a-003447,acc-3748,2026-10-15T11:33:00Z,rules.v2,35.955,crm_email_reply:2.04;evaluating_alternatives:2.11;product_signup:0.62,B,rep_dev,routed,0.92,true
+a-003448,acc-5508,1792164960000,rules.v2,31.45,product_usage_spike:1.34;pricing_page_visit:0.92;legacy_pixel:1.0,B,rep_amara,ROUTED,0.92,
+a-003449,acc-7079,1791804720000,v2,39.95,blog_visit:2.12;seat_limit_reached:1.8;intent_topic_surge:2.13,B,rep_dev,ROUTED,0.92,false
+a-003450,acc-7070,2026-10-16T09:12:00Z,rules.v2,58.752,pricing_page_visit:1.58;crm_meeting_booked:1.52;seat_limit_reached:1.71,,rep_amara,ROUTED,0.92,false
+a-003451,acc-6236,2026-10-16T08:54:00Z,rules.v2,25.4915,webinar_attended:1.79;blog_visit:1.25;budget_confirmed:1.49,B,rep_amara,routed,0.92,false
+a-003452,acc-6457,2026-10-15T13:26:00Z,v2,30.45,demo_page_visit:2.34;blog_visit:2.2;intent_topic_surge:1.12;docs_visit:1.85,C,rep_tomas,routed,0.92,
+a-003453,acc-2401,2026-10-16T09:18:00Z,v2,69.72,pricing_page_visit:1.83;product_signup:1.35;docs_visit:1.95;budget_confirmed:2.04,A,rep_farid,routed,0.92,false
+a-003454,acc-1441,2026-10-15 13:56:00,rules.v2,31.14,blog_visit:1.65;webinar_attended:1.79;pricing_page_visit:1.89;evaluating_alternatives:0.87,C,rep_dev, Routed,0.92,true
+a-003455,acc-0846,2026-10-16T16:43:00Z,rules.v2,25.704,crm_email_reply:0.98;product_usage_spike:1.89,,rep_dev,routed,0.92,true
+a-003456,acc-1377,2026-10-15T11:40:00Z,rules.v2,52.7,product_signup:2.27;crm_meeting_booked:1.14;hiring_gtm_ops:1.88,B,rep_yuki,routed,0.92,
+a-003457,acc-7950,2026-10-15T14:02:00Z,rules.v2,42.347,demo_page_visit:2.0;crm_meeting_booked:0.81,B,rep_amara,routed,0.92,true
+a-003458,acc-6832,2026-10-16T17:49:00Z,rules.v2,30.7,intent_topic_surge:1.27;webinar_attended:2.36;docs_visit:2.14,A,rep_sana, Routed,0.92,false
+a-003459,acc-5316,2026-10-16 14:49:00,rules.v2,31.8155,product_signup:2.04;pricing_page_visit:0.43;docs_visit:0.47,B,rep_lena,routed,0.92,false
+a-003460,acc-3445,2026-10-13T12:51:00Z,v2,1.14,blog_visit:1.14,A,rep_yuki,explore,0.06,false
+a-003461,acc-0056,2026-10-12T12:35:00Z,rules.v2,45.08,docs_visit:0.56;demo_page_visit:2.07;intent_topic_surge:1.14,A,rep_dev,routed,0.92,false
+a-003462,acc-7839,2026-10-16T15:23:00Z,rules.v2,54.68,intent_topic_surge:2.33;docs_visit:1.76;blog_visit:1.4;pricing_page_visit:2.33,A,rep_sana,routed,0.92,false
+a-003463,acc-7685,2026-10-16 11:32:00,v2,30.5065,intent_topic_surge:0.48;blog_visit:0.79;hiring_gtm_ops:1.97;pricing_page_visit:1.45,B,rep_yuki,routed,0.92,false
+a-003464,acc-4758,2026-10-14T14:12:00Z,rules.v2,59.44,budget_confirmed:0.73;crm_meeting_booked:1.99;product_signup:1.62,A,rep_dev,ROUTED,0.92,true
+a-003465,acc-7798,2026-10-12T14:36:00Z,rules.v2,54.06,product_signup:0.68;pricing_page_visit:1.32;product_usage_spike:1.41,A,rep_sana, Routed,0.92,false
+a-003466,acc-6520,1791796380000,v2,26.265,evaluating_alternatives:1.53;product_signup:1.06,B,,control,0.92,false
+a-003467,acc-5900,2026-10-12T13:18:00Z,rules.v2,37.3,pricing_page_visit:2.21;hiring_gtm_ops:0.93,A,rep_sana,routed,0.92,false
+a-003468,acc-0079,2026-10-13T16:34:00Z,rules.v2,41.62,pricing_page_visit:0.83;blog_visit:2.39;hiring_gtm_ops:1.09;crm_email_reply:2.01,A,rep_farid,ROUTED,0.92,false
+a-003469,acc-5805,2026-10-16T17:05:00Z,rules.v2,35.08,pricing_page_visit:0.65;crm_email_reply:0.93;webinar_attended:1.96;docs_visit:1.95,A,rep_lena,routed,0.92,
+a-003470,acc-7512,2026-10-14T09:19:00Z,rules.v2,56.695,intent_topic_surge:1.97;seat_limit_reached:1.33;crm_meeting_booked:1.47,B,rep_sana,routed,0.92,false
+a-003471,acc-7423,2026-10-16T15:04:00Z,v2,30.588,product_signup:1.9;crm_email_reply:0.45;docs_visit:1.99;pricing_page_visit:0.89,C,rep_farid,ROUTED,0.92,false
+a-003472,acc-7662,2026-10-13 09:44:00,rules.v2,26.898,webinar_attended:1.28;hiring_gtm_ops:2.39;product_signup:1.81,C,,Holdout,0.92,false
+a-003473,acc-4861,1792149360000,rules.v2,29.07,blog_visit:0.95;webinar_attended:1.54;demo_page_visit:1.18,A,rep_farid,routed,0.92,true
+a-003474,acc-5310,2026-10-16T08:15:00Z,rules.v2,48.518,evaluating_alternatives:0.94;pricing_page_visit:1.89;blog_visit:1.56;crm_meeting_booked:0.68,B,rep_omar,routed,0.92,true
+a-003475,acc-6704,2026-10-12 17:03:00,rules.v2,40.8,demo_page_visit:2.33;intent_topic_surge:1.6,B,rep_tomas,ROUTED,0.92,false
+a-003476,acc-2633,2026-10-14 16:38:00,rules.v2,10.2,webinar_attended:2.04,B,rep_sana,explore,0.06,false
+a-003477,acc-1272,2026-10-12T09:13:00Z,rules.v2,36.754,webinar_attended:2.12;blog_visit:2.15;demo_page_visit:0.76;pricing_page_visit:1.22,B,rep_tomas,routed,0.92,false
+a-003478,acc-3406,2026-10-14T13:26:00Z,rules.v2,32.3,blog_visit:2.21;product_usage_spike:2.08,B,rep_dev,routed,0.92,false
+a-003479,acc-3536,1792069680000,rules.v2,56.16,webinar_attended:1.46;product_signup:0.8;demo_page_visit:1.67;pricing_page_visit:0.62,A,rep_lena,routed,0.92,false
+a-003480,acc-3916,2026-10-13 12:30:00,v2,27.132,docs_visit:2.1;budget_confirmed:2.14;webinar_attended:1.32,B,rep_yuki,ROUTED,0.92,false
+a-003481,acc-1064,2026-10-15T14:32:00Z,v2,14.19,product_usage_spike:0.65;docs_visit:0.83,A,rep_sana,Explore,0.06,false
+a-003482,acc-1912,1792157100000,v2,25.38,budget_confirmed:0.92;product_usage_spike:0.49,A,rep_tomas,ROUTED,0.92,
+a-003483,acc-2565,1792067580000,rules.v2,32.7505,webinar_attended:1.84;blog_visit:1.75;product_usage_spike:1.43,B,rep_farid,ROUTED,0.92,true
+a-003484,acc-6972,2026-10-13T13:44:00Z,rules.v2,37.57,blog_visit:1.25;hiring_gtm_ops:1.05;pricing_page_visit:1.88,A,rep_tomas,routed,0.92,false
+a-003485,acc-7422,1792070100000,v2,32.3,demo_page_visit:2.08;docs_visit:2.34,B,rep_sana,ROUTED,0.92,false
+a-003486,acc-0230,2026-10-13T11:14:00Z,rules.v2,30.88,demo_page_visit:0.93;docs_visit:2.1;hiring_gtm_ops:1.76,A,rep_dev,routed,0.92,true
+a-003487,acc-7185,2026-10-12T08:47:00Z,rules.v2,25.6,product_signup:0.52;docs_visit:1.5;intent_topic_surge:1.33,A,rep_omar,routed,0.92,false
+a-003488,acc-5685,2026-10-14T13:35:00Z,v2,31.98,pricing_page_visit:1.57;hiring_gtm_ops:1.61,A,rep_lena,routed,0.92,false
+a-003489,acc-1890,2026-10-12T08:44:00Z,v2,47.88,product_usage_spike:1.38;demo_page_visit:1.44,A,rep_lena,routed,0.92,true
+a-003489,acc-1890,2026-10-12T08:44:00Z,v2,47.88,product_usage_spike:1.38;demo_page_visit:1.44,A,rep_lena,routed,0.92,true
+a-003490,acc-4362,2026-10-14T15:12:00Z,v2,69.7085,product_usage_spike:2.31;product_signup:1.77;pricing_page_visit:1.39,B,rep_sana, Routed,0.92,true
+a-003491,acc-3111,2026-10-13T16:38:00Z,rules.v2,30.311,crm_email_reply:0.49;blog_visit:1.25;product_signup:2.35,B,rep_yuki,routed,0.92,true
+a-003492,acc-4508,2026-10-15 13:15:00,v2,34.14,pricing_page_visit:1.01;intent_topic_surge:2.39,A,rep_farid,routed,0.92,false
+a-003493,acc-7796,2026-10-14T09:51:00Z,rules.v2,38.862,product_signup:0.92;docs_visit:2.33;product_usage_spike:1.44,B,rep_sana, Routed,0.92,false
+a-003494,acc-0571,2026-10-16T16:35:00Z,rules.v2,16.884,product_usage_spike:0.79;demo_page_visit:0.87,C,rep_dev,explore,0.06,
+a-003495,acc-7982,2026-10-12T12:59:00Z,v2,33.201,demo_page_visit:0.66;product_usage_spike:1.25;docs_visit:2.31,B,rep_sana, Routed,0.92,false
+a-003496,acc-2558,2026-10-15T13:41:00Z,v2,30.61,docs_visit:1.95;intent_topic_surge:0.53;blog_visit:2.32;crm_email_reply:1.94,A,rep_sana,ROUTED,0.92,
+a-003497,acc-1928,2026-10-12T15:50:00Z,rules.v2,23.8,pricing_page_visit:2.19,B,rep_yuki,Explore,0.06,
+a-003498,acc-6350,2026-10-12T13:01:00Z,rules.v2,23.681,blog_visit:1.86;intent_topic_surge:2.2;docs_visit:2.22,B,rep_tomas,explore,0.06,false
+a-003499,acc-5374,2026-10-16T12:38:00Z,rules.v2,60.51,docs_visit:1.86;crm_email_reply:0.77;product_usage_spike:2.32;webinar_attended:2.39,A,rep_tomas, Routed,0.92,
+a-003500,acc-7236,2026-10-16T09:24:00Z,rules.v2,43.14,webinar_attended:1.19;product_usage_spike:2.35,A,,Holdout,0.92,true
+a-003501,acc-2346,2026-10-12T17:17:00Z,v2,38.376,webinar_attended:1.21;intent_topic_surge:1.48;pricing_page_visit:0.85;product_signup:2.08,C,rep_amara, Routed,0.92,false
+a-003502,acc-6334,2026-10-13T09:42:00Z,rules.v2,59.7,crm_email_reply:1.0;pricing_page_visit:1.68;product_signup:1.14;product_usage_spike:0.56,A,rep_farid, Routed,0.92,true
+a-003503,acc-0787,2026-10-12T17:15:00Z,rules.v2,27.54,intent_topic_surge:1.59;product_signup:2.22,C,rep_tomas,ROUTED,0.92,false
+a-003504,acc-6936,2026-10-16 09:31:00,rules.v2,26.4435,hiring_gtm_ops:0.64;docs_visit:1.53;budget_confirmed:0.44;intent_topic_surge:1.22,B,rep_omar,ROUTED,0.92,false
+a-003505,acc-4735,2026-10-16 13:42:00,v2,36.456,webinar_attended:1.46;intent_topic_surge:2.01;demo_page_visit:2.36,C,rep_lena,routed,0.92,false
+a-003506,acc-1704,2026-10-15T08:34:00Z,rules.v2,28.548,pricing_page_visit:1.42;docs_visit:2.21;product_usage_spike:0.65;hiring_gtm_ops:1.09,C,rep_tomas,routed,0.92,false
+a-003506,acc-1704,2026-10-15T08:34:00Z,rules.v2,28.548,pricing_page_visit:1.42;docs_visit:2.21;product_usage_spike:0.65;hiring_gtm_ops:1.09,C,rep_tomas,routed,0.92,false
+a-003507,acc-4651,2026-10-14T09:55:00Z,rules.v2,33.15,product_signup:1.6;evaluating_alternatives:2.36,B,rep_amara,ROUTED,0.92,
+a-003508,acc-4373,2026-10-13 15:27:00,rules.v2,28.48,docs_visit:1.6;pricing_page_visit:1.31;webinar_attended:0.89,A,rep_sana,ROUTED,0.92,false
+a-003509,acc-5526,2026-10-12T16:04:00Z,rules.v2,32.9715,blog_visit:0.61;demo_page_visit:2.34;crm_email_reply:0.46;docs_visit:0.68,B,rep_lena, Routed,0.92,true
+a-003510,acc-5916,2026-10-14T09:39:00Z,rules.v2,37.71,pricing_page_visit:1.39;docs_visit:1.15;hiring_gtm_ops:1.93;webinar_attended:0.8,A,rep_lena,routed,0.92,false
+a-003511,acc-5994,2026-10-12T10:43:00Z,rules.v2,26.92,crm_meeting_booked:2.18;docs_visit:1.41;blog_visit:0.69,A,rep_farid,routed,0.92,
+a-003512,acc-2704,2026-10-15T12:58:00Z,rules.v2,76.02,demo_page_visit:1.42;crm_email_reply:1.2;budget_confirmed:1.59;pricing_page_visit:1.75,A,,holdout,0.92,
+a-003513,acc-3413,2026-10-15T17:39:00Z,rules.v2,43.163,intent_topic_surge:1.63;blog_visit:0.48;hiring_gtm_ops:0.4;product_signup:2.0,B,rep_farid,routed,0.92,false
+a-003514,acc-0156,2026-10-16T08:19:00Z,rules.v2,19.764,product_signup:2.08;docs_visit:0.98,C,rep_dev,Explore,0.06,
+a-003515,acc-1442,2026-10-12T11:18:00Z,rules.v2,29.444,pricing_page_visit:1.76;hiring_gtm_ops:1.1,B,rep_sana,routed,0.92,false
+a-003516,acc-1811,2026-10-13T13:40:00Z,v2,46.325,seat_limit_reached:0.5;crm_email_reply:1.7;webinar_attended:1.51;pricing_page_visit:1.26,B,rep_yuki, Routed,0.92,false
+a-003517,acc-4163,1792000020000,rules.v2,41.463,product_usage_spike:1.83;intent_topic_surge:0.81;pricing_page_visit:0.46;blog_visit:1.3,B,rep_tomas,routed,0.92,
+a-003518,acc-3904,2026-10-16T09:53:00Z,rules.v2,80.81,product_signup:2.2;evaluating_alternatives:0.67;pricing_page_visit:1.96;product_usage_spike:0.74,A,rep_sana,ROUTED,0.92,false
+a-003519,acc-6658,2026-10-12T13:17:00Z,v2,46.542,pricing_page_visit:1.63;blog_visit:1.51;product_usage_spike:1.18;demo_page_visit:2.13,C,rep_dev,ROUTED,0.92,false
+a-003520,acc-7189,2026-10-12T16:56:00Z,rules.v2,40.164,intent_topic_surge:1.4;budget_confirmed:1.31;crm_email_reply:2.33;pricing_page_visit:1.21,C,rep_sana,routed,0.92,false
+a-003521,acc-6887,2026-10-14T13:16:00Z,rules.v2,70.26,product_signup:1.89;blog_visit:0.65;pricing_page_visit:0.98;product_usage_spike:1.53,A,,Holdout,0.92,true
+a-003522,acc-3618,2026-10-14T13:51:00Z,rules.v2,35.97,docs_visit:1.99;pricing_page_visit:2.03;blog_visit:2.11,A,rep_lena,routed,0.92,
+a-003523,acc-1341,2026-10-15T08:42:00Z,rules.v2,41.52,pricing_page_visit:2.34;demo_page_visit:1.45;crm_email_reply:2.19,C,rep_omar,routed,0.92,true
+a-003524,acc-6710,2026-10-12T10:25:00Z,rules.v2,25.5,crm_email_reply:2.02;blog_visit:2.33;hiring_gtm_ops:1.85,B,rep_sana,routed,0.92,false
+a-003525,acc-3873,2026-10-13T11:51:00Z,rules.v2,39.21,product_usage_spike:1.82;product_signup:0.43,A,rep_farid, Routed,0.92,false
+a-003526,acc-7338,2026-10-14T09:58:00Z,v2,27.138,pricing_page_visit:0.61;crm_meeting_booked:1.34;intent_topic_surge:0.95;docs_visit:1.73,C,rep_yuki,routed,0.92,
+a-003527,acc-7833,2026-10-12 16:14:00,rules.v2,37.44,intent_topic_surge:1.04;demo_page_visit:1.69;blog_visit:2.33;pricing_page_visit:1.64,C,rep_sana, Routed,0.92,false
+a-003528,acc-1025,2026-10-15 09:17:00,rules.v2,40.8,product_signup:2.17;budget_confirmed:2.27,B,rep_omar, Routed,0.92,false
+a-003529,acc-3698,2026-10-13T10:50:00Z,rules.v2,37.368,product_usage_spike:2.15;crm_email_reply:1.48;webinar_attended:1.51;docs_visit:1.3,C,rep_lena,routed,0.92,false
+a-003530,acc-3809,2026-10-12 17:58:00,rules.v2,27.03,pricing_page_visit:1.2;evaluating_alternatives:1.58,B,rep_farid,routed,0.92,false
+a-003531,acc-7716,2026-10-14T08:08:00Z,v2,31.042,intent_topic_surge:1.24;webinar_attended:1.71;crm_email_reply:1.54,,rep_dev,routed,0.92,true
+a-003532,acc-5886,2026-10-13 13:17:00,rules.v2,35.9975,intent_topic_surge:1.3;blog_visit:1.23;crm_meeting_booked:1.73;crm_email_reply:0.68,B,rep_tomas, Routed,0.92,false
+a-003533,acc-1145,2026-10-12T11:27:00Z,rules.v2,46.0105,docs_visit:0.74;intent_topic_surge:2.16;crm_email_reply:1.91;demo_page_visit:0.92,B,rep_dev,routed,0.92,false
+a-003534,acc-6311,2026-10-13 16:04:00,v2,42.0,blog_visit:2.31;budget_confirmed:1.02;crm_meeting_booked:1.86,A,rep_lena,routed,0.92,false
+a-003535,acc-0661,2026-10-12T16:54:00Z,rules.v2,26.52,pricing_page_visit:2.06;product_signup:1.08,C,rep_omar, Routed,0.92,
+a-003536,acc-4694,2026-10-13T08:44:00Z,rules.v2,32.0365,webinar_attended:1.64;pricing_page_visit:1.54;blog_visit:2.1;docs_visit:1.43,B,rep_farid,routed,0.92,false
+a-003537,acc-5325,2026-10-14T09:22:00Z,v2,41.735,product_usage_spike:0.7;product_signup:2.32;intent_topic_surge:0.65,B,rep_tomas, Routed,0.92,false
+a-003538,acc-5479,2026-10-14T16:42:00Z,rules.v2,34.78,webinar_attended:1.83;pricing_page_visit:1.7,A,rep_tomas,routed,0.92,false
+a-003539,acc-2994,2026-10-14T15:25:00Z,v2,52.1475,blog_visit:2.19;product_signup:1.51;product_usage_spike:0.53;pricing_page_visit:1.94,B,rep_sana,routed,0.92,false
+a-003540,acc-1913,2026-10-13 11:00:00,v2,33.85,pricing_page_visit:0.83;intent_topic_surge:1.71;docs_visit:1.71,A,rep_farid, Routed,0.92,false
+a-003541,acc-0005,2026-10-12 14:31:00,rules.v2,26.214,pricing_page_visit:2.15;docs_visit:1.23;webinar_attended:2.27,C,rep_lena, Routed,0.92,false
+a-003542,acc-5350,2026-10-13T12:40:00Z,v2,42.76,pricing_page_visit:0.69;intent_topic_surge:1.51;budget_confirmed:1.09,A,rep_farid,routed,0.92,false
+a-003543,acc-2268,2026-10-15T16:18:00Z,v2,44.58,product_signup:2.31;crm_meeting_booked:0.83;pricing_page_visit:1.86,C,rep_omar,routed,0.92,
+a-003544,acc-0010,2026-10-15T17:19:00Z,rules.v2,29.232,product_signup:1.44;blog_visit:2.32;crm_meeting_booked:1.82;docs_visit:1.04,C,rep_amara,ROUTED,0.92,true
+a-003545,acc-6639,2026-10-13T13:30:00Z,rules.v2,27.8715,blog_visit:1.09;webinar_attended:2.33;docs_visit:1.34;demo_page_visit:0.98,B,,control,0.92,false
+a-003546,acc-2839,2026-10-16T13:07:00Z,rules.v2,29.087,intent_topic_surge:0.95;webinar_attended:1.99;budget_confirmed:0.71,B,rep_lena,routed,0.92,false
+a-003547,acc-3896,2026-10-12T14:42:00Z,rules.v2,36.295,product_usage_spike:1.25;blog_visit:2.26;intent_topic_surge:1.82,B,rep_sana,ROUTED,0.92,false
+a-003548,acc-0542,2026-10-16T15:21:00Z,rules.v2,36.8985,product_signup:0.79;hiring_gtm_ops:1.18;pricing_page_visit:1.54,B,rep_amara,routed,0.92,false
+a-003549,acc-5999,2026-10-13 14:35:00,rules.v2,49.878,product_usage_spike:2.08;pricing_page_visit:1.62,B,rep_sana,routed,0.92,false
+a-003550,acc-7886,2026-10-13T08:20:00Z,rules.v2,33.6515,hiring_gtm_ops:1.39;docs_visit:1.53;seat_limit_reached:1.45,,rep_farid,routed,0.92,false
+a-003551,acc-7491,2026-10-12 09:24:00,rules.v2,32.0,intent_topic_surge:2.36;webinar_attended:2.37,A,rep_lena,routed,0.92,false
+a-003552,acc-3994,2026-10-17T10:15:00Z,rules.v2,32.198,webinar_attended:2.01;seat_limit_reached:1.32;blog_visit:0.88,B,rep_dev,routed,0.92,false
+a-003553,acc-1683,2026-10-16T12:34:00Z,rules.v2,41.939,blog_visit:2.08;webinar_attended:1.89;product_usage_spike:2.21,B,rep_sana,routed,0.92,
+a-003554,acc-7291,2026-10-14 17:21:00,v2,34.2,pricing_page_visit:2.18;intent_topic_surge:0.62,A,rep_yuki,ROUTED,0.92,
+a-003555,acc-4249,2026-10-16T10:17:00Z,v2,40.734,product_signup:2.02;crm_email_reply:2.15;blog_visit:1.89;budget_confirmed:2.15,C,rep_farid,routed,0.92,true
+a-003556,acc-1438,2026-10-15T16:18:00Z,rules.v2,46.835,seat_limit_reached:2.34;crm_email_reply:0.72;intent_topic_surge:0.78;pricing_page_visit:1.13,B,rep_dev,ROUTED,0.92,true
+a-003557,acc-0315,2026-10-16 08:46:00,rules.v2,37.866,blog_visit:1.11;product_signup:2.34;demo_page_visit:2.24,C,rep_tomas,routed,0.92,false
+a-003558,acc-6399,1791794820000,rules.v2,25.2,intent_topic_surge:2.28;crm_meeting_booked:1.11,C,rep_yuki,routed,0.92,true
+a-003559,acc-6777,2026-10-13T16:45:00Z,v2,83.79,seat_limit_reached:2.39;product_signup:2.4;docs_visit:1.71;pricing_page_visit:1.69,A,rep_sana,routed,0.92,false
+a-003560,acc-3139,1791992400000,v2,33.337,docs_visit:0.72;product_usage_spike:2.25;blog_visit:1.06,B,rep_lena, Routed,0.92,false
+a-003561,acc-6689,2026-10-14T08:23:00Z,rules.v2,58.5395,crm_meeting_booked:0.88;pricing_page_visit:2.36;crm_email_reply:2.21;docs_visit:1.17,B,rep_amara,routed,0.92,false
+a-003562,acc-0958,2026-10-16 13:48:00,rules.v2,42.35,product_usage_spike:0.71;blog_visit:1.52;docs_visit:1.5;product_signup:1.57,A,rep_omar,routed,0.92,false
+a-003563,acc-0572,2026-10-12T12:39:00Z,rules.v2,42.058,intent_topic_surge:1.09;product_usage_spike:1.31;evaluating_alternatives:1.05,B,rep_farid,routed,0.92,false
+a-003564,acc-5865,2026-10-14T09:24:00Z,v2,53.805,hiring_gtm_ops:1.8;evaluating_alternatives:1.94;pricing_page_visit:2.12;intent_topic_surge:1.03,B,rep_lena,routed,0.92,false
+a-003565,acc-6448,2026-10-13T10:15:00Z,rules.v2,31.0,intent_topic_surge:2.07;crm_meeting_booked:0.5,A,rep_amara,ROUTED,0.92,false
+a-003566,acc-3872,2026-10-13T15:24:00Z,rules.v2,33.881,demo_page_visit:1.34;docs_visit:0.56;crm_email_reply:1.86,,rep_lena,ROUTED,0.92,false
+a-003567,acc-0844,2026-10-13 13:39:00,v2,49.1,pricing_page_visit:0.72;crm_meeting_booked:0.41;product_signup:2.06,A,rep_amara,routed,0.92,true
+a-003568,acc-1271,2026-10-15T17:59:00Z,rules.v2,48.14,product_usage_spike:1.51;intent_topic_surge:2.3;blog_visit:0.96,A,rep_farid,routed,0.92,false
+a-003569,acc-1007,1791909780000,rules.v2,63.24,demo_page_visit:1.14;evaluating_alternatives:1.04;product_signup:2.06,A,rep_omar,ROUTED,0.92,
+a-003570,acc-4959,2026-10-14T16:08:00Z,rules.v2,34.68,webinar_attended:0.5;product_usage_spike:1.08;crm_email_reply:1.36,A,rep_yuki,ROUTED,0.92,
+a-003571,acc-3628,2026-10-16T15:14:00Z,v2,30.022,demo_page_visit:1.33;docs_visit:1.68;product_signup:0.6,B,rep_sana,routed,0.92,false
+a-003572,acc-1170,2026-10-16T15:07:00Z,rules.v2,31.24,demo_page_visit:0.89;intent_topic_surge:1.7,A,rep_omar,routed,0.92,false
+a-003573,acc-4092,2026-10-16 08:24:00,rules.v2,45.6875,seat_limit_reached:1.49;blog_visit:0.75;pricing_page_visit:2.19,B,rep_omar, Routed,0.92,false
+a-003574,acc-0151,2026-10-14T12:57:00Z,rules.v2,32.028,demo_page_visit:1.5;docs_visit:0.46;pricing_page_visit:2.26,C,rep_dev,ROUTED,0.92,false
+a-003575,acc-4006,2026-10-15 10:03:00,rules.v2,44.4975,product_signup:2.24;docs_visit:0.53;pricing_page_visit:0.79;hiring_gtm_ops:0.97,B,rep_tomas, Routed,0.92,false
+a-003576,acc-7409,2026-10-16T11:50:00Z,v2,42.252,webinar_attended:1.07;pricing_page_visit:2.13;product_usage_spike:2.1,C,rep_farid,routed,0.92,false
+a-003577,acc-6134,2026-10-12T14:22:00Z,rules.v2,41.07,pricing_page_visit:1.65;product_signup:0.72;blog_visit:1.17;docs_visit:2.14,A,rep_tomas,routed,0.92,false
+a-003578,acc-1356,2026-10-12T10:40:00Z,rules.v2,27.625,blog_visit:1.59;docs_visit:1.09;product_usage_spike:0.98;hiring_gtm_ops:1.84,B,,Holdout,0.92,false
+a-003579,acc-6850,2026-10-15T17:31:00Z,rules.v2,14.688,pricing_page_visit:1.19;blog_visit:0.62,B,rep_yuki,explore,0.06,false
+a-003580,acc-7256,2026-10-14 08:08:00,v2,30.78,intent_topic_surge:1.93;pricing_page_visit:0.82,A,rep_dev,routed,0.92,false
+a-003581,acc-5528,1791891180000,rules.v2,29.274,docs_visit:1.43;product_signup:1.59;intent_topic_surge:0.63,B,rep_amara, Routed,0.92,false
+a-003582,acc-1703,2026-10-12 11:29:00,rules.v2,30.53,pricing_page_visit:1.84;crm_email_reply:0.47;blog_visit:0.54,A,rep_omar, Routed,0.92,
+a-003583,acc-6020,2026-10-12T16:35:00Z,rules.v2,26.792,intent_topic_surge:2.36;demo_page_visit:0.72,B,rep_farid,routed,0.92,false
+a-003584,acc-2338,2026-10-12 09:11:00,rules.v2,40.035,evaluating_alternatives:0.66;product_usage_spike:1.74;pricing_page_visit:0.42,B,rep_lena,routed,0.92,false
+a-003585,acc-0348,2026-10-14T08:48:00Z,rules.v2,38.8535,product_usage_spike:1.46;crm_email_reply:2.22;blog_visit:1.43,B,rep_lena,routed,0.92,true
+a-003586,acc-3993,2026-10-14T16:35:00Z,rules.v2,29.796,budget_confirmed:2.06;intent_topic_surge:2.17;crm_meeting_booked:0.53,C,rep_amara,routed,0.92,true
+a-003587,acc-5755,2026-10-15T12:02:00Z,rules.v2,27.2,product_signup:2.16;blog_visit:2.12,B,rep_omar,routed,0.92,
+a-003588,acc-6986,2026-10-12T10:49:00Z,rules.v2,38.0,hiring_gtm_ops:1.0;pricing_page_visit:2.15,A,rep_sana,routed,0.92,
+a-003589,acc-3315,2026-10-13 15:51:00,rules.v2,53.89,crm_meeting_booked:1.52;evaluating_alternatives:2.08;product_signup:1.76,B,rep_yuki,routed,0.92,true
+a-003590,acc-7877,2026-10-12 09:12:00,rules.v2,49.181,product_signup:1.74;intent_topic_surge:2.09;webinar_attended:1.96,B,rep_lena, Routed,0.92,false
+a-003591,acc-5472,1791824220000,v2,41.78,intent_topic_surge:1.63;pricing_page_visit:1.82,A,rep_yuki, Routed,0.92,false
+a-003592,acc-2479,2026-10-15T17:26:00Z,rules.v2,35.9975,pricing_page_visit:1.93;webinar_attended:1.59;blog_visit:0.54;docs_visit:1.75,B,rep_lena, Routed,0.92,true
+a-003593,acc-2824,2026-10-14 15:08:00,rules.v2,32.385,intent_topic_surge:0.93;demo_page_visit:1.8,B,rep_tomas,routed,0.92,
+a-003594,acc-7210,2026-10-14T09:34:00Z,rules.v2,34.204,product_usage_spike:1.68;hiring_gtm_ops:1.75,B,rep_dev,routed,0.92,false
+a-003595,acc-2152,2026-10-15T12:28:00Z,rules.v2,3.528,docs_visit:1.96,C,rep_farid,explore,0.06,false
+a-003596,acc-6227,2026-10-16 12:26:00,rules.v2,35.1,blog_visit:2.2;webinar_attended:2.25;evaluating_alternatives:0.98;intent_topic_surge:0.64,A,rep_sana,routed,0.92,false
+a-003597,acc-4918,2026-10-16 08:27:00,v2,29.5,pricing_page_visit:1.25;webinar_attended:2.34,A,rep_farid,routed,0.92,false
+a-003598,acc-7493,2026-10-14T14:15:00Z,rules.v2,44.098,webinar_attended:1.98;product_signup:0.8;pricing_page_visit:2.36,B,rep_lena, Routed,0.92,false
+a-003599,acc-3925,2026-10-13T17:52:00Z,rules.v2,27.108,pricing_page_visit:1.67;intent_topic_surge:0.98;webinar_attended:2.39,C,rep_dev,routed,0.92,false
+a-003600,acc-4115,2026-10-18 15:35:00,rules.v2,49.1,pricing_page_visit:2.21;hiring_gtm_ops:1.46;webinar_attended:1.85,A,rep_lena,routed,0.92,
+a-003601,acc-4073,2026-10-14T14:42:00Z,rules.v2,47.16,pricing_page_visit:0.8;demo_page_visit:2.13;docs_visit:1.32,A,rep_amara, Routed,0.92,false
+a-003602,acc-6807,2026-10-15T08:24:00Z,rules.v2,41.4,product_signup:1.65;docs_visit:1.65;webinar_attended:1.95,A,rep_dev, Routed,0.92,false
+a-003603,acc-5763,1792151280000,v2,18.636,docs_visit:1.0;crm_meeting_booked:1.19;webinar_attended:1.01,C,rep_lena,explore,0.06,false
+a-003604,acc-4372,2026-10-15T09:33:00Z,rules.v2,33.9235,crm_meeting_booked:0.58;product_usage_spike:1.43;blog_visit:1.41,B,rep_farid,ROUTED,0.92,false
+a-003605,acc-2135,2026-10-14 14:13:00,rules.v2,6.4855,intent_topic_surge:0.63;blog_visit:1.33,B,rep_farid,Explore,0.06,false
+a-003606,acc-4560,2026-10-13T17:03:00Z,rules.v2,34.29,blog_visit:1.47;docs_visit:1.74;pricing_page_visit:0.44;demo_page_visit:1.34,A,rep_farid,ROUTED,0.92,false
+a-003607,acc-4729,1792059060000,v2,25.1685,pricing_page_visit:1.99;blog_visit:1.75,B,rep_tomas,routed,0.92,
+a-003608,acc-4301,2026-10-13T15:21:00Z,rules.v2,14.841,blog_visit:0.72;crm_email_reply:1.86,B,rep_tomas,explore,0.06,false
+a-003609,acc-3198,2026-10-16T13:48:00Z,v2,53.941,product_signup:1.0;crm_meeting_booked:1.97;pricing_page_visit:1.89,B,,holdout,0.92,false
+a-003610,acc-0929,2026-10-17 16:44:00,v2,26.1375,product_signup:1.72;docs_visit:1.65,B,rep_omar,ROUTED,0.92,false
+a-003611,acc-3691,2026-10-12T12:15:00Z,v2,34.952,blog_visit:2.24;docs_visit:1.12;pricing_page_visit:1.74;product_signup:0.76,B,rep_yuki, Routed,0.92,
+a-003612,acc-6370,2026-10-14T10:58:00Z,v2,32.98,pricing_page_visit:1.2;crm_meeting_booked:2.29,B,rep_dev,routed,0.92,true
+a-003613,acc-7465,2026-10-13T11:20:00Z,rules.v2,33.609,product_usage_spike:1.79;webinar_attended:1.22,B,rep_lena,routed,0.92,false
+a-003614,acc-2463,2026-10-12T12:49:00Z,rules.v2,39.338,product_signup:2.28;docs_visit:1.56;intent_topic_surge:1.16,B,rep_dev,ROUTED,0.92,false
+a-003615,acc-3314,2026-10-12T12:08:00Z,rules.v2,25.075,blog_visit:1.5;pricing_page_visit:2.09,B,rep_farid, Routed,0.92,false
+a-003616,acc-4922,2026-10-15 11:29:00,rules.v2,38.31,product_signup:1.63;pricing_page_visit:0.99,A,rep_farid,ROUTED,0.92,false
+a-003617,acc-5338,2026-10-12T11:22:00Z,rules.v2,34.204,webinar_attended:1.54;seat_limit_reached:1.15;docs_visit:2.06,B,rep_lena,routed,0.92,false
+a-003618,acc-4766,2026-10-18T14:42:00Z,rules.v2,46.71,pricing_page_visit:1.95;docs_visit:1.88;crm_email_reply:1.53,A,rep_dev,routed,0.92,true
+a-003619,acc-4934,2026-10-12 15:02:00,rules.v2,48.39,pricing_page_visit:1.17;blog_visit:1.11;intent_topic_surge:0.57;product_signup:1.68,A,rep_omar,routed,0.92,
+a-003620,acc-1077,2026-10-12T16:33:00Z,rules.v2,41.93,webinar_attended:1.72;intent_topic_surge:1.88;crm_email_reply:0.82;docs_visit:1.81,A,rep_sana,routed,0.92,false
+a-003621,acc-1020,2026-10-15T12:23:00Z,rules.v2,51.04,product_usage_spike:1.28;crm_email_reply:2.36;hiring_gtm_ops:2.32,A,rep_farid,ROUTED,0.92,false
+a-003622,acc-4652,2026-10-13T16:21:00Z,rules.v2,62.68,crm_meeting_booked:0.75;demo_page_visit:1.71;blog_visit:0.62;intent_topic_surge:1.82,A,,holdout,0.92,
+a-003623,acc-1311,2026-10-15T14:39:00Z,rules.v2,34.374,product_signup:0.72;demo_page_visit:1.14;webinar_attended:0.9;docs_visit:2.03,B,rep_farid,ROUTED,0.92,
+a-003624,acc-6932,2026-10-14T08:44:00Z,rules.v2,40.14,product_signup:0.78;crm_meeting_booked:1.05;pricing_page_visit:0.46,A,rep_amara,routed,0.92,false
+a-003625,acc-5018,1792162500000,v2,26.503,pricing_page_visit:1.21;blog_visit:1.92;demo_page_visit:0.77,B,rep_lena,routed,0.92,true
+a-003626,acc-4287,2026-10-16 12:41:00,rules.v2,25.5,blog_visit:2.35;pricing_page_visit:2.05,B,rep_sana, Routed,0.92,false
+a-003627,acc-2947,2026-10-16 12:11:00,rules.v2,84.1,crm_meeting_booked:2.1;product_usage_spike:1.05;intent_topic_surge:1.32;product_signup:2.12,A,rep_farid,routed,0.92,true
+a-003628,acc-3633,2026-10-15T10:58:00Z,v2,29.5035,product_signup:2.36;docs_visit:1.57,B,,Holdout,0.92,false
+a-003629,acc-4691,2026-10-14T17:51:00Z,rules.v2,36.5245,docs_visit:1.3;blog_visit:1.05;demo_page_visit:1.57;evaluating_alternatives:0.86,B,rep_dev,ROUTED,0.92,
+a-003630,acc-7737,1791880680000,rules.v2,45.804,docs_visit:2.18;product_usage_spike:2.1;intent_topic_surge:1.88;pricing_page_visit:1.11,C,,control,0.92,
+a-003631,acc-5378,2026-10-12T17:06:00Z,rules.v2,37.74,hiring_gtm_ops:1.63;intent_topic_surge:0.44;product_signup:2.13,B,rep_yuki,routed,0.92,false
+a-003632,acc-4083,2026-10-15T14:35:00Z,rules.v2,45.792,crm_email_reply:2.07;product_usage_spike:2.09;pricing_page_visit:0.88;hiring_gtm_ops:1.98,C,rep_dev,routed,0.92,false
+a-003633,acc-6475,2026-10-14T15:26:00Z,v2,20.778,blog_visit:1.18;crm_email_reply:0.45;product_signup:1.96,C,rep_tomas,explore,0.06,false
+a-003634,acc-0298,2026-10-14T17:39:00Z,rules.v2,26.1375,blog_visit:0.75;hiring_gtm_ops:1.45;intent_topic_surge:2.09,B,rep_dev,ROUTED,0.92,false
+a-003635,acc-0043,2026-10-15T13:51:00Z,v2,35.6,pricing_page_visit:2.18;intent_topic_surge:0.76,A,rep_yuki,routed,0.92,
+a-003636,acc-2780,2026-10-12T10:34:00Z,rules.v2,63.24,intent_topic_surge:2.19;crm_meeting_booked:0.82;product_usage_spike:1.4,A,rep_lena,ROUTED,0.92,false
+a-003637,acc-5157,2026-10-12T15:16:00Z,rules.v2,45.237,docs_visit:0.71;blog_visit:1.09;pricing_page_visit:2.14;crm_meeting_booked:2.22,B,rep_lena,ROUTED,0.92,false
+a-003638,acc-6918,1792161360000,rules.v2,28.186,blog_visit:0.87;docs_visit:1.18;intent_topic_surge:1.99;product_signup:0.59,B,rep_farid,ROUTED,0.92,false
+a-003639,acc-7148,1791822540000,rules.v2,34.0,crm_meeting_booked:2.35;webinar_attended:2.32,A,rep_yuki,routed,0.92,false
+a-003640,acc-0267,1792060260000,v2,41.24,intent_topic_surge:1.72;hiring_gtm_ops:1.0;budget_confirmed:0.78,A,rep_farid, Routed,0.92,false
+a-003641,acc-2263,2026-10-13T11:56:00Z,rules.v2,32.592,intent_topic_surge:1.77;pricing_page_visit:1.42;evaluating_alternatives:2.34;blog_visit:1.74,C,rep_sana,ROUTED,0.92,false
+a-003642,acc-7988,2026-10-13T12:54:00Z,rules.v2,36.8,crm_email_reply:1.53;crm_meeting_booked:2.31;blog_visit:1.03,A,,Holdout,0.92,false
+a-003643,acc-4910,2026-10-16T16:04:00Z,rules.v2,32.65,docs_visit:1.55;pricing_page_visit:2.16,A,rep_amara,ROUTED,0.92,false
+a-003644,acc-3265,2026-10-16T14:49:00Z,rules.v2,21.6,product_usage_spike:2.03,C,rep_sana,explore,0.06,false
+a-003645,acc-5783,2026-10-12 10:09:00,v2,19.506,crm_email_reply:0.75;demo_page_visit:1.61,C,rep_sana,explore,0.06,true
+a-003646,acc-0037,2026-10-16 17:15:00,rules.v2,18.0,hiring_gtm_ops:2.27;blog_visit:2.39;crm_email_reply:2.16,C,rep_yuki,explore,0.06,true
+a-003647,acc-1960,2026-10-15T16:48:00Z,rules.v2,57.8255,crm_email_reply:1.91;intent_topic_surge:1.81;docs_visit:2.34;pricing_page_visit:1.91,B,rep_sana,routed,0.92,false
+a-003648,acc-3757,2026-10-15T09:17:00Z,v2,37.614,intent_topic_surge:0.85;product_usage_spike:1.71;blog_visit:1.41;crm_meeting_booked:1.99,C,rep_farid,ROUTED,0.92,false
+a-003649,acc-6435,2026-10-13T17:12:00Z,rules.v2,33.372,product_usage_spike:1.59;blog_visit:2.27;seat_limit_reached:1.39,C,rep_omar,ROUTED,0.92,false
+a-003650,acc-3092,2026-10-12T12:51:00Z,rules.v2,26.22,intent_topic_surge:1.27;seat_limit_reached:2.28;docs_visit:2.37,C,rep_sana, Routed,0.92,false
+a-003651,acc-1298,2026-10-14T11:30:00Z,rules.v2,36.04,crm_meeting_booked:1.09;pricing_page_visit:0.94;blog_visit:0.88,A,rep_lena,routed,0.92,false
+a-003652,acc-6856,2026-10-15T13:59:00Z,v2,29.155,pricing_page_visit:2.21;webinar_attended:1.05,B,rep_farid,routed,0.92,false
+a-003653,acc-4255,2026-10-13T16:09:00Z,v2,39.5335,product_usage_spike:1.42;crm_email_reply:1.85;intent_topic_surge:0.43,B,rep_amara,ROUTED,0.92,false
+a-003654,acc-1169,2026-10-15T11:08:00Z,v2,27.582,pricing_page_visit:2.18;webinar_attended:2.08;docs_visit:1.99,C,rep_omar, Routed,0.92,false
+a-003655,acc-6288,2026-10-12T11:40:00Z,v2,28.016,intent_topic_surge:2.02;webinar_attended:1.78;docs_visit:0.76,B,rep_omar, Routed,0.92,false
+a-003656,acc-2609,2026-10-12T17:52:00Z,rules.v2,18.246,webinar_attended:1.92;blog_visit:0.89;budget_confirmed:1.51,C,rep_farid,Explore,0.06,false
+a-003657,acc-1353,2026-10-14T15:41:00Z,rules.v2,27.353,webinar_attended:1.96;docs_visit:2.34;pricing_page_visit:1.03,B,rep_amara,routed,0.92,false
+a-003658,acc-2427,2026-10-15T08:06:00Z,rules.v2,29.076,product_signup:0.86;webinar_attended:0.81;intent_topic_surge:1.2;crm_meeting_booked:0.85,C,rep_dev, Routed,0.92,true
+a-003659,acc-4342,1792079340000,rules.v2,32.011,evaluating_alternatives:2.05;pricing_page_visit:1.19;docs_visit:2.39,B,rep_omar,routed,0.92,false
+a-003660,acc-6094,2026-10-16T16:16:00Z,v2,25.572,blog_visit:1.62;webinar_attended:0.62;product_signup:2.17;pricing_page_visit:0.52,C,rep_tomas, Routed,0.92,false
+a-003661,acc-4990,2026-10-14T15:14:00Z,rules.v2,25.5,product_signup:1.2;webinar_attended:2.2,B,rep_dev,ROUTED,0.92,false
+a-003662,acc-4370,2026-10-14T17:06:00Z,rules.v2,48.1525,crm_meeting_booked:1.28;webinar_attended:1.45;product_signup:1.73,B,rep_farid, Routed,0.92,false
+a-003663,acc-1561,2026-10-14T12:49:00Z,rules.v2,36.533,product_signup:1.79;crm_email_reply:1.71;blog_visit:0.74,B,rep_omar,routed,0.92,false
+a-003664,acc-6115,2026-10-15T17:01:00Z,rules.v2,46.28,intent_topic_surge:0.65;crm_meeting_booked:1.41;pricing_page_visit:1.27,A,rep_dev,routed,0.92,false
+a-003665,acc-2682,2026-10-16 16:14:00,rules.v2,62.73,product_signup:2.05;product_usage_spike:1.71;docs_visit:0.65,A,rep_yuki, Routed,0.92,false
+a-003666,acc-7754,2026-10-13T08:36:00Z,v2,47.4215,evaluating_alternatives:1.61;product_usage_spike:1.2;blog_visit:1.19;budget_confirmed:1.79,B,rep_sana,ROUTED,0.92,false
+a-003667,acc-0317,2026-10-12T13:18:00Z,v2,34.17,blog_visit:1.54;pricing_page_visit:0.51;crm_email_reply:1.28;intent_topic_surge:2.04,B,rep_sana,routed,0.92,true
+a-003668,acc-0073,2026-10-13T13:24:00Z,rules.v2,41.868,product_signup:1.44;intent_topic_surge:1.7;crm_meeting_booked:1.97;budget_confirmed:0.51,C,rep_tomas,routed,0.92,true
+a-003669,acc-3196,2026-10-14 13:17:00,rules.v2,37.0345,intent_topic_surge:1.73;product_signup:1.49;docs_visit:1.12;blog_visit:0.56,B,,Holdout,0.92,false
+a-003670,acc-7951,2026-10-14T17:08:00Z,rules.v2,44.96,blog_visit:1.7;seat_limit_reached:1.71;crm_meeting_booked:0.83,A,rep_yuki,ROUTED,0.92,false
+a-003671,acc-2293,2026-10-12T12:57:00Z,rules.v2,33.949,crm_meeting_booked:1.18;intent_topic_surge:1.37;webinar_attended:0.56;blog_visit:0.88,B,rep_yuki,routed,0.92,true
+a-003672,acc-7620,2026-10-16T17:32:00Z,v2,44.862,pricing_page_visit:0.96;crm_meeting_booked:2.33;docs_visit:1.11;product_usage_spike:2.01,C,rep_dev,routed,0.92,false
+a-003673,acc-0021,2026-10-16 11:53:00,v2,27.012,hiring_gtm_ops:1.84;pricing_page_visit:2.22;crm_email_reply:0.78,C,,holdout,0.92,false
+a-003674,acc-6278,2026-10-12T11:24:00Z,v2,17.376,crm_meeting_booked:1.45;webinar_attended:1.16,C,rep_omar,explore,0.06,false
+a-003675,acc-5671,2026-10-16T09:21:00Z,rules.v2,31.22,docs_visit:0.48;blog_visit:0.5;demo_page_visit:1.83,A,rep_omar,routed,0.92,false
+a-003676,acc-0302,2026-10-14T10:05:00Z,rules.v2,29.5375,pricing_page_visit:0.95;webinar_attended:2.36;product_signup:0.63,B,rep_omar,ROUTED,0.92,false
+a-003677,acc-1376,2026-10-13T17:20:00Z,rules.v2,21.9045,crm_email_reply:1.1;docs_visit:0.94;evaluating_alternatives:0.87,B,rep_sana,explore,0.06,true
+a-003678,acc-4938,2026-10-17 09:23:00,rules.v2,35.892,pricing_page_visit:1.19;product_usage_spike:1.07;crm_email_reply:2.27;hiring_gtm_ops:0.59,,rep_omar,routed,0.92,true
+a-003679,acc-5937,2026-10-12T08:53:00Z,rules.v2,32.31,docs_visit:1.67;crm_email_reply:1.74;webinar_attended:1.94,A,rep_farid,routed,0.92,false
+a-003680,acc-4617,1791889380000,v2,39.695,intent_topic_surge:1.87;pricing_page_visit:2.04,B,rep_yuki,routed,0.92,false
+a-003681,acc-3384,2026-10-22 13:46:00,rules.v2,79.118,pricing_page_visit:2.17;crm_meeting_booked:1.55;webinar_attended:1.18;product_usage_spike:2.26;legacy_pixel:1.0,B,rep_dev,ROUTED,0.92,false
+a-003682,acc-5723,2026-10-20T11:58:00Z,rules.v2,34.221,blog_visit:1.92;webinar_attended:1.09;crm_meeting_booked:1.1;pricing_page_visit:0.7,B,rep_tomas,routed,0.92,false
+a-003683,acc-2241,2026-10-21T17:45:00Z,rules.v2,25.44,webinar_attended:0.48;evaluating_alternatives:1.0;product_usage_spike:0.42,A,,Holdout,0.92,false
+a-003684,acc-1721,2026-10-22T17:18:00Z,rules.v2,35.4,pricing_page_visit:1.23;product_usage_spike:1.01,A,rep_lena,routed,0.92,false
+a-003685,acc-6498,2026-10-22T09:38:00Z,v2,45.0,seat_limit_reached:1.49;intent_topic_surge:2.17,A,rep_tomas,ROUTED,0.92,false
+a-003686,acc-6886,2026-10-23T10:41:00Z,v2,25.772,blog_visit:0.77;product_signup:1.97,B,rep_farid, Routed,0.92,false
+a-003687,acc-3923,2026-10-22T11:09:00Z,rules.v2,31.824,intent_topic_surge:1.2;product_usage_spike:1.7;webinar_attended:1.74,C,rep_dev,routed,0.92,false
+a-003688,acc-6252,2026-10-21T16:22:00Z,rules.v2,38.748,product_signup:2.02;pricing_page_visit:1.36;docs_visit:1.16;product_usage_spike:0.67,C,rep_sana,ROUTED,0.92,false
+a-003689,acc-3711,2026-10-20 13:31:00,rules.v2,38.18,product_signup:1.01;blog_visit:1.47;pricing_page_visit:1.54,A,,control,0.92,true
+a-003690,acc-3321,2026-10-22 12:57:00,rules.v2,26.32,webinar_attended:0.86;blog_visit:1.16;intent_topic_surge:2.33,A,rep_tomas,routed,0.92,false
+a-003691,acc-2766,2026-10-22T13:11:00Z,rules.v2,35.844,docs_visit:2.2;blog_visit:1.38;product_signup:1.96;pricing_page_visit:1.64,C,rep_sana, Routed,0.92,false
+a-003692,acc-2037,2026-10-20T08:43:00Z,rules.v2,40.52,demo_page_visit:0.97;seat_limit_reached:2.04,A,rep_dev,routed,0.92,false
+a-003693,acc-5240,2026-10-20 09:18:00,rules.v2,45.84,webinar_attended:0.96;intent_topic_surge:2.21;product_usage_spike:1.08;blog_visit:0.64,,rep_farid,ROUTED,0.92,false
+a-003694,acc-3376,2026-10-19 08:26:00,rules.v2,42.228,crm_email_reply:2.09;pricing_page_visit:0.45;product_usage_spike:1.41,B,rep_omar,routed,0.92,false
+a-003695,acc-1499,2026-10-21 12:44:00,rules.v2,26.333,crm_meeting_booked:0.68;crm_email_reply:1.78,B,rep_omar, Routed,0.92,true
+a-003696,acc-1323,2026-10-22T08:44:00Z,rules.v2,41.667,blog_visit:1.04;pricing_page_visit:1.83;intent_topic_surge:1.72;webinar_attended:0.86,B,rep_sana,routed,0.92,
+a-003697,acc-5158,2026-10-19T15:09:00Z,rules.v2,51.425,intent_topic_surge:1.25;pricing_page_visit:2.15;blog_visit:2.35;crm_email_reply:2.04,B,rep_farid,routed,0.92,false
+a-003698,acc-6865,2026-10-21T09:50:00Z,rules.v2,8.82,budget_confirmed:0.49,A,rep_tomas,explore,0.06,true
+a-003699,acc-7598,2026-10-19T13:20:00Z,rules.v2,30.039,product_signup:2.3;webinar_attended:0.89,B,rep_omar,routed,0.92,false
+a-003700,acc-0687,2026-10-19T16:47:00Z,rules.v2,23.698,evaluating_alternatives:1.56;pricing_page_visit:0.92,B,rep_dev,explore,0.06,
+a-003701,acc-6789,2026-10-22T15:36:00Z,rules.v2,40.5,docs_visit:1.93;webinar_attended:1.01;product_signup:1.91,A,rep_amara, Routed,0.92,false
+a-003702,acc-2863,1792776840000,rules.v2,32.2915,pricing_page_visit:2.18;crm_email_reply:1.11,B,rep_omar,ROUTED,0.92,false
+a-003703,acc-7067,2026-10-21T12:38:00Z,rules.v2,32.59,pricing_page_visit:2.2;docs_visit:1.53,A,rep_tomas,routed,0.92,true
+a-003704,acc-2653,2026-10-20T12:11:00Z,rules.v2,31.2885,docs_visit:0.87;pricing_page_visit:2.22;intent_topic_surge:0.62,B,rep_dev,routed,0.92,false
+a-003705,acc-1878,1792664520000,v2,57.2135,evaluating_alternatives:2.3;product_usage_spike:2.3;blog_visit:2.26;crm_email_reply:1.59,B,rep_tomas, Routed,0.92,false
+a-003706,acc-1451,2026-10-22T08:37:00Z,rules.v2,39.151,intent_topic_surge:1.66;product_signup:0.62;demo_page_visit:1.26,B,rep_sana,routed,0.92,
+a-003707,acc-0292,2026-10-21T17:35:00Z,rules.v2,25.0,seat_limit_reached:1.95,A,rep_sana,explore,0.06,false
+a-003708,acc-6167,2026-10-19T10:14:00Z,v2,31.69,pricing_page_visit:2.38;crm_email_reply:0.41,A,rep_dev,ROUTED,0.92,false
+a-003709,acc-4715,2026-10-22T14:04:00Z,rules.v2,50.779,blog_visit:1.72;docs_visit:1.34;product_usage_spike:2.36;crm_email_reply:2.16,B,rep_tomas,routed,0.92,true
+a-003710,acc-5332,2026-10-20T11:33:00Z,rules.v2,36.9495,intent_topic_surge:0.75;blog_visit:1.02;product_signup:1.43;crm_email_reply:1.5,B,rep_dev,routed,0.92,false
+a-003711,acc-1458,2026-10-25T13:45:00Z,v2,32.7,docs_visit:1.36;product_usage_spike:1.59,A,rep_tomas,ROUTED,0.92,true
+a-003712,acc-6508,2026-10-22T13:04:00Z,v2,38.097,blog_visit:2.13;intent_topic_surge:2.04;pricing_page_visit:1.63,B,rep_lena,routed,0.92,false
+a-003713,acc-7614,2026-10-20T16:21:00Z,v2,34.7225,webinar_attended:2.19;pricing_page_visit:1.75;docs_visit:1.45,B,rep_yuki,routed,0.92,false
+a-003714,acc-6523,2026-10-21T15:51:00Z,rules.v2,52.48,demo_page_visit:2.01;pricing_page_visit:1.07;intent_topic_surge:0.55,A,rep_yuki,routed,0.92,false
+a-003715,acc-7817,2026-10-21T10:20:00Z,rules.v2,33.168,demo_page_visit:1.73;hiring_gtm_ops:1.4;webinar_attended:2.01;intent_topic_surge:0.56,C,rep_yuki,routed,0.92,false
+a-003716,acc-0671,2026-10-21T17:13:00Z,rules.v2,28.2285,crm_email_reply:1.95;blog_visit:1.89;webinar_attended:1.64;docs_visit:1.31,B,rep_tomas,ROUTED,0.92,false
+a-003717,acc-1020,2026-10-23 16:28:00,rules.v2,39.95,hiring_gtm_ops:1.89;webinar_attended:0.82;product_signup:1.09;pricing_page_visit:0.62,A,rep_farid,routed,0.92,
+a-003718,acc-4532,1792757280000,rules.v2,26.028,blog_visit:1.68;intent_topic_surge:2.34;pricing_page_visit:1.55,C,rep_omar,routed,0.92,
+a-003719,acc-7260,2026-10-19 15:58:00,rules.v2,48.93,blog_visit:1.81;pricing_page_visit:1.58;seat_limit_reached:2.18,A,rep_dev,ROUTED,0.92,true
+a-003720,acc-3291,2026-10-19 13:05:00,rules.v2,37.366,intent_topic_surge:1.5;demo_page_visit:1.81,B,rep_sana,ROUTED,0.92,false
+a-003721,acc-1542,2026-10-21T12:18:00Z,rules.v2,8.2875,crm_email_reply:0.96;blog_visit:1.11,B,rep_sana,explore,0.06,false
+a-003722,acc-5111,1792765140000,rules.v2,26.35,seat_limit_reached:1.19;docs_visit:2.0,B,rep_farid,ROUTED,0.92,false
+a-003723,acc-0168,2026-10-20 08:17:00,rules.v2,36.6775,pricing_page_visit:2.39;product_signup:1.01,B,rep_yuki,routed,0.92,false
+a-003724,acc-6919,2026-10-21T12:01:00Z,v2,43.39,pricing_page_visit:1.55;docs_visit:1.23;crm_email_reply:2.32,A,rep_yuki,routed,0.92,false
+a-003725,acc-5239,1792663080000,rules.v2,15.2,demo_page_visit:0.95,A,rep_dev,Explore,0.06,false
+a-003726,acc-3289,2026-10-22T08:43:00Z,rules.v2,30.7445,crm_email_reply:2.06;docs_visit:1.81;pricing_page_visit:0.91,B,rep_sana,routed,0.92,
+a-003727,acc-2142,2026-10-21T10:17:00Z,rules.v2,37.7655,pricing_page_visit:1.17;webinar_attended:1.1;product_signup:0.77;crm_meeting_booked:0.45,B,rep_sana, Routed,0.92,false
+a-003728,acc-4226,2026-10-23T13:44:00Z,rules.v2,28.794,docs_visit:0.88;demo_page_visit:0.72;product_signup:1.07;pricing_page_visit:1.27,C,rep_omar,routed,0.92,false
+a-003729,acc-2640,2026-10-20T08:29:00Z,rules.v2,55.65,crm_email_reply:1.76;product_signup:1.31;pricing_page_visit:1.44,A,rep_omar,ROUTED,0.92,false
+a-003730,acc-3134,2026-10-20T17:31:00Z,v2,29.75,hiring_gtm_ops:1.35;seat_limit_reached:1.81,B,rep_tomas,ROUTED,0.92,false
+a-003731,acc-4596,2026-10-21 08:54:00,rules.v2,37.67,hiring_gtm_ops:0.95;budget_confirmed:0.72;crm_email_reply:1.69,A,rep_dev, Routed,0.92,false
+a-003732,acc-4339,2026-10-21 09:32:00,rules.v2,29.1465,demo_page_visit:0.54;budget_confirmed:0.91;docs_visit:0.49;webinar_attended:1.3,B,rep_yuki,routed,0.92,false
+a-003733,acc-2301,2026-10-20T08:27:00Z,rules.v2,52.428,intent_topic_surge:2.0;product_usage_spike:0.95;crm_email_reply:0.42;demo_page_visit:1.3,B,rep_sana,ROUTED,0.92,
+a-003734,acc-7108,2026-10-19T09:32:00Z,rules.v2,68.15,pricing_page_visit:1.1;product_signup:1.85;seat_limit_reached:2.39,A,rep_sana,routed,0.92,false
+a-003735,acc-6918,1792676580000,rules.v2,13.668,crm_email_reply:0.46;product_usage_spike:0.46;webinar_attended:0.61,B,rep_farid,explore,0.06,
+a-003736,acc-1950,2026-10-23T16:05:00Z,v2,38.06,crm_meeting_booked:1.92;blog_visit:0.46;hiring_gtm_ops:0.84;evaluating_alternatives:0.48,A,,Holdout,0.92,false
+a-003737,acc-4187,2026-10-20T14:16:00Z,rules.v2,30.498,webinar_attended:0.98;blog_visit:2.31;pricing_page_visit:2.11,B,rep_tomas,routed,0.92,false
+a-003738,acc-6852,2026-10-21T12:03:00Z,rules.v2,25.993,webinar_attended:0.43;pricing_page_visit:2.05,B,rep_amara, Routed,0.92,false
+a-003739,acc-7188,2026-10-22T10:51:00Z,rules.v2,31.1695,blog_visit:1.42;crm_email_reply:2.33;seat_limit_reached:0.69,B,rep_yuki, Routed,0.92,false
+a-003740,acc-0708,2026-10-23T17:09:00Z,rules.v2,30.06,product_usage_spike:0.91;crm_email_reply:1.52,A,rep_tomas, Routed,0.92,true
+a-003741,acc-4419,2026-10-20T10:34:00Z,v2,32.84,budget_confirmed:1.23;pricing_page_visit:1.06,A,rep_lena,ROUTED,0.92,
+a-003742,acc-2327,2026-10-19T11:06:00Z,rules.v2,45.47,crm_email_reply:1.75;demo_page_visit:1.23;webinar_attended:1.47;blog_visit:1.22,A,rep_amara,routed,0.92,false
+a-003743,acc-2075,2026-10-21T11:14:00Z,v2,22.0,blog_visit:2.23;intent_topic_surge:2.29,A,rep_sana,Explore,0.06,false
+a-003744,acc-5538,2026-10-23T12:14:00Z,rules.v2,32.346,product_signup:1.61;pricing_page_visit:1.29;intent_topic_surge:1.17,C,rep_amara,ROUTED,0.92,false
+a-003745,acc-6868,2026-10-20T10:43:00Z,v2,36.482,webinar_attended:0.47;docs_visit:2.03;intent_topic_surge:1.97;demo_page_visit:0.9,B,rep_sana,ROUTED,0.92,false
+a-003746,acc-7499,2026-10-21T11:40:00Z,rules.v2,27.2,hiring_gtm_ops:2.06;crm_meeting_booked:2.29;legacy_pixel:1.0,,rep_dev, Routed,0.92,false
+a-003747,acc-0828,2026-10-19T15:40:00Z,rules.v2,29.92,crm_email_reply:2.24;intent_topic_surge:1.52;blog_visit:2.12,B,,Holdout,0.92,
+a-003748,acc-1633,2026-10-19T13:56:00Z,v2,38.66,blog_visit:1.99;intent_topic_surge:0.43;crm_email_reply:1.93;evaluating_alternatives:1.73,A,rep_dev,ROUTED,0.92,false
+a-003749,acc-3018,2026-10-19T10:21:00Z,rules.v2,25.6615,webinar_attended:0.74;crm_email_reply:1.95;hiring_gtm_ops:0.82,B,rep_amara,routed,0.92,
+a-003750,acc-1502,2026-10-21T08:51:00Z,v2,46.95,docs_visit:1.85;webinar_attended:1.45;pricing_page_visit:2.09;product_usage_spike:2.34,C,rep_lena,routed,0.92,false
+a-003751,acc-1430,2026-10-21T13:59:00Z,rules.v2,54.264,product_signup:2.03;blog_visit:2.3;demo_page_visit:1.99,B,rep_omar, Routed,0.92,
+a-003752,acc-5013,2026-10-20T11:37:00Z,v2,29.32,seat_limit_reached:2.34;webinar_attended:0.72,A,rep_yuki, Routed,0.92,false
+a-003753,acc-3597,2026-10-22T09:45:00Z,rules.v2,36.1675,crm_meeting_booked:2.21;pricing_page_visit:1.26;docs_visit:0.97,B,rep_yuki,routed,0.92,false
+a-003754,acc-5487,2026-10-21 09:30:00,v2,26.91,product_signup:0.78;pricing_page_visit:0.95;blog_visit:1.91,A,rep_dev,routed,0.92,false
+a-003755,acc-5852,2026-10-19T12:59:00Z,rules.v2,30.923,intent_topic_surge:0.67;demo_page_visit:0.48;crm_meeting_booked:2.02,B,,control,0.92,true
+a-003756,acc-0315,2026-10-22T15:22:00Z,rules.v2,26.178,product_usage_spike:0.89;blog_visit:1.13;pricing_page_visit:0.82;evaluating_alternatives:1.2,C,,Holdout,0.92,false
+a-003757,acc-5558,2026-10-22 11:10:00,v2,31.23,crm_email_reply:1.71;product_usage_spike:2.1;blog_visit:0.66,C,rep_tomas,routed,0.92,
+a-003758,acc-2190,2026-10-19T15:45:00Z,rules.v2,28.28,pricing_page_visit:0.86;blog_visit:1.45;docs_visit:1.45;product_usage_spike:0.58,A,rep_amara, Routed,0.92,false
+a-003759,acc-6337,2026-10-22T12:00:00Z,rules.v2,25.746,demo_page_visit:1.93;docs_visit:0.76;product_signup:0.65,C,rep_lena,routed,0.92,
+a-003760,acc-3945,2026-10-23T14:00:00Z,rules.v2,25.854,docs_visit:0.85;crm_email_reply:0.92;pricing_page_visit:1.69;intent_topic_surge:0.86,,rep_sana,routed,0.92,
+a-003761,acc-7550,2026-10-21 11:18:00,v2,41.854,blog_visit:0.64;pricing_page_visit:1.9;crm_meeting_booked:2.15,B,rep_sana,routed,0.92,false
+a-003762,acc-6662,2026-10-19T15:33:00Z,v2,55.32,crm_meeting_booked:1.36;hiring_gtm_ops:2.13;product_signup:0.78;pricing_page_visit:0.83,A,,control,0.92,false
+a-003763,acc-3390,2026-10-19T13:00:00Z,v2,28.3305,webinar_attended:2.3;intent_topic_surge:1.89;docs_visit:0.81,B,rep_omar,ROUTED,0.92,false
+a-003764,acc-7637,2026-10-21T15:09:00Z,rules.v2,63.4,seat_limit_reached:1.11;blog_visit:0.78;pricing_page_visit:0.45;product_usage_spike:1.74,A,rep_dev,routed,0.92,
+a-003765,acc-6552,2026-10-23T11:41:00Z,rules.v2,51.97,pricing_page_visit:2.18;blog_visit:1.97;hiring_gtm_ops:1.08;intent_topic_surge:1.2,A,rep_lena,routed,0.92,false
+a-003766,acc-0217,2026-10-22T17:58:00Z,v2,50.85,seat_limit_reached:1.16;webinar_attended:2.29;docs_visit:1.07;pricing_page_visit:0.76,A,,Holdout,0.92,false
+a-003767,acc-1489,2026-10-22T10:54:00Z,rules.v2,46.92,blog_visit:0.86;product_usage_spike:0.87;pricing_page_visit:1.67;webinar_attended:1.17,A,rep_farid,ROUTED,0.92,false
+a-003768,acc-5604,2026-10-19 13:05:00,rules.v2,29.85,crm_meeting_booked:2.0;docs_visit:1.27;product_usage_spike:1.33,C,rep_farid, Routed,0.92,false
+a-003769,acc-2449,2026-10-22T11:41:00Z,rules.v2,47.02,intent_topic_surge:0.93;pricing_page_visit:1.73;docs_visit:1.66;webinar_attended:1.42,A,rep_dev,routed,0.92,false
+a-003770,acc-6996,2026-10-20T09:51:00Z,rules.v2,49.1895,product_signup:1.97;demo_page_visit:1.77,B,rep_yuki,routed,0.92,true
+a-003771,acc-5244,1792506900000,v2,35.9805,docs_visit:1.91;evaluating_alternatives:1.8;blog_visit:2.35;pricing_page_visit:1.4,B,rep_sana, Routed,0.92,false
+a-003772,acc-5551,2026-10-22 08:43:00,v2,35.734,demo_page_visit:1.69;evaluating_alternatives:1.41,B,rep_amara, Routed,0.92,false
+a-003773,acc-2532,2026-10-19T09:34:00Z,v2,45.65,docs_visit:0.83;pricing_page_visit:0.95;intent_topic_surge:1.33;crm_email_reply:1.84,,rep_omar, Routed,0.92,false
+a-003774,acc-0414,2026-10-19T14:02:00Z,rules.v2,52.2325,product_usage_spike:1.29;webinar_attended:1.46;docs_visit:0.49;pricing_page_visit:2.17,B,rep_sana, Routed,0.92,false
+a-003775,acc-3455,2026-10-21T12:33:00Z,v2,38.403,docs_visit:1.97;blog_visit:1.64;crm_email_reply:1.07;pricing_page_visit:2.36,B,rep_lena,routed,0.92,false
+a-003776,acc-3939,2026-10-23T08:05:00Z,rules.v2,24.88,intent_topic_surge:2.07;webinar_attended:0.48;blog_visit:2.07,A,rep_yuki,explore,0.06,false
+a-003777,acc-5577,2026-10-22T08:27:00Z,rules.v2,42.143,product_signup:0.9;demo_page_visit:0.88;crm_meeting_booked:2.34,B,rep_amara,ROUTED,0.92,false
+a-003778,acc-3568,2026-10-23T14:09:00Z,rules.v2,45.0,intent_topic_surge:2.38;seat_limit_reached:1.12,A,,control,0.92,false
+a-003779,acc-2370,2026-10-20T15:36:00Z,v2,27.43,docs_visit:1.81;crm_meeting_booked:1.92,A,rep_tomas,routed,0.92,true
+a-003780,acc-4690,2026-10-22T10:12:00Z,rules.v2,12.32,crm_meeting_booked:0.56,A,rep_omar,explore,0.06,false
+a-003781,acc-5782,2026-10-19T11:31:00Z,v2,30.0135,product_signup:0.64;seat_limit_reached:2.24;blog_visit:0.71,B,rep_lena, Routed,0.92,false
+a-003782,acc-4991,2026-10-25T11:41:00Z,v2,32.011,intent_topic_surge:1.26;pricing_page_visit:1.79,B,rep_dev,routed,0.92,false
+a-003783,acc-4436,2026-10-19 13:51:00,v2,38.029,webinar_attended:1.87;blog_visit:1.22;intent_topic_surge:0.43;pricing_page_visit:2.26,B,rep_farid,routed,0.92,true
+a-003784,acc-5850,2026-10-20T11:07:00Z,rules.v2,10.1065,blog_visit:0.73;crm_email_reply:1.24,B,rep_sana,Explore,0.06,false
+a-003785,acc-2615,2026-10-24T08:47:00Z,rules.v2,27.576,webinar_attended:1.84;product_usage_spike:1.94,C,rep_lena,ROUTED,0.92,false
+a-003786,acc-2322,2026-10-19T14:32:00Z,rules.v2,51.935,seat_limit_reached:1.99;intent_topic_surge:0.41;demo_page_visit:2.39,B,rep_tomas,routed,0.92,false
+a-003787,acc-0566,1792487760000,v2,27.3445,pricing_page_visit:1.58;webinar_attended:0.85;docs_visit:1.65,B,rep_lena, Routed,0.92,false
+a-003788,acc-7367,2026-10-20 08:36:00,v2,43.197,product_usage_spike:1.99;evaluating_alternatives:1.13,B,rep_sana, Routed,0.92,true
+a-003789,acc-1772,2026-10-22T17:59:00Z,v2,41.46,product_usage_spike:2.26;docs_visit:1.7;pricing_page_visit:2.28,C,rep_tomas,ROUTED,0.92,false
+a-003790,acc-6732,2026-10-20T09:50:00Z,rules.v2,42.33,evaluating_alternatives:1.5;product_usage_spike:0.76;crm_meeting_booked:0.96,B,rep_amara,ROUTED,0.92,
+a-003791,acc-7528,2026-10-19 11:32:00,rules.v2,9.639,pricing_page_visit:0.81,B,rep_yuki,Explore,0.06,false
+a-003792,acc-4835,2026-10-20 15:13:00,rules.v2,72.57,webinar_attended:1.63;product_signup:1.87;product_usage_spike:1.93,A,rep_lena, Routed,0.92,
+a-003793,acc-1838,2026-10-20 15:48:00,rules.v2,33.439,blog_visit:2.13;pricing_page_visit:1.81;webinar_attended:2.24,B,,Holdout,0.92,false
+a-003794,acc-5539,1792500060000,rules.v2,29.028,docs_visit:2.04;product_usage_spike:1.41;blog_visit:2.38;evaluating_alternatives:2.22;legacy_pixel:1.0,C,rep_lena,ROUTED,0.92,false
+a-003795,acc-2316,2026-10-23T09:46:00Z,v2,51.54,pricing_page_visit:1.27;product_usage_spike:1.2;demo_page_visit:0.76,A,rep_farid,routed,0.92,false
+a-003796,acc-6760,2026-10-21T11:19:00Z,rules.v2,38.9,product_signup:0.53;docs_visit:1.03;pricing_page_visit:1.99,A,rep_dev,routed,0.92,false
+a-003797,acc-5876,2026-10-23T09:34:00Z,rules.v2,45.78,intent_topic_surge:1.12;webinar_attended:1.19;pricing_page_visit:1.96,A,rep_lena,routed,0.92,false
+a-003798,acc-7034,2026-10-20T12:26:00Z,rules.v2,60.333,demo_page_visit:1.63;product_signup:2.19;docs_visit:2.38;intent_topic_surge:0.89,B,rep_lena,routed,0.92,false
+a-003799,acc-5591,2026-10-22T13:36:00Z,v2,50.371,webinar_attended:1.76;intent_topic_surge:1.27;product_usage_spike:2.21,B,rep_farid,routed,0.92,false
+a-003800,acc-6067,2026-10-24T14:28:00Z,rules.v2,31.26,demo_page_visit:1.86;blog_visit:1.5,A,,control,0.92,
+a-003801,acc-7484,2026-10-21 11:43:00,rules.v2,41.4715,intent_topic_surge:1.75;docs_visit:0.43;product_signup:2.09,B,,Holdout,0.92,false
+a-003802,acc-0589,2026-10-19 12:16:00,v2,27.0,product_signup:2.21;evaluating_alternatives:1.78,C,,control,0.92,
+a-003803,acc-7242,2026-10-22T15:07:00Z,rules.v2,47.24,docs_visit:0.7;crm_meeting_booked:0.89;product_usage_spike:1.42,A,rep_sana,routed,0.92,false
+a-003804,acc-6600,2026-10-22T15:31:00Z,v2,27.012,demo_page_visit:2.13;pricing_page_visit:0.93,C,rep_yuki,routed,0.92,true
+a-003805,acc-5396,2026-10-21 11:31:00,rules.v2,29.2655,intent_topic_surge:2.26;blog_visit:1.77;docs_visit:0.94;webinar_attended:1.64,,rep_tomas, Routed,0.92,false
+a-003806,acc-3395,2026-10-23T08:17:00Z,rules.v2,40.358,pricing_page_visit:1.9;demo_page_visit:0.72;product_usage_spike:0.52,B,rep_lena, Routed,0.92,false
+a-003807,acc-6146,2026-10-19T16:27:00Z,v2,45.85,intent_topic_surge:2.23;blog_visit:0.85;seat_limit_reached:2.01,A,rep_tomas, Routed,0.92,false
+a-003808,acc-3706,2026-10-19T15:40:00Z,rules.v2,29.25,crm_email_reply:1.19;webinar_attended:1.74;product_signup:1.84,C,,control,0.92,false
+a-003809,acc-5552,2026-10-22T15:41:00Z,rules.v2,31.12,blog_visit:2.21;webinar_attended:0.76;pricing_page_visit:1.42;docs_visit:1.56,A,rep_omar,routed,0.92,
+a-003810,acc-2397,2026-10-19 12:02:00,rules.v2,6.9,webinar_attended:1.15,A,rep_lena,explore,0.06,false
+a-003811,acc-3525,2026-10-19T10:23:00Z,v2,27.474,webinar_attended:1.62;product_signup:0.91;hiring_gtm_ops:1.89;product_usage_spike:0.69,C,rep_lena,routed,0.92,true
+a-003812,acc-6596,2026-10-23T17:12:00Z,rules.v2,34.0595,product_signup:1.07;webinar_attended:0.41;pricing_page_visit:1.54,B,rep_tomas,routed,0.92,false
+a-003813,acc-4933,2026-10-22T09:54:00Z,rules.v2,40.8,product_signup:2.07;crm_email_reply:2.07,B,rep_tomas, Routed,0.92,false
+a-003814,acc-7400,2026-10-22T12:52:00Z,rules.v2,46.699,pricing_page_visit:0.78;demo_page_visit:1.97;intent_topic_surge:0.65;docs_visit:2.12,B,rep_tomas,routed,0.92,false
+a-003815,acc-2790,2026-10-23T08:45:00Z,v2,47.84,blog_visit:1.16;demo_page_visit:1.98;evaluating_alternatives:2.07,A,rep_farid,routed,0.92,
+a-003816,acc-0818,2026-10-21 17:34:00,rules.v2,53.19,seat_limit_reached:0.7;intent_topic_surge:0.55;crm_email_reply:1.79;demo_page_visit:0.88,A,rep_yuki,routed,0.92,false
+a-003817,acc-6905,2026-10-21T16:30:00Z,rules.v2,39.44,webinar_attended:2.15;demo_page_visit:0.91;pricing_page_visit:0.92,A,rep_dev,routed,0.92,
+a-003818,acc-7907,2026-10-22T09:31:00Z,rules.v2,27.21,blog_visit:1.95;crm_email_reply:2.14;webinar_attended:1.21,A,rep_omar, Routed,0.92,true
+a-003819,acc-2159,2026-10-19 09:05:00,rules.v2,40.8,blog_visit:2.16;crm_email_reply:2.36;pricing_page_visit:2.14,B,rep_yuki, Routed,0.92,false
+a-003820,acc-5168,2026-10-21T16:32:00Z,rules.v2,51.49,pricing_page_visit:1.96;demo_page_visit:1.34;docs_visit:0.87,A,,control,0.92,false
+a-003821,acc-3674,2026-10-21 12:56:00,v2,51.1785,webinar_attended:1.05;product_signup:1.54;crm_email_reply:1.59;intent_topic_surge:1.65,B,rep_yuki,ROUTED,0.92,true
+a-003822,acc-0086,2026-10-19T09:19:00Z,rules.v2,25.932,crm_email_reply:0.66;budget_confirmed:0.8;pricing_page_visit:0.92;hiring_gtm_ops:2.17,C,rep_farid, Routed,0.92,true
+a-003823,acc-0697,2026-10-20T17:05:00Z,v2,28.7725,seat_limit_reached:1.99;docs_visit:1.41;webinar_attended:0.77,B,rep_tomas,routed,0.92,
+a-003824,acc-3768,2026-10-22T11:16:00Z,rules.v2,37.7825,docs_visit:1.75;intent_topic_surge:1.72;crm_meeting_booked:1.74,B,rep_amara, Routed,0.92,false
+a-003825,acc-6117,2026-10-19T15:53:00Z,v2,60.316,product_usage_spike:1.84;pricing_page_visit:1.7;docs_visit:2.21;webinar_attended:1.34,B,rep_amara,routed,0.92,false
+a-003826,acc-4192,2026-10-20 08:02:00,rules.v2,25.5,blog_visit:2.34;crm_meeting_booked:1.6;docs_visit:2.19,B,rep_dev, Routed,0.92,true
+a-003827,acc-0886,2026-10-21T13:15:00Z,v2,78.46,seat_limit_reached:1.07;docs_visit:0.82;evaluating_alternatives:1.91;product_usage_spike:2.26,A,rep_lena, Routed,0.92,false
+a-003828,acc-0634,2026-10-21 11:20:00,v2,34.884,crm_email_reply:1.36;evaluating_alternatives:2.05;webinar_attended:1.18;demo_page_visit:0.42,B,rep_dev, Routed,0.92,
+a-003829,acc-6218,2026-10-22T08:41:00Z,v2,37.196,demo_page_visit:0.61;crm_meeting_booked:1.6;webinar_attended:2.26,B,rep_sana,routed,0.92,false
+a-003830,acc-5632,2026-10-20T16:38:00Z,v2,51.06,pricing_page_visit:1.55;crm_email_reply:1.04;intent_topic_surge:2.29,A,rep_omar, Routed,0.92,
+a-003831,acc-3708,2026-10-19T08:24:00Z,v2,42.0,demo_page_visit:2.3;hiring_gtm_ops:2.14,A,rep_sana, Routed,0.92,false
+a-003832,acc-2294,2026-10-19T12:41:00Z,rules.v2,21.8025,product_signup:1.71,B,rep_lena,Explore,0.06,true
+a-003833,acc-0166,1792748400000,rules.v2,33.3115,crm_email_reply:1.73;docs_visit:1.34;pricing_page_visit:1.4,B,rep_farid,routed,0.92,false
+a-003834,acc-1133,2026-10-19T11:35:00Z,rules.v2,28.05,crm_email_reply:2.31;intent_topic_surge:1.5,B,rep_sana,routed,0.92,true
+a-003835,acc-5722,2026-10-22T10:06:00Z,rules.v2,37.65,docs_visit:0.64;crm_email_reply:1.57;product_usage_spike:1.2,A,rep_amara,ROUTED,0.92,true
+a-003836,acc-7277,2026-10-25T12:27:00Z,rules.v2,50.94,demo_page_visit:0.63;product_signup:1.88;crm_email_reply:0.74;docs_visit:2.3,A,rep_tomas,routed,0.92,false
+a-003837,acc-5701,2026-10-22 17:32:00,rules.v2,29.79,crm_email_reply:1.21;pricing_page_visit:1.35,A,rep_omar, Routed,0.92,true
+a-003838,acc-2180,2026-10-20T12:29:00Z,v2,31.263,pricing_page_visit:1.77;webinar_attended:2.21,B,rep_farid, Routed,0.92,false
+a-003839,acc-1751,2026-10-22 10:26:00,rules.v2,73.355,product_signup:1.22;hiring_gtm_ops:1.97;product_usage_spike:2.26;crm_meeting_booked:2.12,B,rep_sana,routed,0.92,true
+a-003840,acc-1962,2026-10-22T13:55:00Z,v2,35.666,hiring_gtm_ops:2.39;pricing_page_visit:1.49;webinar_attended:1.85,B,,holdout,0.92,false
+a-003841,acc-7821,2026-10-19T15:29:00Z,rules.v2,28.968,intent_topic_surge:1.42;pricing_page_visit:1.42,B,rep_farid,routed,0.92,false
+a-003842,acc-1401,2026-10-23T11:01:00Z,rules.v2,31.92,demo_page_visit:1.37;hiring_gtm_ops:1.59,A,rep_amara, Routed,0.92,false
+a-003843,acc-2996,2026-10-23 08:13:00,v2,39.1,hiring_gtm_ops:1.66;product_usage_spike:2.14,B,rep_amara, Routed,0.92,false
+a-003844,acc-2091,2026-10-21T13:07:00Z,rules.v2,35.2665,product_signup:1.95;product_usage_spike:0.51;webinar_attended:0.51,B,rep_lena, Routed,0.92,false
+a-003845,acc-0257,1792680660000,rules.v2,32.198,demo_page_visit:2.11;docs_visit:1.96,B,rep_yuki,routed,0.92,
+a-003846,acc-0643,1792747680000,rules.v2,38.165,intent_topic_surge:1.69;pricing_page_visit:2.14,B,rep_amara,ROUTED,0.92,
+a-003847,acc-4724,2026-10-20T11:20:00Z,v2,47.855,demo_page_visit:1.04;blog_visit:0.57;product_signup:2.38;crm_email_reply:1.01,B,rep_dev, Routed,0.92,false
+a-003848,acc-3089,2026-10-22T17:22:00Z,v2,36.91,webinar_attended:1.37;blog_visit:1.19;evaluating_alternatives:1.13;intent_topic_surge:1.25,A,rep_dev,routed,0.92,false
+a-003849,acc-1497,2026-10-23T10:50:00Z,rules.v2,50.83,webinar_attended:1.3;hiring_gtm_ops:2.21;product_usage_spike:2.02;docs_visit:2.17,B,rep_lena,ROUTED,0.92,false
+a-003850,acc-5918,2026-10-22 08:44:00,v2,37.98,crm_email_reply:0.54;docs_visit:0.48;seat_limit_reached:1.49;demo_page_visit:2.2,C,rep_omar, Routed,0.92,true
+a-003851,acc-2841,2026-10-20T10:02:00Z,v2,26.55,intent_topic_surge:2.17;seat_limit_reached:0.97,C,rep_tomas,ROUTED,0.92,false
+a-003852,acc-7313,2026-10-20T13:37:00Z,rules.v2,47.549,crm_meeting_booked:1.44;evaluating_alternatives:0.87;blog_visit:0.89;intent_topic_surge:2.26,B,rep_dev,routed,0.92,false
+a-003853,acc-3246,2026-10-21 14:36:00,rules.v2,39.15,webinar_attended:1.61;pricing_page_visit:1.92;docs_visit:0.87,A,rep_amara, Routed,0.92,true
+a-003854,acc-1899,2026-10-22 16:10:00,rules.v2,40.64,pricing_page_visit:0.76;product_signup:2.36,A,rep_dev,routed,0.92,false
+a-003855,acc-5994,2026-10-23T17:47:00Z,rules.v2,33.59,demo_page_visit:2.14;docs_visit:0.53,A,rep_farid,ROUTED,0.92,false
+a-003856,acc-5485,2026-10-20 16:32:00,rules.v2,59.585,product_signup:1.71;intent_topic_surge:2.35;product_usage_spike:1.32;blog_visit:0.69,B,rep_farid,routed,0.92,
+a-003857,acc-6931,2026-10-19T10:50:00Z,rules.v2,42.4,budget_confirmed:0.8;pricing_page_visit:2.27,A,rep_dev,routed,0.92,false
+a-003858,acc-4638,2026-10-19T12:32:00Z,rules.v2,69.9465,crm_meeting_booked:2.25;pricing_page_visit:1.9;product_signup:2.25;docs_visit:1.23,B,rep_amara,ROUTED,0.92,true
+a-003859,acc-7064,2026-10-19 11:59:00,v2,37.36,intent_topic_surge:2.28;docs_visit:2.3;demo_page_visit:0.71,A,rep_yuki,routed,0.92,false
+a-003860,acc-0506,2026-10-19T17:21:00Z,rules.v2,26.8515,crm_email_reply:1.09;pricing_page_visit:1.48;blog_visit:1.06,B,rep_amara,ROUTED,0.92,false
+a-003861,acc-4404,2026-10-19T08:42:00Z,v2,46.869,docs_visit:1.2;pricing_page_visit:1.76;intent_topic_surge:1.57;demo_page_visit:0.7,B,rep_omar,routed,0.92,false
+a-003862,acc-6898,2026-10-21T08:21:00Z,v2,38.76,docs_visit:1.92;evaluating_alternatives:2.12;product_signup:1.2,A,rep_yuki,routed,0.92,false
+a-003863,acc-6083,2026-10-19T08:37:00Z,rules.v2,63.88,product_usage_spike:1.81;intent_topic_surge:1.04;product_signup:0.82;hiring_gtm_ops:0.86,A,,control,0.92,false
+a-003864,acc-7992,2026-10-19T10:24:00Z,rules.v2,40.5195,product_signup:0.99;demo_page_visit:1.77;webinar_attended:0.75,B,rep_sana,ROUTED,0.92,true
+a-003865,acc-0511,2026-10-22T12:14:00Z,rules.v2,35.088,pricing_page_visit:0.92;intent_topic_surge:1.64;webinar_attended:2.27;legacy_pixel:1.0,B,rep_dev, Routed,0.92,false
+a-003866,acc-6179,2026-10-20T17:42:00Z,rules.v2,28.0075,product_signup:1.75;hiring_gtm_ops:0.67,B,rep_lena,ROUTED,0.92,false
+a-003867,acc-3263,2026-10-19 08:13:00,v2,49.53,crm_email_reply:2.24;product_signup:1.75;webinar_attended:0.88,A,rep_farid,routed,0.92,false
+a-003868,acc-7081,2026-10-19T08:34:00Z,v2,23.43,product_signup:0.71;crm_email_reply:1.42,,rep_farid,Explore,0.06,true
+a-003869,acc-5872,2026-10-24T16:10:00Z,rules.v2,64.5745,crm_meeting_booked:1.96;crm_email_reply:1.63;product_signup:2.13;intent_topic_surge:0.93,B,rep_sana,ROUTED,0.92,false
+a-003870,acc-1793,2026-10-22T13:42:00Z,rules.v2,25.4235,crm_email_reply:1.99;webinar_attended:2.14,B,rep_tomas,routed,0.92,
+a-003871,acc-2986,2026-10-23T10:08:00Z,rules.v2,35.2,crm_meeting_booked:1.38;docs_visit:2.11;demo_page_visit:0.45,A,rep_omar,ROUTED,0.92,false
+a-003872,acc-2940,2026-10-20 12:44:00,rules.v2,50.55,docs_visit:1.85;evaluating_alternatives:1.39;product_signup:2.23,A,rep_amara,routed,0.92,false
+a-003873,acc-7754,2026-10-20T10:32:00Z,rules.v2,27.098,evaluating_alternatives:1.98;demo_page_visit:0.6;pricing_page_visit:0.52,B,rep_sana,routed,0.92,false
+a-003874,acc-2382,2026-10-21 16:20:00,rules.v2,28.3305,crm_email_reply:0.67;pricing_page_visit:1.95,B,rep_tomas,routed,0.92,false
+a-003875,acc-0260,1792406100000,rules.v2,26.4,demo_page_visit:2.01;webinar_attended:2.09,C,rep_lena, Routed,0.92,false
+a-003876,acc-0835,2026-10-25T15:30:00Z,rules.v2,30.481,intent_topic_surge:1.01;demo_page_visit:0.7;pricing_page_visit:1.04,B,rep_sana,routed,0.92,true
+a-003877,acc-3972,2026-10-19T12:21:00Z,v2,34.0,webinar_attended:2.4;crm_meeting_booked:1.6,A,rep_farid,ROUTED,0.92,false
+a-003878,acc-7111,2026-10-20T09:08:00Z,v2,41.4,product_usage_spike:0.9;evaluating_alternatives:1.25;crm_email_reply:2.23;intent_topic_surge:1.98,C,rep_sana,ROUTED,0.92,false
+a-003879,acc-7240,2026-10-21T12:11:00Z,rules.v2,55.93,product_usage_spike:1.38;pricing_page_visit:0.75;seat_limit_reached:0.55;webinar_attended:1.14,A,rep_lena,routed,0.92,false
+a-003880,acc-2061,2026-10-23 14:16:00,rules.v2,32.4955,crm_email_reply:1.87;hiring_gtm_ops:2.22;product_signup:0.76,B,rep_yuki,ROUTED,0.92,false
+a-003881,acc-2150,1792417860000,v2,36.858,pricing_page_visit:1.76;crm_meeting_booked:1.52;crm_email_reply:1.1;docs_visit:1.63,C,rep_dev,ROUTED,0.92,false
+a-003882,acc-2250,2026-10-19T15:20:00Z,rules.v2,50.8895,docs_visit:1.77;demo_page_visit:1.16;product_usage_spike:2.25,B,rep_dev,routed,0.92,false
+a-003883,acc-1093,2026-10-19T08:54:00Z,v2,46.1295,blog_visit:1.15;crm_email_reply:1.5;pricing_page_visit:0.49;product_usage_spike:1.82,B,rep_amara,ROUTED,0.92,false
+a-003884,acc-2146,2026-10-19 13:34:00,v2,34.017,product_usage_spike:1.57;pricing_page_visit:0.84,B,rep_tomas,routed,0.92,false
+a-003885,acc-1032,2026-10-19T15:57:00Z,v2,58.56,pricing_page_visit:1.04;crm_meeting_booked:2.4;intent_topic_surge:2.2;blog_visit:2.34,A,rep_lena,routed,0.92,false
+a-003886,acc-2869,2026-10-21T09:05:00Z,rules.v2,25.925,seat_limit_reached:0.5;crm_email_reply:2.07,B,rep_dev,routed,0.92,false
+a-003887,acc-2809,2026-10-20T17:35:00Z,rules.v2,45.62,crm_email_reply:1.06;pricing_page_visit:1.72;webinar_attended:2.12,A,rep_farid,routed,0.92,true
+a-003888,acc-0685,2026-10-21T08:53:00Z,v2,45.781,demo_page_visit:1.87;intent_topic_surge:0.98;pricing_page_visit:1.01,B,rep_amara,ROUTED,0.92,false
+a-003889,acc-5762,2026-10-21T09:38:00Z,v2,33.949,product_usage_spike:1.18;intent_topic_surge:1.87,B,rep_amara, Routed,0.92,false
+a-003890,acc-1245,2026-10-20T08:07:00Z,v2,67.5,evaluating_alternatives:1.58;product_usage_spike:1.81;crm_email_reply:2.0;docs_visit:0.64,A,rep_farid, Routed,0.92,false
+a-003891,acc-5434,2026-10-23T10:33:00Z,rules.v2,31.32,hiring_gtm_ops:0.52;demo_page_visit:2.28;evaluating_alternatives:2.19,C,rep_omar,routed,0.92,false
+a-003892,acc-0368,2026-10-19T13:51:00Z,rules.v2,36.6,seat_limit_reached:2.19;product_usage_spike:2.16,C,,Holdout,0.92,false
+a-003893,acc-0092,2026-10-20T12:29:00Z,rules.v2,13.986,crm_email_reply:1.55;webinar_attended:1.04;docs_visit:1.04,C,rep_tomas,Explore,0.06,false
+a-003894,acc-4540,2026-10-20T14:53:00Z,v2,29.835,hiring_gtm_ops:1.6;docs_visit:2.06;intent_topic_surge:1.91,B,,Holdout,0.92,false
+a-003895,acc-1563,2026-10-23 08:52:00,rules.v2,68.32,pricing_page_visit:0.45;webinar_attended:0.67;product_usage_spike:2.03;crm_meeting_booked:2.07,A,rep_yuki,ROUTED,0.92,true
+a-003896,acc-7434,2026-10-23 16:55:00,v2,58.46,demo_page_visit:1.83;intent_topic_surge:1.88;webinar_attended:1.73,A,rep_sana,routed,0.92,false
+a-003897,acc-7718,2026-10-19T16:36:00Z,rules.v2,7.2,webinar_attended:2.36,C,rep_omar,Explore,0.06,false
+a-003898,acc-3106,2026-10-20T10:36:00Z,rules.v2,29.325,docs_visit:0.7;webinar_attended:1.7;product_signup:1.48,,rep_amara, Routed,0.92,false
+a-003899,acc-3627,2026-10-21T10:38:00Z,rules.v2,42.279,product_usage_spike:1.83;pricing_page_visit:1.2,B,rep_omar,routed,0.92,true
+a-003900,acc-0493,2026-10-23T17:56:00Z,rules.v2,46.291,product_signup:2.17;crm_meeting_booked:1.87;docs_visit:0.82,B,rep_omar,routed,0.92,false
+a-003901,acc-2969,2026-10-22T12:25:00Z,rules.v2,28.572,docs_visit:1.94;intent_topic_surge:1.38;pricing_page_visit:2.4,C,rep_sana,ROUTED,0.92,false
+a-003902,acc-4719,2026-10-19T10:06:00Z,v2,40.8425,pricing_page_visit:2.33;intent_topic_surge:1.21;product_signup:0.53,B,rep_sana,ROUTED,0.92,false
+a-003903,acc-2856,2026-10-22T16:45:00Z,v2,26.73,crm_meeting_booked:0.52;blog_visit:1.11;intent_topic_surge:2.29;webinar_attended:2.22,C,rep_farid,routed,0.92,true
+a-003904,acc-3316,2026-10-19T17:33:00Z,v2,30.175,budget_confirmed:2.18;intent_topic_surge:1.75,B,rep_sana,routed,0.92,false
+a-003905,acc-0548,2026-10-19T15:45:00Z,rules.v2,61.4,crm_meeting_booked:1.74;product_signup:0.76;pricing_page_visit:2.12,A,rep_amara,ROUTED,0.92,
+a-003906,acc-1435,2026-10-22T09:41:00Z,rules.v2,72.743,intent_topic_surge:2.0;product_usage_spike:1.83;blog_visit:0.64;demo_page_visit:2.3,B,rep_farid,routed,0.92,false
+a-003907,acc-6050,2026-10-22T14:07:00Z,rules.v2,32.856,crm_meeting_booked:0.78;seat_limit_reached:1.48;blog_visit:1.12;pricing_page_visit:0.82,C,rep_farid,routed,0.92,
+a-003908,acc-6291,2026-10-19T17:32:00Z,v2,35.2,blog_visit:2.03;pricing_page_visit:1.3;docs_visit:1.8;product_signup:0.64,A,rep_farid,ROUTED,0.92,false
+a-003909,acc-0380,2026-10-19T09:40:00Z,v2,30.46,product_usage_spike:0.51;pricing_page_visit:1.52,A,rep_tomas,routed,0.92,true
+a-003910,acc-1784,2026-10-22T17:46:00Z,rules.v2,42.245,product_signup:1.18;webinar_attended:2.06;intent_topic_surge:2.27,B,rep_yuki,ROUTED,0.92,false
+a-003911,acc-1724,2026-10-23T11:29:00Z,v2,37.11,crm_email_reply:1.13;webinar_attended:0.62;product_usage_spike:0.73;pricing_page_visit:0.72,A,rep_sana, Routed,0.92,false
+a-003912,acc-2952,2026-10-21T15:41:00Z,rules.v2,49.419,webinar_attended:1.84;intent_topic_surge:0.99;product_usage_spike:1.77;docs_visit:1.78,B,rep_amara,routed,0.92,false
+a-003913,acc-0630,2026-10-22T08:21:00Z,v2,34.96,intent_topic_surge:1.83;blog_visit:1.45;crm_email_reply:1.69,A,rep_yuki,routed,0.92,false
+a-003914,acc-6431,2026-10-22T17:23:00Z,rules.v2,39.76,product_signup:0.8;crm_meeting_booked:0.81;intent_topic_surge:0.49;crm_email_reply:0.56,A,rep_dev,ROUTED,0.92,false
+a-003915,acc-4297,2026-10-19T13:30:00Z,rules.v2,38.79,blog_visit:0.41;crm_meeting_booked:2.39;docs_visit:2.38;webinar_attended:1.73,A,rep_omar,routed,0.92,true
+a-003916,acc-5455,2026-10-21 15:00:00,v2,95.48,pricing_page_visit:0.82;product_signup:2.1;demo_page_visit:2.29;crm_meeting_booked:1.51,A,rep_yuki,routed,0.92,false
+a-003917,acc-0502,2026-10-21T14:00:00Z,v2,17.4,crm_email_reply:0.92;pricing_page_visit:1.48,,rep_yuki,explore,0.06,
+a-003918,acc-4978,2026-10-21T08:23:00Z,rules.v2,68.085,product_usage_spike:1.22;demo_page_visit:0.94;seat_limit_reached:1.82;intent_topic_surge:1.81,B,rep_amara,routed,0.92,false
+a-003919,acc-3685,2026-10-23T15:36:00Z,rules.v2,40.95,product_usage_spike:0.85;product_signup:1.71,A,rep_yuki,routed,0.92,
+a-003920,acc-5972,2026-10-22 13:03:00,rules.v2,49.08,docs_visit:1.27;crm_email_reply:1.03;product_usage_spike:2.0,A,rep_farid,ROUTED,0.92,
+a-003921,acc-3790,2026-10-19T10:17:00Z,v2,29.648,docs_visit:2.09;demo_page_visit:0.68;crm_email_reply:2.21,B,rep_amara,routed,0.92,false
+a-003922,acc-3758,2026-10-22 12:08:00,rules.v2,21.288,hiring_gtm_ops:1.23;pricing_page_visit:1.82,C,rep_farid,explore,0.06,false
+a-003923,acc-7624,2026-10-21T08:17:00Z,rules.v2,32.4,budget_confirmed:2.21;product_usage_spike:2.33,C,rep_yuki,routed,0.92,false
+a-003924,acc-2619,2026-10-21T16:45:00Z,v2,36.499,webinar_attended:0.74;hiring_gtm_ops:1.57;intent_topic_surge:1.05;crm_email_reply:2.21,B,rep_lena, Routed,0.92,
+a-003925,acc-0899,2026-10-23 12:34:00,rules.v2,32.028,pricing_page_visit:2.1;crm_meeting_booked:0.44,B,rep_yuki,routed,0.92,true
+a-003926,acc-5320,1792507920000,rules.v2,67.33,blog_visit:1.69;demo_page_visit:0.79;pricing_page_visit:2.16;seat_limit_reached:2.3,A,rep_farid,routed,0.92,false
+a-003927,acc-0826,2026-10-22T12:29:00Z,v2,42.8995,demo_page_visit:1.41;docs_visit:1.23;pricing_page_visit:1.73,B,rep_sana,ROUTED,0.92,false
+a-003928,acc-2328,2026-10-20T10:29:00Z,rules.v2,25.86,blog_visit:2.08;docs_visit:1.2;product_signup:2.2;webinar_attended:1.25,,,control,0.92,false
+a-003929,acc-2857,2026-10-19T11:15:00Z,rules.v2,30.685,demo_page_visit:1.69;webinar_attended:1.51,B,rep_omar, Routed,0.92,false
+a-003930,acc-1410,2026-10-23T15:12:00Z,rules.v2,46.614,intent_topic_surge:2.05;pricing_page_visit:2.14;webinar_attended:1.14,B,rep_sana, Routed,0.92,false
+a-003931,acc-2984,2026-10-19T09:01:00Z,v2,64.8635,docs_visit:1.87;product_usage_spike:1.79;demo_page_visit:0.53;product_signup:2.33,B,rep_dev, Routed,0.92,false
+a-003932,acc-0974,2026-10-21T12:55:00Z,rules.v2,28.24,webinar_attended:0.54;seat_limit_reached:1.72,A,rep_omar,ROUTED,0.92,
+a-003933,acc-3565,2026-10-20T09:13:00Z,v2,28.458,docs_visit:1.16;product_signup:2.15,B,rep_amara,routed,0.92,false
+a-003934,acc-5446,1792755060000,v2,36.78,intent_topic_surge:1.9;pricing_page_visit:1.27,,rep_amara, Routed,0.92,false
+a-003935,acc-1532,2026-10-21T15:04:00Z,v2,39.3,product_usage_spike:2.11;docs_visit:1.1,A,rep_yuki,routed,0.92,true
+a-003936,acc-4634,2026-10-21T10:08:00Z,rules.v2,60.68,product_usage_spike:1.73;webinar_attended:1.59;intent_topic_surge:2.38,A,rep_farid, Routed,0.92,false
+a-003937,acc-0165,2026-10-22 17:31:00,rules.v2,46.461,intent_topic_surge:0.71;pricing_page_visit:1.92;crm_meeting_booked:0.94,B,rep_lena, Routed,0.92,true
+a-003938,acc-2407,2026-10-22 15:19:00,rules.v2,10.727,blog_visit:1.64;webinar_attended:1.83,B,rep_dev,explore,0.06,false
+a-003939,acc-5447,2026-10-22T09:04:00Z,rules.v2,31.16,pricing_page_visit:0.74;hiring_gtm_ops:0.58;evaluating_alternatives:1.41,A,rep_lena,routed,0.92,false
+a-003940,acc-3557,2026-10-19 08:55:00,rules.v2,28.968,product_signup:1.39;docs_visit:1.77;crm_email_reply:0.88,B,,Holdout,0.92,
+a-003941,acc-5391,1792665540000,rules.v2,27.696,pricing_page_visit:1.08;demo_page_visit:1.94,C,rep_lena,routed,0.92,false
+a-003942,acc-6733,2026-10-22T14:35:00Z,rules.v2,47.82,product_signup:1.62;docs_visit:1.84;intent_topic_surge:1.8,A,rep_dev,routed,0.92,false
+a-003943,acc-4528,2026-10-19T15:27:00Z,rules.v2,25.925,product_signup:0.7;intent_topic_surge:2.18,B,rep_tomas,routed,0.92,true
+a-003944,acc-0222,2026-10-22T09:14:00Z,rules.v2,1.91,blog_visit:1.91,A,rep_amara,explore,0.06,false
+a-003945,acc-2980,2026-10-23T08:23:00Z,rules.v2,94.5,product_signup:1.9;product_usage_spike:2.22;pricing_page_visit:2.09;blog_visit:2.33,A,rep_farid,routed,0.92,false
+a-003946,acc-0356,2026-10-20T16:50:00Z,rules.v2,44.2425,product_usage_spike:2.36;product_signup:1.07,B,rep_tomas, Routed,0.92,false
+a-003947,acc-3276,2026-10-20T10:44:00Z,rules.v2,59.21,product_usage_spike:1.22;crm_email_reply:1.83;blog_visit:1.38;intent_topic_surge:1.94,A,rep_yuki, Routed,0.92,false
+a-003948,acc-6509,2026-10-19 08:31:00,v2,44.29,docs_visit:1.65;product_usage_spike:1.43;product_signup:0.5;intent_topic_surge:0.61,A,rep_farid,ROUTED,0.92,false
+a-003949,acc-1249,2026-10-30T14:18:00Z,rules.v2,27.77,blog_visit:1.82;product_signup:1.73,A,rep_tomas,routed,0.92,false
+a-003950,acc-0161,1793190000000,rules.v2,26.163,webinar_attended:1.13;docs_visit:2.12;crm_email_reply:2.12,B,rep_yuki,routed,0.92,
+a-003951,acc-3512,2026-10-28T13:06:00Z,rules.v2,45.29,blog_visit:2.3;product_usage_spike:1.67;crm_email_reply:1.47,A,rep_yuki,routed,0.92,true
+a-003952,acc-6226,2026-10-30T10:39:00Z,rules.v2,36.1505,docs_visit:0.59;crm_meeting_booked:2.26;pricing_page_visit:1.34,B,rep_dev, Routed,0.92,
+a-003953,acc-6088,2026-10-29T11:37:00Z,rules.v2,30.753,hiring_gtm_ops:2.29;pricing_page_visit:1.87,B,rep_sana,ROUTED,0.92,false
+a-003954,acc-1617,2026-10-27T12:50:00Z,rules.v2,47.6085,docs_visit:0.77;crm_meeting_booked:2.37;hiring_gtm_ops:2.12;pricing_page_visit:1.55,B,rep_dev,ROUTED,0.92,true
+a-003955,acc-6647,2026-10-28T14:55:00Z,rules.v2,51.102,webinar_attended:1.52;product_usage_spike:2.02;seat_limit_reached:0.6,B,rep_lena,routed,0.92,false
+a-003956,acc-3264,2026-10-29T16:40:00Z,v2,19.77,docs_visit:1.61;budget_confirmed:0.83,A,rep_yuki,explore,0.06,true
+a-003957,acc-4914,2026-10-30T08:00:00Z,rules.v2,26.496,pricing_page_visit:1.65;product_usage_spike:1.17,C,rep_tomas,routed,0.92,false
+a-003958,acc-4362,2026-10-26 15:40:00,rules.v2,30.872,demo_page_visit:0.44;pricing_page_visit:0.59;webinar_attended:2.21;crm_meeting_booked:0.41,B,rep_sana,routed,0.92,true
+a-003959,acc-4734,2026-10-27T11:24:00Z,v2,31.45,webinar_attended:2.16;seat_limit_reached:1.19,B,rep_tomas,routed,0.92,false
+a-003960,acc-5072,2026-10-29T16:31:00Z,v2,53.37,crm_email_reply:0.51;product_signup:2.32;pricing_page_visit:1.23;blog_visit:1.56,A,rep_tomas,ROUTED,0.92,
+a-003961,acc-7139,2026-10-26 16:57:00,rules.v2,28.7,intent_topic_surge:0.67;crm_meeting_booked:2.17;legacy_pixel:1.0,A,rep_lena,routed,0.92,true
+a-003962,acc-7627,2026-10-29T13:16:00Z,rules.v2,31.31,intent_topic_surge:2.31;docs_visit:0.55;pricing_page_visit:0.69,A,rep_omar,routed,0.92,false
+a-003963,acc-3558,2026-10-30T17:59:00Z,v2,33.15,product_signup:2.1;docs_visit:1.05,A,rep_dev,routed,0.92,false
+a-003964,acc-1961,2026-10-28T12:43:00Z,rules.v2,34.8755,intent_topic_surge:1.48;evaluating_alternatives:1.22;hiring_gtm_ops:2.19;blog_visit:1.23,B,rep_farid,ROUTED,0.92,false
+a-003965,acc-4290,2026-10-27 14:08:00,rules.v2,21.6,blog_visit:2.21;pricing_page_visit:1.4,,rep_sana,explore,0.06,false
+a-003966,acc-7232,2026-10-28T12:32:00Z,rules.v2,57.6045,demo_page_visit:1.77;product_signup:0.81;evaluating_alternatives:1.96;intent_topic_surge:1.23,B,rep_amara,routed,0.92,false
+a-003967,acc-7363,2026-10-26 09:58:00,rules.v2,35.955,docs_visit:2.39;intent_topic_surge:0.83;pricing_page_visit:2.34,B,rep_yuki,routed,0.92,false
+a-003968,acc-3883,1793121420000,rules.v2,34.136,pricing_page_visit:1.87;webinar_attended:0.87;blog_visit:0.56;intent_topic_surge:0.82,B,rep_lena,routed,0.92,
+a-003969,acc-6113,1793032800000,rules.v2,51.51,pricing_page_visit:1.66;seat_limit_reached:2.0;docs_visit:1.09,A,rep_amara,ROUTED,0.92,true
+a-003970,acc-6793,2026-10-27T14:53:00Z,rules.v2,29.51,product_signup:0.63;docs_visit:1.25;blog_visit:1.21;intent_topic_surge:1.51,A,rep_tomas, Routed,0.92,false
+a-003971,acc-1322,2026-10-29T12:01:00Z,v2,47.855,product_signup:1.04;intent_topic_surge:1.87;crm_meeting_booked:2.34,B,rep_lena,ROUTED,0.92,
+a-003972,acc-1214,2026-10-28 08:25:00,rules.v2,37.78,pricing_page_visit:1.45;demo_page_visit:1.03;blog_visit:1.0,A,rep_omar,routed,0.92,false
+a-003973,acc-0439,2026-10-29 10:31:00,rules.v2,64.04,pricing_page_visit:1.72;webinar_attended:1.66;product_signup:2.13,A,rep_lena,routed,0.92,false
+a-003974,acc-0707,2026-10-27T10:35:00Z,v2,41.8285,product_signup:0.97;product_usage_spike:1.07;blog_visit:2.02;intent_topic_surge:1.34,B,,Holdout,0.92,false
+a-003975,acc-5121,2026-10-30T08:52:00Z,rules.v2,41.6925,blog_visit:2.05;product_signup:1.27;pricing_page_visit:2.06,B,rep_farid,routed,0.92,false
+a-003976,acc-5089,2026-11-01T14:47:00Z,rules.v2,30.498,product_signup:1.22;docs_visit:1.96;blog_visit:2.13;intent_topic_surge:0.97,B,rep_lena,ROUTED,0.92,false
+a-003977,acc-7448,2026-10-30T09:58:00Z,rules.v2,32.47,product_signup:1.68;blog_visit:2.12;crm_meeting_booked:0.5,B,rep_lena,routed,0.92,false
+a-003978,acc-5989,2026-10-30T10:30:00Z,rules.v2,4.25,intent_topic_surge:0.5,B,rep_amara,Explore,0.06,true
+a-003979,acc-7182,2026-10-30 14:24:00,v2,30.0985,crm_email_reply:0.54;intent_topic_surge:1.52;product_signup:0.89;blog_visit:2.39,B,rep_dev,ROUTED,0.92,false
+a-003980,acc-4199,2026-10-27T14:37:00Z,v2,37.04,demo_page_visit:1.64;hiring_gtm_ops:0.59;intent_topic_surge:0.49,A,rep_amara,routed,0.92,false
+a-003981,acc-3518,2026-10-29T16:17:00Z,v2,40.794,blog_visit:1.19;product_usage_spike:1.77;budget_confirmed:2.15;pricing_page_visit:1.21,C,,holdout,0.92,false
+a-003982,acc-0419,2026-10-27T08:29:00Z,v2,36.89,intent_topic_surge:2.29;blog_visit:2.14;crm_meeting_booked:0.7;docs_visit:2.23,B,rep_yuki,ROUTED,0.92,false
+a-003983,acc-1131,2026-10-30 17:14:00,rules.v2,43.095,budget_confirmed:2.31;crm_email_reply:1.35;product_signup:1.37,B,rep_dev, Routed,0.92,true
+a-003984,acc-1273,2026-10-27T11:11:00Z,rules.v2,32.898,product_signup:1.71;intent_topic_surge:2.05;crm_email_reply:1.02,C,rep_farid,routed,0.92,false
+a-003985,acc-1509,2026-10-29T09:49:00Z,rules.v2,43.2395,product_usage_spike:1.01;pricing_page_visit:1.24;webinar_attended:1.87;docs_visit:1.37,B,rep_sana, Routed,0.92,false
+a-003986,acc-1588,2026-10-30T08:21:00Z,rules.v2,35.275,crm_email_reply:1.5;pricing_page_visit:2.02,B,rep_lena,routed,0.92,false
+a-003987,acc-2604,2026-10-29T14:31:00Z,rules.v2,34.884,pricing_page_visit:1.04;intent_topic_surge:1.52;docs_visit:1.58;webinar_attended:1.09,B,rep_amara, Routed,0.92,false
+a-003988,acc-3017,2026-10-28T08:42:00Z,rules.v2,49.317,docs_visit:1.37;crm_email_reply:0.99;seat_limit_reached:2.05;intent_topic_surge:2.14,B,rep_yuki,routed,0.92,true
+a-003989,acc-0253,2026-10-26T10:19:00Z,v2,25.075,intent_topic_surge:0.85;product_signup:1.4,B,rep_omar,routed,0.92,true
+a-003990,acc-6578,2026-10-29T14:38:00Z,rules.v2,37.81,intent_topic_surge:1.51;blog_visit:0.71;crm_meeting_booked:1.54,A,,holdout,0.92,false
+a-003991,acc-6903,2026-10-27T09:24:00Z,rules.v2,28.902,blog_visit:1.42;hiring_gtm_ops:1.85;crm_email_reply:1.15;product_signup:1.76,C,rep_yuki,routed,0.92,false
+a-003992,acc-3426,2026-10-26T09:46:00Z,rules.v2,8.7,webinar_attended:1.45,A,rep_dev,Explore,0.06,false
+a-003993,acc-7938,2026-10-30T09:55:00Z,v2,38.13,crm_email_reply:1.75;product_signup:2.03;docs_visit:2.32;intent_topic_surge:1.18,C,rep_omar, Routed,0.92,true
+a-003994,acc-7935,2026-10-26T15:22:00Z,v2,40.035,demo_page_visit:0.95;pricing_page_visit:1.7;webinar_attended:1.35,B,rep_lena,routed,0.92,false
+a-003995,acc-4218,2026-10-28T08:20:00Z,rules.v2,49.38,product_usage_spike:1.91;evaluating_alternatives:2.2,A,,Holdout,0.92,false
+a-003996,acc-6931,2026-10-29T14:30:00Z,rules.v2,17.76,webinar_attended:0.57;pricing_page_visit:0.9;blog_visit:1.74,A,rep_dev,explore,0.06,false
+a-003997,acc-3413,2026-10-28T16:15:00Z,rules.v2,54.842,intent_topic_surge:1.3;product_usage_spike:1.12;demo_page_visit:1.96,B,rep_farid,routed,0.92,true
+a-003998,acc-0018,2026-10-26T14:02:00Z,rules.v2,33.507,docs_visit:2.19;webinar_attended:1.17;demo_page_visit:0.4;intent_topic_surge:2.05,B,rep_farid,routed,0.92,false
+a-003999,acc-4445,2026-10-28T10:19:00Z,rules.v2,42.534,intent_topic_surge:0.9;blog_visit:1.36;pricing_page_visit:1.99;webinar_attended:1.97,B,rep_amara, Routed,0.92,false
+a-004000,acc-6203,2026-10-28 11:23:00,v2,52.496,pricing_page_visit:1.34;intent_topic_surge:2.17;evaluating_alternatives:1.42;hiring_gtm_ops:0.8,B,rep_yuki,ROUTED,0.92,false
+a-004001,acc-5080,2026-11-01T15:22:00Z,rules.v2,35.862,pricing_page_visit:1.13;budget_confirmed:1.32;product_signup:1.73,,rep_lena, Routed,0.92,false
+a-004002,acc-6293,2026-10-27T08:33:00Z,v2,26.7,product_signup:1.38;docs_visit:2.06,A,rep_tomas,ROUTED,0.92,false
+a-004003,acc-0369,2026-10-27 11:11:00,rules.v2,25.08,webinar_attended:1.18;intent_topic_surge:1.8,A,rep_dev,routed,0.92,false
+a-004004,acc-5452,2026-10-27T10:15:00Z,rules.v2,38.724,evaluating_alternatives:0.88;pricing_page_visit:0.62;product_usage_spike:1.85;webinar_attended:1.56,C,rep_farid,ROUTED,0.92,false
+a-004005,acc-4387,1793191320000,rules.v2,26.078,demo_page_visit:1.4;webinar_attended:0.48;docs_visit:1.8,B,rep_tomas,ROUTED,0.92,false
+a-004006,acc-2217,1793109540000,rules.v2,30.668,intent_topic_surge:0.92;crm_email_reply:2.4;webinar_attended:1.48,B,rep_lena, Routed,0.92,
+a-004007,acc-1462,2026-10-29T10:33:00Z,v2,36.856,blog_visit:0.96;pricing_page_visit:1.68;demo_page_visit:1.18,B,rep_omar,routed,0.92,false
+a-004008,acc-0834,2026-10-29T08:18:00Z,rules.v2,37.0,evaluating_alternatives:2.04;crm_meeting_booked:2.09,A,rep_amara,ROUTED,0.92,true
+a-004009,acc-2238,2026-10-26T14:59:00Z,rules.v2,33.745,product_signup:0.78;pricing_page_visit:2.21,B,rep_farid,ROUTED,0.92,true
+a-004010,acc-1631,2026-10-26T17:33:00Z,v2,58.83,intent_topic_surge:1.53;blog_visit:1.91;crm_email_reply:1.84;pricing_page_visit:1.79,A,rep_farid,ROUTED,0.92,false
+a-004011,acc-1048,1793463540000,v2,38.98,product_signup:1.34;demo_page_visit:1.18,A,rep_dev,routed,0.92,false
+a-004012,acc-6361,2026-10-29 13:01:00,v2,33.6345,product_signup:1.8;blog_visit:1.23;crm_email_reply:1.26,B,rep_sana,routed,0.92,false
+a-004013,acc-5020,2026-10-26 10:55:00,rules.v2,25.8,pricing_page_visit:2.22;evaluating_alternatives:1.23,C,rep_omar,routed,0.92,false
+a-004014,acc-1797,1793369820000,v2,39.933,product_signup:0.51;docs_visit:2.26;crm_email_reply:0.93;demo_page_visit:1.56,,rep_yuki,routed,0.92,false
+a-004015,acc-5418,2026-10-28 13:04:00,rules.v2,49.41,docs_visit:1.47;evaluating_alternatives:2.28;product_signup:2.05,A,rep_dev,routed,0.92,false
+a-004016,acc-7355,2026-10-30T11:36:00Z,v2,30.923,product_usage_spike:1.91;blog_visit:2.19,B,rep_sana, Routed,0.92,
+a-004017,acc-7089,2026-10-28T10:06:00Z,rules.v2,32.0705,webinar_attended:1.92;demo_page_visit:0.86;product_signup:0.83,B,rep_lena, Routed,0.92,false
+a-004018,acc-0079,2026-10-30 17:43:00,rules.v2,1.15,blog_visit:1.15,A,rep_farid,Explore,0.06,false
+a-004019,acc-3899,2026-10-29T08:38:00Z,rules.v2,51.3485,blog_visit:1.05;demo_page_visit:1.96;pricing_page_visit:2.13,B,rep_lena,ROUTED,0.92,false
+a-004020,acc-4859,2026-10-28T12:17:00Z,v2,47.0985,hiring_gtm_ops:1.23;pricing_page_visit:0.94;intent_topic_surge:1.32;product_signup:1.27,B,,Holdout,0.92,false
+a-004021,acc-3994,2026-10-29T12:13:00Z,rules.v2,34.782,product_usage_spike:2.1;docs_visit:1.64,B,rep_dev,ROUTED,0.92,true
+a-004022,acc-1717,2026-10-29T14:41:00Z,rules.v2,31.37,crm_email_reply:1.5;docs_visit:1.39;intent_topic_surge:1.37,A,rep_lena, Routed,0.92,false
+a-004023,acc-5947,1793186520000,v2,52.52,blog_visit:1.66;product_usage_spike:0.47;pricing_page_visit:2.26;crm_email_reply:1.6,A,rep_lena,ROUTED,0.92,false
+a-004024,acc-2599,2026-10-30T13:14:00Z,v2,36.12,webinar_attended:1.86;demo_page_visit:1.56,A,rep_lena,routed,0.92,false
+a-004025,acc-3105,2026-11-01T09:28:00Z,rules.v2,29.682,docs_visit:2.0;product_usage_spike:1.33;webinar_attended:0.83,B,rep_lena, Routed,0.92,false
+a-004026,acc-6602,2026-10-29 17:48:00,rules.v2,29.736,hiring_gtm_ops:2.35;webinar_attended:0.56;demo_page_visit:2.02;docs_visit:1.4,C,rep_tomas,routed,0.92,false
+a-004027,acc-7254,2026-10-29 09:27:00,rules.v2,57.7,blog_visit:2.38;hiring_gtm_ops:1.87;intent_topic_surge:1.37;demo_page_visit:2.26,A,rep_lena,routed,0.92,false
+a-004028,acc-6456,2026-10-27T16:33:00Z,v2,68.2,intent_topic_surge:1.42;demo_page_visit:2.4;crm_meeting_booked:1.02,A,rep_farid,routed,0.92,false
+a-004029,acc-4861,2026-10-30T17:03:00Z,rules.v2,39.3,budget_confirmed:1.33;crm_email_reply:2.3;webinar_attended:0.55,,rep_farid,routed,0.92,true
+a-004030,acc-7758,2026-10-26T11:31:00Z,rules.v2,58.65,intent_topic_surge:0.64;product_usage_spike:1.46;crm_email_reply:1.78;pricing_page_visit:1.45,B,rep_dev,routed,0.92,false
+a-004031,acc-0258,2026-10-28T11:19:00Z,rules.v2,46.34,blog_visit:1.34;webinar_attended:2.37;docs_visit:1.0;product_signup:2.33,A,rep_omar, Routed,0.92,false
+a-004032,acc-6663,2026-10-26 10:52:00,v2,40.8,product_usage_spike:2.06;hiring_gtm_ops:1.04;blog_visit:2.39,B,rep_farid,routed,0.92,false
+a-004033,acc-4483,2026-10-30 13:11:00,v2,27.9,webinar_attended:2.33;intent_topic_surge:1.59,A,,control,0.92,
+a-004034,acc-3534,2026-10-29T16:05:00Z,rules.v2,54.4,product_usage_spike:2.2;seat_limit_reached:0.4;crm_email_reply:2.29,B,rep_farid,routed,0.92,true
+a-004035,acc-4241,2026-10-30T14:57:00Z,rules.v2,44.27,demo_page_visit:1.72;webinar_attended:1.51;docs_visit:1.97;blog_visit:1.78,A,rep_dev,ROUTED,0.92,false
+a-004036,acc-7231,2026-10-27T11:43:00Z,v2,46.291,product_usage_spike:1.47;crm_email_reply:2.04;hiring_gtm_ops:2.13,B,rep_sana,routed,0.92,false
+a-004037,acc-1885,2026-10-28T15:18:00Z,rules.v2,29.61,evaluating_alternatives:2.07;demo_page_visit:1.46;blog_visit:0.99;hiring_gtm_ops:2.34,C,rep_lena, Routed,0.92,false
+a-004038,acc-7631,2026-10-30 12:19:00,rules.v2,50.73,docs_visit:0.91;intent_topic_surge:2.2;pricing_page_visit:2.06,A,rep_sana,ROUTED,0.92,false
+a-004039,acc-6848,2026-10-30T13:58:00Z,rules.v2,37.8165,product_usage_spike:0.43;product_signup:1.77;webinar_attended:1.7,B,rep_lena,routed,0.92,false
+a-004040,acc-1260,2026-10-26T14:35:00Z,rules.v2,14.214,intent_topic_surge:2.07;crm_email_reply:0.41,C,rep_lena,explore,0.06,false
+a-004041,acc-1987,2026-10-30T10:25:00Z,rules.v2,28.0075,demo_page_visit:1.93;docs_visit:0.69,B,rep_sana,routed,0.92,
+a-004042,acc-3750,2026-10-26T09:49:00Z,rules.v2,29.0,crm_meeting_booked:2.01;pricing_page_visit:0.5,A,rep_amara, Routed,0.92,false
+a-004043,acc-5837,2026-10-28T08:38:00Z,rules.v2,16.38,crm_email_reply:1.82,A,rep_amara,Explore,0.06,true
+a-004043,acc-5837,2026-10-28T08:38:00Z,rules.v2,16.38,crm_email_reply:1.82,A,rep_amara,Explore,0.06,true
+a-004044,acc-3601,2026-10-28T17:59:00Z,rules.v2,68.4,intent_topic_surge:2.12;crm_email_reply:0.6;pricing_page_visit:2.37;evaluating_alternatives:1.11,,,Holdout,0.92,false
+a-004045,acc-3670,2026-10-27T12:05:00Z,rules.v2,39.18,crm_meeting_booked:2.16;seat_limit_reached:1.23;intent_topic_surge:1.83,C,rep_amara,routed,0.92,false
+a-004046,acc-5473,2026-10-27T12:48:00Z,rules.v2,37.41,product_signup:1.36;crm_email_reply:1.89,A,rep_lena,ROUTED,0.92,true
+a-004047,acc-2979,2026-10-27T12:58:00Z,v2,31.584,pricing_page_visit:1.87;product_usage_spike:1.47,C,rep_amara,routed,0.92,false
+a-004048,acc-0676,2026-10-30T12:42:00Z,rules.v2,14.232,hiring_gtm_ops:2.01;pricing_page_visit:0.98,C,rep_tomas,Explore,0.06,true
+a-004048,acc-0676,2026-10-30T12:42:00Z,rules.v2,14.232,hiring_gtm_ops:2.01;pricing_page_visit:0.98,C,rep_tomas,Explore,0.06,true
+a-004049,acc-6468,2026-10-30T15:53:00Z,rules.v2,60.248,seat_limit_reached:2.3;crm_meeting_booked:1.16;webinar_attended:2.38;product_usage_spike:0.66,B,rep_sana,routed,0.92,false
+a-004050,acc-7855,2026-10-30T08:26:00Z,v2,29.39,hiring_gtm_ops:1.53;docs_visit:1.87;pricing_page_visit:0.47;webinar_attended:1.2,,rep_amara, Routed,0.92,false
+a-004051,acc-7205,2026-10-27 14:06:00,rules.v2,13.77,crm_email_reply:1.8,B,rep_dev,explore,0.06,true
+a-004052,acc-3100,1793118720000,rules.v2,54.026,intent_topic_surge:1.66;demo_page_visit:1.56;crm_meeting_booked:2.3,B,,control,0.92,false
+a-004053,acc-7900,2026-10-28T11:57:00Z,rules.v2,35.436,pricing_page_visit:1.27;webinar_attended:1.88;product_signup:2.16,C,rep_yuki,routed,0.92,false
+a-004054,acc-3988,2026-10-31T12:24:00Z,rules.v2,10.08,pricing_page_visit:1.2,C,rep_tomas,explore,0.06,false
+a-004055,acc-3953,1793094120000,rules.v2,54.825,docs_visit:1.3;intent_topic_surge:2.28;hiring_gtm_ops:1.42;product_usage_spike:1.7,B,rep_sana,routed,0.92,false
+a-004056,acc-4596,2026-10-28 12:50:00,rules.v2,28.9,intent_topic_surge:1.39;evaluating_alternatives:2.12,A,rep_dev, Routed,0.92,
+a-004057,acc-5190,2026-10-27T08:57:00Z,rules.v2,30.75,intent_topic_surge:1.13;hiring_gtm_ops:0.86;docs_visit:0.95;product_signup:1.9,C,rep_tomas,routed,0.92,false
+a-004058,acc-0307,2026-10-30 11:02:00,rules.v2,60.71,crm_email_reply:0.54;product_usage_spike:2.37;budget_confirmed:1.02;blog_visit:1.85,A,,Holdout,0.92,true
+a-004059,acc-6862,2026-10-28T17:23:00Z,v2,36.2355,demo_page_visit:1.64;crm_email_reply:0.81;intent_topic_surge:0.91,B,rep_sana,routed,0.92,true
+a-004060,acc-0761,2026-10-28T15:13:00Z,rules.v2,31.78,webinar_attended:1.75;demo_page_visit:1.33,A,rep_amara,routed,0.92,false
+a-004061,acc-5895,2026-10-30T13:23:00Z,rules.v2,30.6,product_usage_spike:2.01,B,rep_amara,Explore,0.06,false
+a-004062,acc-7124,2026-10-29T12:44:00Z,rules.v2,28.4325,docs_visit:1.3;intent_topic_surge:0.66;product_signup:1.53,B,rep_tomas,routed,0.92,false
+a-004063,acc-0978,2026-10-26T17:01:00Z,rules.v2,31.756,hiring_gtm_ops:1.0;demo_page_visit:1.36;intent_topic_surge:0.56,B,rep_yuki,ROUTED,0.92,false
+a-004064,acc-7569,2026-10-30T11:31:00Z,rules.v2,18.516,webinar_attended:1.81;intent_topic_surge:2.1,C,rep_omar,explore,0.06,false
+a-004065,acc-1782,2026-10-28T12:58:00Z,rules.v2,50.609,blog_visit:1.04;product_signup:1.96;evaluating_alternatives:2.29;intent_topic_surge:1.41,B,rep_yuki,routed,0.92,false
+a-004066,acc-3142,2026-10-26T16:47:00Z,rules.v2,34.188,docs_visit:0.91;pricing_page_visit:2.12;product_signup:1.75,C,rep_sana,ROUTED,0.92,
+a-004067,acc-6427,2026-10-29 14:32:00,v2,26.586,crm_email_reply:1.29;webinar_attended:1.55;hiring_gtm_ops:0.8;pricing_page_visit:1.1,C,,holdout,0.92,false
+a-004068,acc-3077,2026-10-30T13:52:00Z,v2,35.037,crm_email_reply:2.38;crm_meeting_booked:1.02;blog_visit:1.22,B,rep_dev, Routed,0.92,
+a-004069,acc-1429,2026-10-26 15:49:00,rules.v2,26.316,docs_visit:2.4;blog_visit:2.13;pricing_page_visit:1.64,B,rep_sana,routed,0.92,false
+a-004070,acc-5463,2026-10-27T17:47:00Z,v2,38.5,intent_topic_surge:2.31;blog_visit:1.82;webinar_attended:2.13;docs_visit:1.56,A,rep_tomas,routed,0.92,false
+a-004071,acc-2246,2026-10-27 14:15:00,rules.v2,27.2085,hiring_gtm_ops:1.86;blog_visit:0.59;pricing_page_visit:1.53,B,rep_sana, Routed,0.92,false
+a-004072,acc-5413,2026-10-26 10:32:00,rules.v2,26.748,docs_visit:1.89;crm_email_reply:0.99;product_signup:2.34,C,rep_dev,routed,0.92,true
+a-004073,acc-2687,2026-10-26T16:45:00Z,rules.v2,43.605,blog_visit:2.34;pricing_page_visit:2.2;product_signup:1.42,B,rep_tomas,ROUTED,0.92,false
+a-004074,acc-7121,2026-10-27T12:16:00Z,rules.v2,35.0,hiring_gtm_ops:2.25;seat_limit_reached:1.82,A,rep_farid,routed,0.92,false
+a-004075,acc-4522,2026-10-30T12:37:00Z,v2,43.59,pricing_page_visit:1.71;product_signup:1.12;docs_visit:0.95,A,rep_yuki, Routed,0.92,false
+a-004076,acc-4012,2026-10-29T15:24:00Z,v2,25.398,crm_email_reply:2.15;product_usage_spike:0.66,B,rep_amara, Routed,0.92,true
+a-004077,acc-1811,2026-10-27T12:01:00Z,rules.v2,28.5175,blog_visit:1.04;docs_visit:2.37;demo_page_visit:0.86;seat_limit_reached:0.51,B,rep_yuki,ROUTED,0.92,false
+a-004078,acc-0327,2026-10-27T12:46:00Z,rules.v2,39.408,evaluating_alternatives:1.71;docs_visit:2.38;crm_email_reply:1.64;demo_page_visit:1.87,C,rep_yuki,routed,0.92,true
+a-004079,acc-3702,2026-10-26 12:25:00,v2,27.4465,crm_email_reply:1.27;pricing_page_visit:1.49,B,rep_lena, Routed,0.92,
+a-004080,acc-7136,2026-10-30T13:40:00Z,v2,30.855,intent_topic_surge:1.38;budget_confirmed:1.11;blog_visit:0.66;docs_visit:1.28,B,rep_omar,routed,0.92,true
+a-004081,acc-0798,2026-10-28T16:15:00Z,v2,31.5,docs_visit:1.32;webinar_attended:1.35;product_usage_spike:1.08,A,rep_amara,ROUTED,0.92,
+a-004082,acc-1678,2026-10-28T08:32:00Z,v2,33.58,webinar_attended:1.93;crm_meeting_booked:2.35,A,rep_farid,routed,0.92,false
+a-004083,acc-3659,2026-10-29T14:00:00Z,rules.v2,31.9175,product_usage_spike:2.29;blog_visit:1.55,B,rep_sana, Routed,0.92,false
+a-004084,acc-4112,2026-10-30T16:44:00Z,rules.v2,30.87,product_usage_spike:0.88;crm_email_reply:1.67,A,rep_farid, Routed,0.92,true
+a-004085,acc-7608,2026-10-29T14:45:00Z,rules.v2,40.7575,docs_visit:1.65;evaluating_alternatives:1.51;pricing_page_visit:2.28,B,rep_amara,routed,0.92,
+a-004086,acc-2368,2026-10-26 09:39:00,rules.v2,52.16,product_usage_spike:1.98;pricing_page_visit:1.18,A,rep_tomas,routed,0.92,false
+a-004087,acc-1088,2026-10-27T09:38:00Z,rules.v2,30.4895,docs_visit:1.03;webinar_attended:1.06;product_usage_spike:1.24;hiring_gtm_ops:0.41,B,rep_omar,routed,0.92,false
+a-004088,acc-2776,2026-10-27 17:00:00,rules.v2,32.0705,intent_topic_surge:2.1;docs_visit:0.51;product_usage_spike:0.9,B,rep_lena,ROUTED,0.92,false
+a-004089,acc-3445,2026-10-28 17:02:00,v2,67.5,demo_page_visit:2.23;intent_topic_surge:1.21;product_signup:1.56,A,rep_yuki,routed,0.92,false
+a-004090,acc-3460,2026-10-30T13:19:00Z,rules.v2,33.972,crm_email_reply:0.95;product_signup:1.87;pricing_page_visit:1.43,C,rep_lena, Routed,0.92,false
+a-004090,acc-3460,2026-10-30T13:19:00Z,rules.v2,33.972,crm_email_reply:0.95;product_signup:1.87;pricing_page_visit:1.43,C,rep_lena, Routed,0.92,false
+a-004091,acc-4458,2026-10-26T09:22:00Z,v2,29.682,product_signup:1.88;pricing_page_visit:0.48,B,rep_yuki,routed,0.92,true
+a-004092,acc-1697,2026-10-28T14:23:00Z,rules.v2,32.997,crm_email_reply:1.08;product_signup:1.94,B,rep_lena,ROUTED,0.92,false
+a-004093,acc-1982,2026-10-26T12:24:00Z,rules.v2,59.67,crm_email_reply:1.53;intent_topic_surge:1.39;demo_page_visit:2.03,A,,Holdout,0.92,false
+a-004094,acc-3310,2026-10-26 14:31:00,rules.v2,57.9275,evaluating_alternatives:1.88;product_signup:1.41;demo_page_visit:2.08,B,rep_yuki, Routed,0.92,false
+a-004095,acc-2557,2026-10-30T14:28:00Z,v2,29.16,pricing_page_visit:2.32;blog_visit:1.16,A,rep_omar, Routed,0.92,false
+a-004096,acc-2000,2026-10-27T16:16:00Z,v2,51.544,docs_visit:0.86;product_usage_spike:2.32;demo_page_visit:0.81;pricing_page_visit:0.65,B,rep_lena, Routed,0.92,false
+a-004097,acc-1029,2026-10-30T10:18:00Z,rules.v2,61.7,blog_visit:1.46;product_usage_spike:1.59;product_signup:0.98;crm_email_reply:1.88,A,,Holdout,0.92,true
+a-004098,acc-0357,2026-10-27T15:42:00Z,rules.v2,25.67,webinar_attended:1.7;intent_topic_surge:2.34,B,rep_tomas,routed,0.92,false
+a-004099,acc-6406,2026-10-26T15:09:00Z,v2,92.86,pricing_page_visit:1.34;seat_limit_reached:2.38;crm_email_reply:1.9;demo_page_visit:2.3,A,rep_omar,routed,0.92,false
+a-004100,acc-4679,2026-10-26T09:46:00Z,v2,28.05,blog_visit:1.0;demo_page_visit:2.3,B,rep_farid,routed,0.92,true
+a-004101,acc-3312,2026-10-27T10:23:00Z,v2,26.47,blog_visit:0.7;pricing_page_visit:0.91;docs_visit:1.01;hiring_gtm_ops:1.09,A,rep_amara,routed,0.92,false
+a-004102,acc-0679,2026-10-28T15:19:00Z,rules.v2,28.526,blog_visit:0.98;demo_page_visit:0.99;product_usage_spike:0.93,B,rep_farid,ROUTED,0.92,false
+a-004103,acc-2221,2026-10-29 13:24:00,rules.v2,53.5755,product_signup:1.47;crm_meeting_booked:0.87;docs_visit:2.02;demo_page_visit:0.99,B,rep_yuki,routed,0.92,false
+a-004104,acc-4773,2026-10-27T12:56:00Z,v2,31.0,evaluating_alternatives:1.78;docs_visit:2.31;hiring_gtm_ops:1.91,A,,control,0.92,false
+a-004105,acc-1519,2026-10-30T12:14:00Z,rules.v2,26.592,docs_visit:1.12;intent_topic_surge:1.75;evaluating_alternatives:2.08;webinar_attended:1.41,C,rep_amara,routed,0.92,false
+a-004106,acc-0417,2026-10-27 16:45:00,rules.v2,27.82,pricing_page_visit:0.96;docs_visit:1.46;hiring_gtm_ops:1.2,A,rep_farid,routed,0.92,
+a-004107,acc-3954,2026-10-27T14:40:00Z,rules.v2,44.65,pricing_page_visit:0.69;demo_page_visit:1.9;crm_email_reply:0.51,A,rep_farid,routed,0.92,false
+a-004108,acc-6883,2026-10-29T12:22:00Z,rules.v2,33.12,product_usage_spike:1.23;webinar_attended:1.83,A,rep_farid,routed,0.92,false
+a-004109,acc-0433,1793002260000,v2,28.781,crm_email_reply:2.18;pricing_page_visit:0.99;blog_visit:2.01,B,rep_amara, Routed,0.92,true
+a-004110,acc-3904,2026-10-29T09:22:00Z,v2,88.54,product_usage_spike:2.1;product_signup:1.74;intent_topic_surge:0.42;demo_page_visit:1.39,A,rep_sana,routed,0.92,
+a-004111,acc-0677,2026-10-28T12:23:00Z,v2,49.011,crm_email_reply:1.14;budget_confirmed:1.04;product_signup:1.96,B,rep_tomas, Routed,0.92,false
+a-004112,acc-0640,2026-10-28T15:02:00Z,v2,59.8145,webinar_attended:0.52;blog_visit:1.25;product_signup:2.39;product_usage_spike:2.37,B,rep_sana,routed,0.92,
+a-004113,acc-0359,2026-10-28T16:00:00Z,rules.v2,53.72,intent_topic_surge:1.82;product_signup:2.32;evaluating_alternatives:1.94,,,holdout,0.92,true
+a-004114,acc-0076,2026-10-30T13:53:00Z,v2,53.805,docs_visit:1.14;intent_topic_surge:2.29;demo_page_visit:1.18;pricing_page_visit:1.5,B,rep_farid,routed,0.92,false
+a-004115,acc-3644,2026-10-30 12:45:00,rules.v2,41.62,webinar_attended:1.97;pricing_page_visit:0.7;intent_topic_surge:2.39,A,rep_omar,ROUTED,0.92,false
+a-004116,acc-4735,2026-10-27T11:12:00Z,rules.v2,22.83,docs_visit:1.27;crm_meeting_booked:0.77;intent_topic_surge:1.73,C,rep_lena,explore,0.06,true
+a-004117,acc-3084,2026-10-30T17:07:00Z,v2,44.829,intent_topic_surge:2.38;docs_visit:1.58;pricing_page_visit:2.01,B,rep_farid,routed,0.92,false
+a-004118,acc-4667,2026-10-26T14:48:00Z,rules.v2,36.924,crm_email_reply:1.76;product_signup:1.84,B,rep_lena, Routed,0.92,false
+a-004119,acc-6450,1793379180000,v2,32.9545,pricing_page_visit:1.78;product_signup:0.79;blog_visit:2.26,B,rep_tomas, Routed,0.92,false
+a-004120,acc-2428,2026-10-26T10:21:00Z,rules.v2,44.183,demo_page_visit:2.1;crm_email_reply:2.24;docs_visit:0.66,B,rep_tomas,routed,0.92,false
+a-004121,acc-5969,1793002440000,v2,27.2,blog_visit:2.34;product_signup:2.27,B,rep_omar,routed,0.92,false
+a-004122,acc-7515,2026-10-29T08:47:00Z,rules.v2,41.1,budget_confirmed:1.19;docs_visit:0.92;product_usage_spike:1.13,A,rep_dev, Routed,0.92,false
+a-004123,acc-6032,2026-10-26T16:31:00Z,v2,45.42,webinar_attended:0.46;product_usage_spike:2.31;crm_email_reply:0.74,A,rep_lena,routed,0.92,false
+a-004124,acc-2587,2026-10-29 10:17:00,rules.v2,12.78,budget_confirmed:1.51;webinar_attended:0.55,C,rep_farid,Explore,0.06,false
+a-004125,acc-2740,2026-10-31T15:46:00Z,rules.v2,28.26,evaluating_alternatives:1.3;webinar_attended:0.51;product_usage_spike:0.48;docs_visit:0.52,A,rep_amara,routed,0.92,false
+a-004126,acc-1414,2026-10-28T11:17:00Z,rules.v2,16.386,demo_page_visit:0.64;intent_topic_surge:1.35;docs_visit:1.19,C,rep_tomas,explore,0.06,false
+a-004127,acc-7516,2026-10-26T10:18:00Z,v2,28.9,docs_visit:2.27;pricing_page_visit:2.14,B,,control,0.92,
+a-004128,acc-5892,2026-10-30T17:03:00Z,v2,38.4965,blog_visit:1.65;crm_meeting_booked:0.58;demo_page_visit:1.93,B,rep_tomas,routed,0.92,
+a-004129,acc-7616,2026-10-27 13:39:00,rules.v2,49.3425,seat_limit_reached:1.0;intent_topic_surge:2.38;webinar_attended:1.27;docs_visit:1.81,B,rep_farid,routed,0.92,false
+a-004130,acc-1909,2026-10-26T10:36:00Z,rules.v2,28.698,crm_email_reply:1.01;pricing_page_visit:1.66;intent_topic_surge:1.55,C,rep_tomas,routed,0.92,false
+a-004131,acc-2820,2026-10-27T14:20:00Z,rules.v2,36.771,product_signup:1.09;blog_visit:1.67;webinar_attended:1.06;demo_page_visit:1.18,B,rep_farid,routed,0.92,false
+a-004132,acc-6330,2026-10-28T11:21:00Z,v2,48.943,crm_email_reply:1.26;blog_visit:1.52;demo_page_visit:1.67;product_usage_spike:1.0,B,rep_dev, Routed,0.92,
+a-004133,acc-4087,2026-10-27T12:30:00Z,rules.v2,31.45,evaluating_alternatives:1.04;crm_meeting_booked:1.93,B,,control,0.92,true
+a-004134,acc-2093,2026-10-30 14:52:00,v2,27.46,pricing_page_visit:0.42;crm_email_reply:1.52;intent_topic_surge:0.79,A,rep_dev,routed,0.92,true
+a-004135,acc-0364,2026-10-30T12:27:00Z,rules.v2,56.56,intent_topic_surge:1.81;product_usage_spike:1.9;docs_visit:1.42,A,rep_yuki,routed,0.92,
+a-004136,acc-3314,2026-10-27T11:40:00Z,rules.v2,35.836,pricing_page_visit:0.44;product_usage_spike:2.37,B,rep_farid,routed,0.92,false
+a-004137,acc-0372,2026-10-27T13:40:00Z,rules.v2,34.866,crm_meeting_booked:2.24;product_usage_spike:1.91;blog_visit:1.73,C,rep_sana,routed,0.92,false
+a-004138,acc-5084,2026-10-27T16:40:00Z,rules.v2,25.5425,webinar_attended:0.57;docs_visit:1.83;pricing_page_visit:1.51,B,rep_dev,routed,0.92,false
+a-004139,acc-6789,2026-10-29T10:57:00Z,rules.v2,36.19,webinar_attended:0.85;product_usage_spike:0.87;docs_visit:1.81;hiring_gtm_ops:1.18,A,rep_amara, Routed,0.92,false
+a-004140,acc-0919,2026-10-26T13:33:00Z,rules.v2,34.425,product_signup:1.7;webinar_attended:1.74;docs_visit:1.36;blog_visit:0.48,B,rep_dev,ROUTED,0.92,false
+a-004141,acc-3657,2026-10-29T14:51:00Z,rules.v2,41.36,product_signup:2.33;demo_page_visit:0.71,A,rep_dev,routed,0.92,false
+a-004142,acc-6108,2026-10-28T08:17:00Z,v2,36.295,pricing_page_visit:1.7;product_usage_spike:1.05,,rep_lena, Routed,0.92,false
+a-004143,acc-0302,2026-10-29 14:15:00,rules.v2,45.5685,docs_visit:0.67;seat_limit_reached:0.9;product_signup:1.94,B,rep_omar,ROUTED,0.92,false
+a-004144,acc-5327,2026-10-29T09:39:00Z,rules.v2,52.7,product_signup:2.35;demo_page_visit:2.1,B,rep_sana,ROUTED,0.92,false
+a-004145,acc-0752,2026-10-30T09:27:00Z,rules.v2,32.3,hiring_gtm_ops:1.21;pricing_page_visit:2.2,B,rep_lena,routed,0.92,false
+a-004146,acc-7907,2026-10-29T15:15:00Z,rules.v2,46.47,product_usage_spike:1.79;docs_visit:0.75;webinar_attended:2.24,A,rep_omar,ROUTED,0.92,false
+a-004147,acc-1831,1793376120000,v2,44.2935,blog_visit:0.86;hiring_gtm_ops:1.68;webinar_attended:2.02;product_signup:1.95,B,rep_farid,routed,0.92,false
+a-004148,acc-7022,2026-10-29 17:21:00,rules.v2,38.38,docs_visit:0.46;crm_meeting_booked:1.23;evaluating_alternatives:1.53,A,rep_amara,routed,0.92,
+a-004149,acc-4890,2026-10-28T15:41:00Z,rules.v2,57.12,pricing_page_visit:1.15;budget_confirmed:1.86;demo_page_visit:2.32;blog_visit:1.1,B,rep_tomas,ROUTED,0.92,false
+a-004150,acc-5887,2026-10-26 17:41:00,v2,47.192,docs_visit:1.1;pricing_page_visit:1.75;product_usage_spike:1.54,,,Holdout,0.92,
+a-004151,acc-1134,2026-10-26T09:51:00Z,v2,59.84,hiring_gtm_ops:1.31;crm_meeting_booked:2.34;docs_visit:2.02;pricing_page_visit:1.56,A,rep_tomas,ROUTED,0.92,false
+a-004152,acc-5819,2026-10-27T08:04:00Z,rules.v2,42.2025,intent_topic_surge:0.79;product_signup:2.05;pricing_page_visit:0.64;docs_visit:0.93,B,rep_omar,routed,0.92,false
+a-004153,acc-0205,2026-10-29T08:29:00Z,rules.v2,29.7925,hiring_gtm_ops:2.0;crm_email_reply:1.05;intent_topic_surge:1.36;blog_visit:2.0,B,rep_dev, Routed,0.92,true
+a-004154,acc-4884,2026-10-27T16:21:00Z,rules.v2,43.0,pricing_page_visit:2.19;evaluating_alternatives:1.3,A,rep_farid,routed,0.92,false
+a-004155,acc-0624,1793369400000,rules.v2,30.1665,crm_email_reply:0.61;product_signup:2.36,B,rep_lena,routed,0.92,
+a-004156,acc-2518,1793191140000,v2,26.376,blog_visit:1.64;webinar_attended:1.22;seat_limit_reached:1.69;hiring_gtm_ops:1.72,C,rep_lena, Routed,0.92,true
+a-004157,acc-2231,2026-10-30T10:13:00Z,v2,28.067,evaluating_alternatives:1.25;docs_visit:1.9;pricing_page_visit:0.88,B,rep_farid,routed,0.92,false
+a-004158,acc-0789,2026-10-26T17:33:00Z,rules.v2,44.49,intent_topic_surge:1.21;blog_visit:1.61;product_usage_spike:1.71,A,,Holdout,0.92,false
+a-004159,acc-2380,2026-10-26T14:07:00Z,rules.v2,39.324,product_usage_spike:1.79;docs_visit:0.44;demo_page_visit:2.16,C,rep_lena,routed,0.92,false
+a-004160,acc-3436,2026-10-26T15:59:00Z,rules.v2,45.05,budget_confirmed:0.82;crm_meeting_booked:0.72;product_signup:1.41;blog_visit:1.25,B,rep_omar, Routed,0.92,
+a-004161,acc-7325,1793364180000,v2,29.772,pricing_page_visit:1.75;demo_page_visit:1.57,C,rep_sana,routed,0.92,false
+a-004162,acc-7684,2026-10-28T10:00:00Z,rules.v2,33.87,webinar_attended:0.62;demo_page_visit:1.56;docs_visit:1.73,A,rep_amara, Routed,0.92,false
+a-004163,acc-6640,2026-10-27T10:28:00Z,rules.v2,35.4,crm_email_reply:2.14;pricing_page_visit:0.65;intent_topic_surge:0.83,A,rep_omar, Routed,0.92,false
+a-004164,acc-2463,2026-10-27T12:33:00Z,v2,32.3,demo_page_visit:2.23;docs_visit:2.03,B,,control,0.92,
+a-004165,acc-4407,2026-10-29T14:29:00Z,rules.v2,60.911,intent_topic_surge:0.44;product_signup:2.23;product_usage_spike:1.65;pricing_page_visit:0.54,B,rep_lena, Routed,0.92,false
+a-004166,acc-1972,1793005260000,rules.v2,9.588,docs_visit:1.66;intent_topic_surge:1.1,C,rep_amara,explore,0.06,false
+a-004167,acc-2663,2026-10-28T09:35:00Z,rules.v2,43.0,pricing_page_visit:2.23;evaluating_alternatives:1.14,A,rep_sana,routed,0.92,
+a-004168,acc-4720,2026-10-26T08:10:00Z,rules.v2,30.532,pricing_page_visit:1.28;budget_confirmed:1.35,B,rep_lena,routed,0.92,false
+a-004169,acc-4434,2026-10-29 10:56:00,v2,37.71,product_usage_spike:1.55;pricing_page_visit:0.57;docs_visit:0.61,A,,control,0.92,false
+a-004170,acc-5828,1793296320000,v2,79.34,pricing_page_visit:1.81;demo_page_visit:1.5;product_signup:2.21,A,rep_dev,routed,0.92,false
+a-004171,acc-0814,2026-10-30T12:21:00Z,rules.v2,31.2885,pricing_page_visit:1.23;blog_visit:1.59;crm_email_reply:2.12,B,rep_dev, Routed,0.92,false
+a-004172,acc-7174,2026-10-28 12:02:00,v2,41.871,docs_visit:0.83;product_signup:1.57;product_usage_spike:1.29,B,rep_sana, Routed,0.92,false
+a-004173,acc-5932,2026-10-26T17:37:00Z,v2,37.4,hiring_gtm_ops:1.43;pricing_page_visit:1.1;webinar_attended:2.26,A,rep_omar, Routed,0.92,false
+a-004174,acc-1373,2026-10-26T10:28:00Z,rules.v2,25.212,product_usage_spike:0.56;pricing_page_visit:1.9;webinar_attended:0.89,C,,control,0.92,false
+a-004175,acc-3798,2026-10-26T14:12:00Z,rules.v2,25.075,intent_topic_surge:0.69;hiring_gtm_ops:0.69;blog_visit:0.7;evaluating_alternatives:2.02,B,rep_yuki,ROUTED,0.92,
+a-004176,acc-2477,2026-10-27T11:12:00Z,rules.v2,36.38,pricing_page_visit:1.2;intent_topic_surge:2.37;docs_visit:2.04,B,rep_dev, Routed,0.92,true
+a-004177,acc-7439,2026-10-30 10:29:00,rules.v2,59.33,intent_topic_surge:0.67;blog_visit:1.69;product_usage_spike:1.83;crm_email_reply:2.08,A,,Holdout,0.92,false
+a-004178,acc-1447,2026-10-29T13:21:00Z,rules.v2,31.603,demo_page_visit:1.02;intent_topic_surge:2.07;blog_visit:0.86,B,rep_sana,routed,0.92,false
+a-004179,acc-5685,1793029020000,v2,58.82,intent_topic_surge:1.3;pricing_page_visit:1.97;crm_email_reply:1.65;docs_visit:1.13,A,rep_lena,routed,0.92,false
+a-004180,acc-4284,2026-10-29T11:10:00Z,rules.v2,28.94,demo_page_visit:0.59;product_signup:1.3,A,rep_farid,routed,0.92,false
+a-004181,acc-7101,2026-10-29T15:26:00Z,rules.v2,67.48,seat_limit_reached:1.25;blog_visit:1.61;pricing_page_visit:1.58;product_signup:1.25,A,rep_farid, Routed,0.92,false
+a-004182,acc-2321,2026-10-28T11:34:00Z,v2,32.7165,docs_visit:1.53;webinar_attended:0.6;product_signup:1.68;intent_topic_surge:0.51,B,rep_dev,routed,0.92,false
+a-004183,acc-3171,2026-10-30T13:30:00Z,rules.v2,31.8,seat_limit_reached:2.01;pricing_page_visit:2.32,C,rep_lena,routed,0.92,false
+a-004184,acc-5663,2026-11-01T09:11:00Z,rules.v2,35.16,evaluating_alternatives:2.23;product_usage_spike:1.12,A,rep_lena,routed,0.92,false
+a-004185,acc-3181,2026-10-28T10:18:00Z,v2,25.54,intent_topic_surge:1.19;crm_meeting_booked:0.62,A,rep_tomas, Routed,0.92,false
+a-004186,acc-5922,2026-10-28T17:36:00Z,rules.v2,54.791,pricing_page_visit:2.0;docs_visit:1.77;product_signup:1.41;hiring_gtm_ops:1.04,B,rep_amara, Routed,0.92,false
+a-004187,acc-2110,1793092860000,rules.v2,35.0285,product_usage_spike:0.77;intent_topic_surge:1.44;demo_page_visit:0.5;docs_visit:1.65,B,rep_omar, Routed,0.92,false
+a-004188,acc-4858,2026-10-28 10:36:00,rules.v2,36.03,product_signup:1.94;crm_email_reply:0.77,A,rep_sana, Routed,0.92,false
+a-004189,acc-0715,2026-10-27T08:28:00Z,rules.v2,41.796,budget_confirmed:1.62;crm_email_reply:1.04;product_usage_spike:2.18;hiring_gtm_ops:0.63,C,rep_dev, Routed,0.92,
+a-004190,acc-5985,2026-10-27T15:18:00Z,v2,21.93,evaluating_alternatives:0.85;crm_email_reply:1.02,A,rep_sana,explore,0.06,true
+a-004191,acc-4794,2026-10-30T09:42:00Z,v2,43.333,pricing_page_visit:1.65;intent_topic_surge:1.32;crm_email_reply:1.48;blog_visit:1.36,B,rep_dev,routed,0.92,true
+a-004192,acc-2994,2026-10-26T16:06:00Z,rules.v2,60.35,budget_confirmed:1.61;seat_limit_reached:1.86;pricing_page_visit:2.06,B,rep_sana, Routed,0.92,false
+a-004193,acc-3778,2026-10-26T14:53:00Z,rules.v2,32.05,intent_topic_surge:1.79;evaluating_alternatives:0.65;hiring_gtm_ops:0.44,A,,holdout,0.92,false
+a-004194,acc-3966,2026-10-27 14:49:00,rules.v2,29.16,docs_visit:1.82;crm_email_reply:2.18;webinar_attended:0.95,A,rep_dev, Routed,0.92,false
+a-004195,acc-0704,2026-10-29T16:00:00Z,rules.v2,40.38,pricing_page_visit:1.09;demo_page_visit:1.57,A,rep_farid, Routed,0.92,false
+a-004196,acc-0064,2026-10-27T15:10:00Z,v2,30.3535,crm_email_reply:1.65;hiring_gtm_ops:1.23;webinar_attended:1.81,B,rep_tomas,routed,0.92,false
+a-004197,acc-5512,2026-10-29T16:57:00Z,rules.v2,39.0,seat_limit_reached:1.83;intent_topic_surge:1.4,A,rep_amara,routed,0.92,false
+a-004198,acc-1428,2026-10-30T09:31:00Z,v2,16.252,pricing_page_visit:1.22;docs_visit:0.68,B,rep_yuki,Explore,0.06,false
+a-004199,acc-4789,2026-10-30T15:35:00Z,rules.v2,8.724,hiring_gtm_ops:0.8;webinar_attended:1.09,C,rep_lena,Explore,0.06,
+a-004200,acc-7462,2026-10-27T14:44:00Z,rules.v2,27.07,crm_meeting_booked:1.04;docs_visit:1.69,,rep_amara,routed,0.92,false
+a-004201,acc-2155,2026-10-30T14:02:00Z,rules.v2,38.369,crm_email_reply:2.39;demo_page_visit:1.01;webinar_attended:1.83,B,rep_yuki,ROUTED,0.92,false
+a-004202,acc-7526,2026-10-27T15:26:00Z,v2,26.616,intent_topic_surge:2.11;crm_meeting_booked:2.24;docs_visit:0.64;blog_visit:0.44,C,rep_yuki,routed,0.92,true
+a-004203,acc-6301,2026-10-29T10:19:00Z,v2,7.5225,blog_visit:0.51;webinar_attended:1.39,B,rep_farid,explore,0.06,false
+a-004204,acc-3593,2026-10-30 13:13:00,rules.v2,32.57,crm_email_reply:2.08;blog_visit:2.34;docs_visit:1.17;webinar_attended:1.51,A,rep_sana,routed,0.92,false
+a-004205,acc-4500,2026-10-26T17:00:00Z,rules.v2,38.1055,pricing_page_visit:1.83;crm_email_reply:1.39;intent_topic_surge:0.67,B,rep_omar,routed,0.92,false
+a-004206,acc-2592,2026-10-26 17:51:00,rules.v2,43.95,crm_email_reply:1.75;intent_topic_surge:0.44;pricing_page_visit:1.7,A,rep_yuki, Routed,0.92,false
